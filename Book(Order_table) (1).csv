@@ -1,0 +1,1500 @@
+order_id,sku_name,sku_id,quantity,sku_mrp,dist_id,amount,order_date,dist_region,sku_category,order_year,order_month,dist_city,dist_state,dist_size_category
+7152,Ethanol 1L Can,ETH/1L/C,114,200,TL2348,22800,11/2/2023,South,Ethanol,2023,November,Hyderabad,Telangana,small 
+6611,Ethanol 1L Bottle,ETH/1L/B,123,100,RJ4367,12300,1/12/2022,North,Ethanol,2022,January,Jaipur,Rajasthan,small 
+4833,Ethanol 1L Bottle,ETH/1L/B,90,100,WB2346,9000,1/29/2022,East,Ethanol,2022,January,Kolkata,West Bengal,large
+7395,Propanol 1L Can,PROP/1L/C,116,1300,MH2345,150800,3/6/2020,West,Propanol,2020,March,Mumbai,Maharashtra,small 
+6656,Ethanol 3L Drum,ETH/3L/D,158,1500,TL2348,237000,1/8/2024,South,Ethanol,2024,January,Hyderabad,Telangana,small 
+6195,Ethanol 1L Can,ETH/1L/C,164,200,PU2675,32800,5/7/2024,North,Ethanol,2024,May,Bhatinda ,Punjab,large
+4081,Propanol 1L Bottle,PROP/1L/B,12,3426,MA2350,41112,3/27/2023,West,Propanol,2023,March,Pune,Maharashtra,small 
+7297,Butanol 2L Bottle,BUT/2L/B,95,657,WB2346,62415,5/3/2023,East,Butanol,2023,May,Kolkata,West Bengal,large
+6941,Propanol 1L Bottle,PROP/1L/B,115,3426,WB2346,393990,10/21/2022,East,Propanol,2022,October,Kolkata,West Bengal,large
+5573,Butanol 2L Bottle,BUT/2L/B,77,657,MA2350,50589,6/7/2022,West,Butanol,2022,June,Pune,Maharashtra,small 
+4184,Propanol 1L Can,PROP/1L/C,136,1300,RJ4367,176800,1/31/2020,North,Propanol,2020,January,Jaipur,Rajasthan,small 
+4414,Ethanol 1L Bottle,ETH/1L/B,76,100,RJ4367,7600,1/30/2021,North,Ethanol,2021,January,Jaipur,Rajasthan,small 
+4916,Propanol 1L Can,PROP/1L/C,107,1300,TL2348,139100,7/6/2021,South,Propanol,2021,July,Hyderabad,Telangana,small 
+5545,Propanol 3L Drum ,PROP/3L/D,118,1200,WB2346,141600,9/9/2022,East,Propanol,2022,September,Kolkata,West Bengal,large
+6469,Ethanol 1L Bottle,ETH/1L/B,144,100,TL2348,14400,3/25/2024,South,Ethanol,2024,March,Hyderabad,Telangana,small 
+4562,Ethanol 1L Bottle,ETH/1L/B,115,100,PU2675,11500,12/10/2021,North,Ethanol,2021,December,Bhatinda ,Punjab,large
+4498,Ethanol 1L Can,ETH/1L/C,10,200,TN2347,2000,2/23/2022,South,Ethanol,2022,February,Chennai,Tamil Nadu,large
+4488,Butanol 2L Bottle,BUT/2L/B,197,657,MA2350,129429,10/31/2024,West,Butanol,2024,October,Pune,Maharashtra,small 
+6011,Butanol 2L Bottle,BUT/2L/B,34,657,MH2345,22338,10/17/2021,West,Butanol,2021,October,Mumbai,Maharashtra,small 
+6714,Ethanol 1L Bottle,ETH/1L/B,85,100,AS9648,8500,2/10/2024,East,Ethanol,2024,February,Jorhat ,Assam,small 
+6453,Propanol 3L Drum ,PROP/3L/D,127,1200,KA2349,152400,5/31/2020,South,Propanol,2020,May,Bangalore,Karnataka,large
+4168,Ethanol 1L Can,ETH/1L/C,199,200,RJ4367,39800,11/3/2024,North,Ethanol,2024,November,Jaipur,Rajasthan,small 
+5366,Ethanol 3L Drum,ETH/3L/D,177,1500,WB2346,265500,1/23/2023,East,Ethanol,2023,January,Kolkata,West Bengal,large
+5501,Propanol 3L Drum ,PROP/3L/D,58,1200,RJ4367,69600,11/30/2020,North,Propanol,2020,November,Jaipur,Rajasthan,small 
+5721,Ethanol 1L Can,ETH/1L/C,75,200,TN2347,15000,4/27/2022,South,Ethanol,2022,April,Chennai,Tamil Nadu,large
+6148,Propanol 3L Drum ,PROP/3L/D,16,1200,AS9648,19200,2/11/2024,East,Propanol,2024,February,Jorhat ,Assam,small 
+7713,Ethanol 3L Drum,ETH/3L/D,144,1500,WB2346,216000,10/23/2021,East,Ethanol,2021,October,Kolkata,West Bengal,large
+7461,Butanol 2L Bottle,BUT/2L/B,141,657,PU2675,92637,8/14/2024,North,Butanol,2024,August,Bhatinda ,Punjab,large
+7199,Ethanol 3L Drum,ETH/3L/D,172,1500,TN2347,258000,11/29/2023,South,Ethanol,2023,November,Chennai,Tamil Nadu,large
+7162,Ethanol 1L Bottle,ETH/1L/B,102,100,RJ4367,10200,7/5/2022,North,Ethanol,2022,July,Jaipur,Rajasthan,small 
+4058,Propanol 1L Can,PROP/1L/C,170,1300,TN2347,221000,12/19/2023,South,Propanol,2023,December,Chennai,Tamil Nadu,large
+4357,Butanol 2L Bottle,BUT/2L/B,33,657,KA2349,21681,8/4/2023,South,Butanol,2023,August,Bangalore,Karnataka,large
+5893,Ethanol 1L Can,ETH/1L/C,131,200,WB2346,26200,5/4/2020,East,Ethanol,2020,May,Kolkata,West Bengal,large
+5933,Butanol 2L Bottle,BUT/2L/B,111,657,TL2348,72927,1/25/2022,South,Butanol,2022,January,Hyderabad,Telangana,small 
+6069,Ethanol 1L Can,ETH/1L/C,56,200,MH2345,11200,3/1/2024,West,Ethanol,2024,March,Mumbai,Maharashtra,small 
+7200,Propanol 1L Can,PROP/1L/C,171,1300,WB2346,222300,1/31/2023,East,Propanol,2023,January,Kolkata,West Bengal,large
+7655,Propanol 3L Drum ,PROP/3L/D,166,1200,TL2348,199200,3/19/2024,South,Propanol,2024,March,Hyderabad,Telangana,small 
+4197,Propanol 3L Drum ,PROP/3L/D,78,1200,KA2349,93600,6/13/2024,South,Propanol,2024,June,Bangalore,Karnataka,large
+5035,Propanol 1L Can,PROP/1L/C,187,1300,MA2350,243100,10/26/2020,West,Propanol,2020,October,Pune,Maharashtra,small 
+6996,Propanol 1L Can,PROP/1L/C,122,1300,KA2349,158600,4/17/2022,South,Propanol,2022,April,Bangalore,Karnataka,large
+6743,Propanol 1L Can,PROP/1L/C,32,1300,MA2350,41600,7/2/2022,West,Propanol,2022,July,Pune,Maharashtra,small 
+4818,Ethanol 1L Can,ETH/1L/C,167,200,TL2348,33400,11/1/2023,South,Ethanol,2023,November,Hyderabad,Telangana,small 
+6515,Ethanol 1L Bottle,ETH/1L/B,190,100,TL2348,19000,3/12/2022,South,Ethanol,2022,March,Hyderabad,Telangana,small 
+5448,Butanol 2L Bottle,BUT/2L/B,109,657,TN2347,71613,3/2/2022,South,Butanol,2022,March,Chennai,Tamil Nadu,large
+7471,Propanol 1L Bottle,PROP/1L/B,63,3426,AS9648,215838,4/8/2020,East,Propanol,2020,April,Jorhat ,Assam,small 
+4618,Propanol 1L Bottle,PROP/1L/B,140,3426,AS9648,479640,5/22/2020,East,Propanol,2020,May,Jorhat ,Assam,small 
+7388,Ethanol 1L Bottle,ETH/1L/B,120,100,TN2347,12000,2/20/2024,South,Ethanol,2024,February,Chennai,Tamil Nadu,large
+4758,Propanol 3L Drum ,PROP/3L/D,142,1200,AS9648,170400,4/14/2023,East,Propanol,2023,April,Jorhat ,Assam,small 
+5952,Ethanol 1L Can,ETH/1L/C,68,200,TL2348,13600,12/27/2022,South,Ethanol,2022,December,Hyderabad,Telangana,small 
+4422,Propanol 1L Can,PROP/1L/C,50,1300,TN2347,65000,8/13/2023,South,Propanol,2023,August,Chennai,Tamil Nadu,large
+7777,Ethanol 1L Can,ETH/1L/C,22,200,PU2675,4400,3/8/2022,North,Ethanol,2022,March,Bhatinda ,Punjab,large
+4100,Ethanol 1L Can,ETH/1L/C,104,200,TN2347,20800,11/13/2023,South,Ethanol,2023,November,Chennai,Tamil Nadu,large
+6256,Ethanol 1L Can,ETH/1L/C,26,200,KA2349,5200,9/14/2022,South,Ethanol,2022,September,Bangalore,Karnataka,large
+4925,Propanol 1L Can,PROP/1L/C,184,1300,AS9648,239200,2/5/2022,East,Propanol,2022,February,Jorhat ,Assam,small 
+6362,Propanol 3L Drum ,PROP/3L/D,68,1200,KA2349,81600,9/25/2024,South,Propanol,2024,September,Bangalore,Karnataka,large
+7930,Propanol 3L Drum ,PROP/3L/D,161,1200,MH2345,193200,4/4/2023,West,Propanol,2023,April,Mumbai,Maharashtra,small 
+4435,Propanol 1L Bottle,PROP/1L/B,113,3426,KA2349,387138,4/11/2023,South,Propanol,2023,April,Bangalore,Karnataka,large
+5714,Propanol 1L Bottle,PROP/1L/B,144,3426,PU2675,493344,11/10/2021,North,Propanol,2021,November,Bhatinda ,Punjab,large
+4617,Ethanol 3L Drum,ETH/3L/D,175,1500,KA2349,262500,1/26/2021,South,Ethanol,2021,January,Bangalore,Karnataka,large
+6471,Propanol 3L Drum ,PROP/3L/D,164,1200,WB2346,196800,5/22/2021,East,Propanol,2021,May,Kolkata,West Bengal,large
+5207,Propanol 1L Bottle,PROP/1L/B,20,3426,PU2675,68520,4/3/2021,North,Propanol,2021,April,Bhatinda ,Punjab,large
+5597,Ethanol 3L Drum,ETH/3L/D,171,1500,WB2346,256500,6/15/2022,East,Ethanol,2022,June,Kolkata,West Bengal,large
+5248,Propanol 1L Bottle,PROP/1L/B,28,3426,RJ4367,95928,1/21/2020,North,Propanol,2020,January,Jaipur,Rajasthan,small 
+4084,Propanol 1L Can,PROP/1L/C,97,1300,TL2348,126100,2/1/2022,South,Propanol,2022,February,Hyderabad,Telangana,small 
+6554,Propanol 3L Drum ,PROP/3L/D,186,1200,MA2350,223200,10/9/2023,West,Propanol,2023,October,Pune,Maharashtra,small 
+5881,Ethanol 1L Can,ETH/1L/C,147,200,TN2347,29400,8/7/2020,South,Ethanol,2020,August,Chennai,Tamil Nadu,large
+4155,Ethanol 3L Drum,ETH/3L/D,51,1500,WB2346,76500,9/29/2023,East,Ethanol,2023,September,Kolkata,West Bengal,large
+4075,Propanol 3L Drum ,PROP/3L/D,52,1200,AS9648,62400,10/1/2022,East,Propanol,2022,October,Jorhat ,Assam,small 
+4582,Ethanol 1L Bottle,ETH/1L/B,188,100,TN2347,18800,1/19/2020,South,Ethanol,2020,January,Chennai,Tamil Nadu,large
+4610,Ethanol 1L Bottle,ETH/1L/B,177,100,MH2345,17700,6/17/2024,West,Ethanol,2024,June,Mumbai,Maharashtra,small 
+5375,Propanol 1L Can,PROP/1L/C,49,1300,TN2347,63700,3/26/2023,South,Propanol,2023,March,Chennai,Tamil Nadu,large
+7892,Ethanol 3L Drum,ETH/3L/D,63,1500,WB2346,94500,11/28/2024,East,Ethanol,2024,November,Kolkata,West Bengal,large
+7178,Ethanol 1L Bottle,ETH/1L/B,41,100,KA2349,4100,12/7/2022,South,Ethanol,2022,December,Bangalore,Karnataka,large
+7021,Ethanol 3L Drum,ETH/3L/D,60,1500,MA2350,90000,5/12/2024,West,Ethanol,2024,May,Pune,Maharashtra,small 
+5932,Propanol 3L Drum ,PROP/3L/D,73,1200,PU2675,87600,8/15/2023,North,Propanol,2023,August,Bhatinda ,Punjab,large
+6597,Butanol 2L Bottle,BUT/2L/B,68,657,MH2345,44676,12/11/2020,West,Butanol,2020,December,Mumbai,Maharashtra,small 
+7564,Ethanol 3L Drum,ETH/3L/D,40,1500,MA2350,60000,6/1/2023,West,Ethanol,2023,June,Pune,Maharashtra,small 
+4688,Propanol 3L Drum ,PROP/3L/D,80,1200,RJ4367,96000,5/12/2020,North,Propanol,2020,May,Jaipur,Rajasthan,small 
+7492,Ethanol 1L Bottle,ETH/1L/B,162,100,MA2350,16200,9/30/2020,West,Ethanol,2020,September,Pune,Maharashtra,small 
+7089,Butanol 2L Bottle,BUT/2L/B,22,657,TL2348,14454,5/28/2024,South,Butanol,2024,May,Hyderabad,Telangana,small 
+5217,Propanol 3L Drum ,PROP/3L/D,192,1200,TN2347,230400,5/28/2021,South,Propanol,2021,May,Chennai,Tamil Nadu,large
+7638,Propanol 1L Bottle,PROP/1L/B,125,3426,AS9648,428250,12/29/2021,East,Propanol,2021,December,Jorhat ,Assam,small 
+6903,Propanol 1L Can,PROP/1L/C,123,1300,PU2675,159900,8/4/2022,North,Propanol,2022,August,Bhatinda ,Punjab,large
+4663,Ethanol 1L Bottle,ETH/1L/B,66,100,MH2345,6600,5/6/2020,West,Ethanol,2020,May,Mumbai,Maharashtra,small 
+5326,Propanol 3L Drum ,PROP/3L/D,124,1200,TL2348,148800,7/12/2021,South,Propanol,2021,July,Hyderabad,Telangana,small 
+7844,Propanol 3L Drum ,PROP/3L/D,92,1200,MH2345,110400,6/8/2020,West,Propanol,2020,June,Mumbai,Maharashtra,small 
+5087,Ethanol 1L Bottle,ETH/1L/B,116,100,AS9648,11600,1/30/2021,East,Ethanol,2021,January,Jorhat ,Assam,small 
+7311,Propanol 1L Can,PROP/1L/C,13,1300,RJ4367,16900,6/5/2024,North,Propanol,2024,June,Jaipur,Rajasthan,small 
+7537,Ethanol 1L Bottle,ETH/1L/B,163,100,MH2345,16300,3/9/2023,West,Ethanol,2023,March,Mumbai,Maharashtra,small 
+7360,Ethanol 1L Can,ETH/1L/C,190,200,PU2675,38000,8/8/2024,North,Ethanol,2024,August,Bhatinda ,Punjab,large
+7402,Propanol 1L Bottle,PROP/1L/B,70,3426,AS9648,239820,9/18/2021,East,Propanol,2021,September,Jorhat ,Assam,small 
+6637,Butanol 2L Bottle,BUT/2L/B,42,657,MH2345,27594,10/25/2021,West,Butanol,2021,October,Mumbai,Maharashtra,small 
+4145,Propanol 1L Bottle,PROP/1L/B,199,3426,AS9648,681774,1/23/2023,East,Propanol,2023,January,Jorhat ,Assam,small 
+5451,Propanol 1L Bottle,PROP/1L/B,117,3426,TN2347,400842,10/13/2021,South,Propanol,2021,October,Chennai,Tamil Nadu,large
+7598,Propanol 1L Bottle,PROP/1L/B,56,3426,MH2345,191856,2/28/2023,West,Propanol,2023,February,Mumbai,Maharashtra,small 
+6838,Propanol 1L Can,PROP/1L/C,11,1300,RJ4367,14300,8/16/2020,North,Propanol,2020,August,Jaipur,Rajasthan,small 
+7706,Ethanol 1L Can,ETH/1L/C,23,200,TN2347,4600,3/16/2023,South,Ethanol,2023,March,Chennai,Tamil Nadu,large
+7448,Ethanol 1L Can,ETH/1L/C,31,200,KA2349,6200,11/25/2023,South,Ethanol,2023,November,Bangalore,Karnataka,large
+5951,Propanol 3L Drum ,PROP/3L/D,191,1200,MA2350,229200,9/20/2021,West,Propanol,2021,September,Pune,Maharashtra,small 
+4429,Butanol 2L Bottle,BUT/2L/B,108,657,KA2349,70956,12/5/2020,South,Butanol,2020,December,Bangalore,Karnataka,large
+4525,Ethanol 1L Can,ETH/1L/C,154,200,WB2346,30800,4/10/2022,East,Ethanol,2022,April,Kolkata,West Bengal,large
+6635,Ethanol 1L Bottle,ETH/1L/B,27,100,TL2348,2700,5/4/2021,South,Ethanol,2021,May,Hyderabad,Telangana,small 
+5074,Ethanol 1L Can,ETH/1L/C,151,200,KA2349,30200,12/15/2021,South,Ethanol,2021,December,Bangalore,Karnataka,large
+5068,Propanol 1L Can,PROP/1L/C,112,1300,AS9648,145600,7/6/2020,East,Propanol,2020,July,Jorhat ,Assam,small 
+6947,Butanol 2L Bottle,BUT/2L/B,92,657,KA2349,60444,12/25/2023,South,Butanol,2023,December,Bangalore,Karnataka,large
+6321,Propanol 1L Can,PROP/1L/C,171,1300,AS9648,222300,7/20/2024,East,Propanol,2024,July,Jorhat ,Assam,small 
+7228,Ethanol 3L Drum,ETH/3L/D,56,1500,WB2346,84000,7/27/2020,East,Ethanol,2020,July,Kolkata,West Bengal,large
+6878,Ethanol 1L Can,ETH/1L/C,11,200,WB2346,2200,9/3/2024,East,Ethanol,2024,September,Kolkata,West Bengal,large
+5173,Propanol 1L Bottle,PROP/1L/B,66,3426,MH2345,226116,2/25/2020,West,Propanol,2020,February,Mumbai,Maharashtra,small 
+7914,Ethanol 1L Can,ETH/1L/C,11,200,TN2347,2200,3/31/2021,South,Ethanol,2021,March,Chennai,Tamil Nadu,large
+7030,Propanol 1L Can,PROP/1L/C,16,1300,WB2346,20800,11/29/2021,East,Propanol,2021,November,Kolkata,West Bengal,large
+5966,Ethanol 3L Drum,ETH/3L/D,46,1500,PU2675,69000,10/19/2024,North,Ethanol,2024,October,Bhatinda ,Punjab,large
+7487,Ethanol 1L Bottle,ETH/1L/B,168,100,MH2345,16800,7/26/2024,West,Ethanol,2024,July,Mumbai,Maharashtra,small 
+5283,Propanol 1L Can,PROP/1L/C,25,1300,MA2350,32500,11/15/2023,West,Propanol,2023,November,Pune,Maharashtra,small 
+4956,Ethanol 1L Bottle,ETH/1L/B,113,100,PU2675,11300,1/8/2020,North,Ethanol,2020,January,Bhatinda ,Punjab,large
+4991,Butanol 2L Bottle,BUT/2L/B,126,657,KA2349,82782,4/12/2024,South,Butanol,2024,April,Bangalore,Karnataka,large
+6069,Propanol 3L Drum ,PROP/3L/D,137,1200,MA2350,164400,9/29/2022,West,Propanol,2022,September,Pune,Maharashtra,small 
+5827,Ethanol 1L Bottle,ETH/1L/B,194,100,MA2350,19400,11/2/2023,West,Ethanol,2023,November,Pune,Maharashtra,small 
+7422,Propanol 1L Can,PROP/1L/C,53,1300,WB2346,68900,12/27/2020,East,Propanol,2020,December,Kolkata,West Bengal,large
+4341,Propanol 1L Can,PROP/1L/C,78,1300,AS9648,101400,2/20/2023,East,Propanol,2023,February,Jorhat ,Assam,small 
+4141,Propanol 1L Bottle,PROP/1L/B,17,3426,AS9648,58242,8/29/2020,East,Propanol,2020,August,Jorhat ,Assam,small 
+5553,Propanol 1L Can,PROP/1L/C,193,1300,PU2675,250900,2/17/2024,North,Propanol,2024,February,Bhatinda ,Punjab,large
+7928,Ethanol 3L Drum,ETH/3L/D,134,1500,AS9648,201000,7/7/2022,East,Ethanol,2022,July,Jorhat ,Assam,small 
+4777,Propanol 1L Bottle,PROP/1L/B,126,3426,WB2346,431676,2/2/2020,East,Propanol,2020,February,Kolkata,West Bengal,large
+7071,Ethanol 3L Drum,ETH/3L/D,60,1500,KA2349,90000,7/16/2021,South,Ethanol,2021,July,Bangalore,Karnataka,large
+5866,Ethanol 1L Can,ETH/1L/C,66,200,KA2349,13200,9/5/2020,South,Ethanol,2020,September,Bangalore,Karnataka,large
+5809,Propanol 3L Drum ,PROP/3L/D,175,1200,TN2347,210000,5/11/2020,South,Propanol,2020,May,Chennai,Tamil Nadu,large
+6391,Ethanol 3L Drum,ETH/3L/D,152,1500,RJ4367,228000,2/2/2024,North,Ethanol,2024,February,Jaipur,Rajasthan,small 
+7642,Ethanol 1L Can,ETH/1L/C,10,200,AS9648,2000,10/1/2022,East,Ethanol,2022,October,Jorhat ,Assam,small 
+5420,Ethanol 3L Drum,ETH/3L/D,122,1500,TN2347,183000,6/18/2021,South,Ethanol,2021,June,Chennai,Tamil Nadu,large
+4072,Ethanol 3L Drum,ETH/3L/D,116,1500,KA2349,174000,9/15/2020,South,Ethanol,2020,September,Bangalore,Karnataka,large
+7449,Propanol 1L Can,PROP/1L/C,186,1300,PU2675,241800,10/24/2021,North,Propanol,2021,October,Bhatinda ,Punjab,large
+7857,Ethanol 1L Can,ETH/1L/C,74,200,KA2349,14800,8/2/2020,South,Ethanol,2020,August,Bangalore,Karnataka,large
+7510,Propanol 3L Drum ,PROP/3L/D,26,1200,TN2347,31200,7/11/2022,South,Propanol,2022,July,Chennai,Tamil Nadu,large
+7255,Butanol 2L Bottle,BUT/2L/B,59,657,AS9648,38763,10/28/2021,East,Butanol,2021,October,Jorhat ,Assam,small 
+5731,Propanol 1L Can,PROP/1L/C,63,1300,MH2345,81900,6/5/2023,West,Propanol,2023,June,Mumbai,Maharashtra,small 
+6261,Ethanol 1L Bottle,ETH/1L/B,152,100,KA2349,15200,8/11/2020,South,Ethanol,2020,August,Bangalore,Karnataka,large
+7501,Ethanol 3L Drum,ETH/3L/D,149,1500,PU2675,223500,9/6/2020,North,Ethanol,2020,September,Bhatinda ,Punjab,large
+5349,Propanol 1L Can,PROP/1L/C,18,1300,MA2350,23400,6/5/2023,West,Propanol,2023,June,Pune,Maharashtra,small 
+6713,Ethanol 1L Can,ETH/1L/C,99,200,WB2346,19800,4/26/2020,East,Ethanol,2020,April,Kolkata,West Bengal,large
+7762,Propanol 1L Can,PROP/1L/C,76,1300,AS9648,98800,6/6/2021,East,Propanol,2021,June,Jorhat ,Assam,small 
+7416,Propanol 1L Bottle,PROP/1L/B,89,3426,WB2346,304914,1/3/2020,East,Propanol,2020,January,Kolkata,West Bengal,large
+7041,Ethanol 1L Can,ETH/1L/C,129,200,RJ4367,25800,4/26/2024,North,Ethanol,2024,April,Jaipur,Rajasthan,small 
+4844,Ethanol 1L Bottle,ETH/1L/B,119,100,MH2345,11900,2/11/2023,West,Ethanol,2023,February,Mumbai,Maharashtra,small 
+7577,Propanol 3L Drum ,PROP/3L/D,39,1200,MA2350,46800,12/28/2020,West,Propanol,2020,December,Pune,Maharashtra,small 
+7051,Propanol 1L Can,PROP/1L/C,81,1300,MH2345,105300,12/15/2024,West,Propanol,2024,December,Mumbai,Maharashtra,small 
+4325,Ethanol 1L Bottle,ETH/1L/B,166,100,RJ4367,16600,6/11/2021,North,Ethanol,2021,June,Jaipur,Rajasthan,small 
+5578,Propanol 3L Drum ,PROP/3L/D,51,1200,TN2347,61200,3/19/2020,South,Propanol,2020,March,Chennai,Tamil Nadu,large
+7930,Ethanol 1L Can,ETH/1L/C,159,200,MH2345,31800,10/3/2024,West,Ethanol,2024,October,Mumbai,Maharashtra,small 
+4035,Ethanol 1L Bottle,ETH/1L/B,23,100,KA2349,2300,4/28/2023,South,Ethanol,2023,April,Bangalore,Karnataka,large
+7234,Ethanol 1L Can,ETH/1L/C,52,200,TN2347,10400,10/7/2022,South,Ethanol,2022,October,Chennai,Tamil Nadu,large
+4153,Propanol 1L Can,PROP/1L/C,107,1300,TN2347,139100,3/15/2022,South,Propanol,2022,March,Chennai,Tamil Nadu,large
+4908,Ethanol 1L Can,ETH/1L/C,114,200,WB2346,22800,3/28/2023,East,Ethanol,2023,March,Kolkata,West Bengal,large
+7808,Propanol 1L Bottle,PROP/1L/B,45,3426,RJ4367,154170,6/9/2021,North,Propanol,2021,June,Jaipur,Rajasthan,small 
+7603,Ethanol 1L Bottle,ETH/1L/B,177,100,TN2347,17700,8/22/2020,South,Ethanol,2020,August,Chennai,Tamil Nadu,large
+5246,Ethanol 1L Bottle,ETH/1L/B,20,100,AS9648,2000,6/15/2020,East,Ethanol,2020,June,Jorhat ,Assam,small 
+7001,Propanol 1L Can,PROP/1L/C,101,1300,WB2346,131300,12/11/2024,East,Propanol,2024,December,Kolkata,West Bengal,large
+6181,Ethanol 1L Can,ETH/1L/C,166,200,TL2348,33200,12/16/2022,South,Ethanol,2022,December,Hyderabad,Telangana,small 
+5274,Propanol 1L Bottle,PROP/1L/B,115,3426,MA2350,393990,3/13/2020,West,Propanol,2020,March,Pune,Maharashtra,small 
+4079,Propanol 3L Drum ,PROP/3L/D,92,1200,AS9648,110400,9/1/2022,East,Propanol,2022,September,Jorhat ,Assam,small 
+7006,Propanol 1L Can,PROP/1L/C,136,1300,KA2349,176800,10/7/2021,South,Propanol,2021,October,Bangalore,Karnataka,large
+5874,Propanol 3L Drum ,PROP/3L/D,190,1200,KA2349,228000,4/30/2023,South,Propanol,2023,April,Bangalore,Karnataka,large
+6608,Ethanol 1L Can,ETH/1L/C,195,200,MA2350,39000,12/27/2022,West,Ethanol,2022,December,Pune,Maharashtra,small 
+5420,Propanol 3L Drum ,PROP/3L/D,125,1200,KA2349,150000,9/12/2021,South,Propanol,2021,September,Bangalore,Karnataka,large
+7617,Propanol 1L Can,PROP/1L/C,75,1300,AS9648,97500,6/29/2022,East,Propanol,2022,June,Jorhat ,Assam,small 
+4780,Ethanol 1L Can,ETH/1L/C,104,200,TN2347,20800,1/12/2023,South,Ethanol,2023,January,Chennai,Tamil Nadu,large
+7868,Propanol 1L Bottle,PROP/1L/B,61,3426,RJ4367,208986,12/9/2020,North,Propanol,2020,December,Jaipur,Rajasthan,small 
+5427,Propanol 1L Can,PROP/1L/C,109,1300,WB2346,141700,10/24/2022,East,Propanol,2022,October,Kolkata,West Bengal,large
+7324,Butanol 2L Bottle,BUT/2L/B,54,657,WB2346,35478,11/14/2024,East,Butanol,2024,November,Kolkata,West Bengal,large
+6720,Butanol 2L Bottle,BUT/2L/B,188,657,MH2345,123516,1/8/2024,West,Butanol,2024,January,Mumbai,Maharashtra,small 
+4883,Ethanol 1L Bottle,ETH/1L/B,53,100,TL2348,5300,2/25/2020,South,Ethanol,2020,February,Hyderabad,Telangana,small 
+5007,Propanol 1L Can,PROP/1L/C,36,1300,MA2350,46800,4/12/2024,West,Propanol,2024,April,Pune,Maharashtra,small 
+4396,Ethanol 1L Bottle,ETH/1L/B,161,100,WB2346,16100,5/31/2022,East,Ethanol,2022,May,Kolkata,West Bengal,large
+6090,Butanol 2L Bottle,BUT/2L/B,30,657,WB2346,19710,10/10/2020,East,Butanol,2020,October,Kolkata,West Bengal,large
+5734,Ethanol 1L Can,ETH/1L/C,163,200,RJ4367,32600,6/4/2024,North,Ethanol,2024,June,Jaipur,Rajasthan,small 
+7388,Ethanol 1L Can,ETH/1L/C,186,200,MA2350,37200,10/31/2024,West,Ethanol,2024,October,Pune,Maharashtra,small 
+6856,Ethanol 1L Bottle,ETH/1L/B,71,100,TN2347,7100,4/17/2024,South,Ethanol,2024,April,Chennai,Tamil Nadu,large
+6179,Propanol 1L Can,PROP/1L/C,24,1300,PU2675,31200,11/18/2024,North,Propanol,2024,November,Bhatinda ,Punjab,large
+7844,Propanol 3L Drum ,PROP/3L/D,60,1200,AS9648,72000,6/3/2022,East,Propanol,2022,June,Jorhat ,Assam,small 
+7135,Propanol 1L Bottle,PROP/1L/B,190,3426,WB2346,650940,2/1/2022,East,Propanol,2022,February,Kolkata,West Bengal,large
+6933,Butanol 2L Bottle,BUT/2L/B,163,657,PU2675,107091,9/20/2021,North,Butanol,2021,September,Bhatinda ,Punjab,large
+4933,Ethanol 1L Bottle,ETH/1L/B,74,100,TN2347,7400,3/27/2021,South,Ethanol,2021,March,Chennai,Tamil Nadu,large
+7873,Propanol 1L Bottle,PROP/1L/B,89,3426,MA2350,304914,11/13/2020,West,Propanol,2020,November,Pune,Maharashtra,small 
+4151,Ethanol 1L Can,ETH/1L/C,89,200,MH2345,17800,10/18/2021,West,Ethanol,2021,October,Mumbai,Maharashtra,small 
+5277,Propanol 1L Can,PROP/1L/C,109,1300,TL2348,141700,9/4/2024,South,Propanol,2024,September,Hyderabad,Telangana,small 
+5986,Butanol 2L Bottle,BUT/2L/B,116,657,PU2675,76212,7/18/2021,North,Butanol,2021,July,Bhatinda ,Punjab,large
+7624,Ethanol 1L Bottle,ETH/1L/B,57,100,TL2348,5700,8/24/2023,South,Ethanol,2023,August,Hyderabad,Telangana,small 
+7235,Propanol 3L Drum ,PROP/3L/D,85,1200,RJ4367,102000,5/9/2021,North,Propanol,2021,May,Jaipur,Rajasthan,small 
+5785,Butanol 2L Bottle,BUT/2L/B,82,657,TN2347,53874,12/14/2021,South,Butanol,2021,December,Chennai,Tamil Nadu,large
+5241,Propanol 1L Can,PROP/1L/C,172,1300,WB2346,223600,10/20/2021,East,Propanol,2021,October,Kolkata,West Bengal,large
+4272,Propanol 1L Bottle,PROP/1L/B,98,3426,PU2675,335748,7/21/2021,North,Propanol,2021,July,Bhatinda ,Punjab,large
+5849,Propanol 1L Can,PROP/1L/C,177,1300,PU2675,230100,7/2/2022,North,Propanol,2022,July,Bhatinda ,Punjab,large
+6854,Propanol 1L Can,PROP/1L/C,193,1300,TN2347,250900,5/12/2024,South,Propanol,2024,May,Chennai,Tamil Nadu,large
+5829,Propanol 1L Bottle,PROP/1L/B,130,3426,RJ4367,445380,11/2/2023,North,Propanol,2023,November,Jaipur,Rajasthan,small 
+5724,Ethanol 1L Bottle,ETH/1L/B,199,100,TL2348,19900,3/26/2024,South,Ethanol,2024,March,Hyderabad,Telangana,small 
+6339,Ethanol 1L Bottle,ETH/1L/B,80,100,PU2675,8000,10/23/2023,North,Ethanol,2023,October,Bhatinda ,Punjab,large
+7578,Ethanol 3L Drum,ETH/3L/D,93,1500,TL2348,139500,4/17/2023,South,Ethanol,2023,April,Hyderabad,Telangana,small 
+7415,Ethanol 3L Drum,ETH/3L/D,187,1500,PU2675,280500,4/28/2024,North,Ethanol,2024,April,Bhatinda ,Punjab,large
+5577,Ethanol 1L Can,ETH/1L/C,188,200,WB2346,37600,10/25/2023,East,Ethanol,2023,October,Kolkata,West Bengal,large
+6454,Propanol 1L Can,PROP/1L/C,119,1300,TL2348,154700,8/29/2022,South,Propanol,2022,August,Hyderabad,Telangana,small 
+5338,Ethanol 1L Bottle,ETH/1L/B,10,100,TL2348,1000,4/6/2021,South,Ethanol,2021,April,Hyderabad,Telangana,small 
+4816,Propanol 3L Drum ,PROP/3L/D,80,1200,TL2348,96000,10/18/2022,South,Propanol,2022,October,Hyderabad,Telangana,small 
+7683,Ethanol 3L Drum,ETH/3L/D,122,1500,PU2675,183000,3/17/2023,North,Ethanol,2023,March,Bhatinda ,Punjab,large
+6982,Ethanol 1L Bottle,ETH/1L/B,181,100,PU2675,18100,10/24/2023,North,Ethanol,2023,October,Bhatinda ,Punjab,large
+6473,Propanol 3L Drum ,PROP/3L/D,123,1200,RJ4367,147600,7/28/2020,North,Propanol,2020,July,Jaipur,Rajasthan,small 
+5941,Propanol 3L Drum ,PROP/3L/D,20,1200,TN2347,24000,1/9/2020,South,Propanol,2020,January,Chennai,Tamil Nadu,large
+6611,Ethanol 1L Bottle,ETH/1L/B,142,100,MH2345,14200,5/14/2022,West,Ethanol,2022,May,Mumbai,Maharashtra,small 
+5102,Propanol 1L Bottle,PROP/1L/B,33,3426,MA2350,113058,10/27/2022,West,Propanol,2022,October,Pune,Maharashtra,small 
+4408,Ethanol 1L Bottle,ETH/1L/B,59,100,TL2348,5900,1/12/2023,South,Ethanol,2023,January,Hyderabad,Telangana,small 
+5729,Propanol 1L Can,PROP/1L/C,190,1300,MH2345,247000,12/2/2022,West,Propanol,2022,December,Mumbai,Maharashtra,small 
+6199,Ethanol 3L Drum,ETH/3L/D,131,1500,WB2346,196500,8/15/2024,East,Ethanol,2024,August,Kolkata,West Bengal,large
+6551,Propanol 1L Can,PROP/1L/C,22,1300,MA2350,28600,5/25/2023,West,Propanol,2023,May,Pune,Maharashtra,small 
+4627,Ethanol 1L Can,ETH/1L/C,112,200,PU2675,22400,10/21/2021,North,Ethanol,2021,October,Bhatinda ,Punjab,large
+4764,Butanol 2L Bottle,BUT/2L/B,82,657,TN2347,53874,5/15/2021,South,Butanol,2021,May,Chennai,Tamil Nadu,large
+6671,Propanol 1L Can,PROP/1L/C,86,1300,WB2346,111800,7/2/2022,East,Propanol,2022,July,Kolkata,West Bengal,large
+5823,Ethanol 3L Drum,ETH/3L/D,180,1500,MH2345,270000,7/15/2022,West,Ethanol,2022,July,Mumbai,Maharashtra,small 
+6419,Ethanol 3L Drum,ETH/3L/D,105,1500,AS9648,157500,11/12/2024,East,Ethanol,2024,November,Jorhat ,Assam,small 
+7570,Ethanol 1L Can,ETH/1L/C,72,200,WB2346,14400,1/21/2020,East,Ethanol,2020,January,Kolkata,West Bengal,large
+7972,Propanol 1L Bottle,PROP/1L/B,106,3426,WB2346,363156,12/1/2021,East,Propanol,2021,December,Kolkata,West Bengal,large
+4882,Butanol 2L Bottle,BUT/2L/B,12,657,AS9648,7884,2/8/2021,East,Butanol,2021,February,Jorhat ,Assam,small 
+6664,Butanol 2L Bottle,BUT/2L/B,115,657,TN2347,75555,2/23/2021,South,Butanol,2021,February,Chennai,Tamil Nadu,large
+4299,Butanol 2L Bottle,BUT/2L/B,188,657,RJ4367,123516,1/21/2020,North,Butanol,2020,January,Jaipur,Rajasthan,small 
+4922,Propanol 1L Can,PROP/1L/C,178,1300,TL2348,231400,12/25/2024,South,Propanol,2024,December,Hyderabad,Telangana,small 
+7050,Propanol 1L Can,PROP/1L/C,115,1300,TL2348,149500,1/11/2023,South,Propanol,2023,January,Hyderabad,Telangana,small 
+7622,Ethanol 3L Drum,ETH/3L/D,147,1500,RJ4367,220500,9/14/2022,North,Ethanol,2022,September,Jaipur,Rajasthan,small 
+6555,Ethanol 1L Can,ETH/1L/C,63,200,MA2350,12600,9/18/2021,West,Ethanol,2021,September,Pune,Maharashtra,small 
+7630,Propanol 1L Can,PROP/1L/C,64,1300,RJ4367,83200,8/31/2022,North,Propanol,2022,August,Jaipur,Rajasthan,small 
+4083,Propanol 1L Bottle,PROP/1L/B,135,3426,RJ4367,462510,6/16/2024,North,Propanol,2024,June,Jaipur,Rajasthan,small 
+5638,Propanol 1L Bottle,PROP/1L/B,94,3426,KA2349,322044,12/20/2022,South,Propanol,2022,December,Bangalore,Karnataka,large
+7533,Propanol 3L Drum ,PROP/3L/D,149,1200,MA2350,178800,1/25/2020,West,Propanol,2020,January,Pune,Maharashtra,small 
+7486,Ethanol 3L Drum,ETH/3L/D,150,1500,RJ4367,225000,3/6/2023,North,Ethanol,2023,March,Jaipur,Rajasthan,small 
+7462,Butanol 2L Bottle,BUT/2L/B,183,657,WB2346,120231,7/28/2020,East,Butanol,2020,July,Kolkata,West Bengal,large
+7323,Ethanol 1L Bottle,ETH/1L/B,182,100,KA2349,18200,7/24/2023,South,Ethanol,2023,July,Bangalore,Karnataka,large
+5002,Butanol 2L Bottle,BUT/2L/B,197,657,TL2348,129429,11/5/2021,South,Butanol,2021,November,Hyderabad,Telangana,small 
+7747,Ethanol 3L Drum,ETH/3L/D,197,1500,MA2350,295500,7/26/2024,West,Ethanol,2024,July,Pune,Maharashtra,small 
+5159,Butanol 2L Bottle,BUT/2L/B,85,657,KA2349,55845,12/27/2024,South,Butanol,2024,December,Bangalore,Karnataka,large
+4331,Propanol 1L Bottle,PROP/1L/B,99,3426,MA2350,339174,11/14/2023,West,Propanol,2023,November,Pune,Maharashtra,small 
+5829,Propanol 3L Drum ,PROP/3L/D,24,1200,RJ4367,28800,3/11/2021,North,Propanol,2021,March,Jaipur,Rajasthan,small 
+5312,Ethanol 1L Bottle,ETH/1L/B,117,100,AS9648,11700,2/18/2020,East,Ethanol,2020,February,Jorhat ,Assam,small 
+4278,Propanol 1L Can,PROP/1L/C,121,1300,PU2675,157300,6/15/2021,North,Propanol,2021,June,Bhatinda ,Punjab,large
+7721,Propanol 1L Can,PROP/1L/C,67,1300,AS9648,87100,3/11/2022,East,Propanol,2022,March,Jorhat ,Assam,small 
+7218,Ethanol 1L Bottle,ETH/1L/B,171,100,TN2347,17100,12/12/2023,South,Ethanol,2023,December,Chennai,Tamil Nadu,large
+5904,Ethanol 1L Bottle,ETH/1L/B,158,100,PU2675,15800,9/16/2023,North,Ethanol,2023,September,Bhatinda ,Punjab,large
+5812,Ethanol 1L Can,ETH/1L/C,29,200,TN2347,5800,12/7/2024,South,Ethanol,2024,December,Chennai,Tamil Nadu,large
+4637,Ethanol 1L Can,ETH/1L/C,65,200,KA2349,13000,5/20/2023,South,Ethanol,2023,May,Bangalore,Karnataka,large
+4308,Butanol 2L Bottle,BUT/2L/B,138,657,MH2345,90666,9/5/2023,West,Butanol,2023,September,Mumbai,Maharashtra,small 
+7729,Ethanol 1L Bottle,ETH/1L/B,102,100,TL2348,10200,5/9/2024,South,Ethanol,2024,May,Hyderabad,Telangana,small 
+6149,Ethanol 1L Can,ETH/1L/C,145,200,PU2675,29000,11/24/2020,North,Ethanol,2020,November,Bhatinda ,Punjab,large
+5971,Ethanol 1L Bottle,ETH/1L/B,163,100,KA2349,16300,3/24/2024,South,Ethanol,2024,March,Bangalore,Karnataka,large
+5352,Propanol 1L Can,PROP/1L/C,94,1300,KA2349,122200,9/26/2024,South,Propanol,2024,September,Bangalore,Karnataka,large
+5635,Ethanol 1L Bottle,ETH/1L/B,36,100,RJ4367,3600,9/27/2023,North,Ethanol,2023,September,Jaipur,Rajasthan,small 
+4343,Propanol 3L Drum ,PROP/3L/D,26,1200,WB2346,31200,11/11/2023,East,Propanol,2023,November,Kolkata,West Bengal,large
+6658,Ethanol 1L Bottle,ETH/1L/B,117,100,PU2675,11700,9/1/2021,North,Ethanol,2021,September,Bhatinda ,Punjab,large
+6789,Propanol 3L Drum ,PROP/3L/D,132,1200,TN2347,158400,11/10/2021,South,Propanol,2021,November,Chennai,Tamil Nadu,large
+4173,Butanol 2L Bottle,BUT/2L/B,18,657,TN2347,11826,4/24/2022,South,Butanol,2022,April,Chennai,Tamil Nadu,large
+5807,Propanol 1L Can,PROP/1L/C,95,1300,TN2347,123500,11/5/2023,South,Propanol,2023,November,Chennai,Tamil Nadu,large
+5524,Butanol 2L Bottle,BUT/2L/B,56,657,TN2347,36792,8/30/2021,South,Butanol,2021,August,Chennai,Tamil Nadu,large
+5046,Ethanol 1L Can,ETH/1L/C,30,200,KA2349,6000,2/9/2020,South,Ethanol,2020,February,Bangalore,Karnataka,large
+5278,Ethanol 3L Drum,ETH/3L/D,160,1500,AS9648,240000,11/1/2024,East,Ethanol,2024,November,Jorhat ,Assam,small 
+6108,Propanol 1L Can,PROP/1L/C,161,1300,MA2350,209300,12/16/2024,West,Propanol,2024,December,Pune,Maharashtra,small 
+7855,Propanol 1L Bottle,PROP/1L/B,111,3426,PU2675,380286,1/2/2021,North,Propanol,2021,January,Bhatinda ,Punjab,large
+6955,Butanol 2L Bottle,BUT/2L/B,146,657,TL2348,95922,2/5/2021,South,Butanol,2021,February,Hyderabad,Telangana,small 
+6428,Butanol 2L Bottle,BUT/2L/B,43,657,AS9648,28251,1/5/2024,East,Butanol,2024,January,Jorhat ,Assam,small 
+4706,Ethanol 1L Can,ETH/1L/C,60,200,PU2675,12000,12/28/2020,North,Ethanol,2020,December,Bhatinda ,Punjab,large
+7818,Ethanol 3L Drum,ETH/3L/D,125,1500,AS9648,187500,6/18/2021,East,Ethanol,2021,June,Jorhat ,Assam,small 
+4464,Ethanol 3L Drum,ETH/3L/D,126,1500,TL2348,189000,1/31/2024,South,Ethanol,2024,January,Hyderabad,Telangana,small 
+4215,Propanol 1L Can,PROP/1L/C,46,1300,MA2350,59800,5/7/2021,West,Propanol,2021,May,Pune,Maharashtra,small 
+4786,Propanol 3L Drum ,PROP/3L/D,190,1200,MA2350,228000,7/9/2024,West,Propanol,2024,July,Pune,Maharashtra,small 
+4183,Propanol 1L Bottle,PROP/1L/B,105,3426,TN2347,359730,1/16/2023,South,Propanol,2023,January,Chennai,Tamil Nadu,large
+6023,Ethanol 1L Can,ETH/1L/C,150,200,PU2675,30000,1/25/2020,North,Ethanol,2020,January,Bhatinda ,Punjab,large
+5266,Ethanol 3L Drum,ETH/3L/D,34,1500,KA2349,51000,6/9/2023,South,Ethanol,2023,June,Bangalore,Karnataka,large
+7548,Ethanol 1L Can,ETH/1L/C,114,200,MH2345,22800,12/3/2024,West,Ethanol,2024,December,Mumbai,Maharashtra,small 
+6861,Ethanol 1L Bottle,ETH/1L/B,172,100,TL2348,17200,11/1/2023,South,Ethanol,2023,November,Hyderabad,Telangana,small 
+6006,Ethanol 3L Drum,ETH/3L/D,172,1500,MH2345,258000,3/4/2021,West,Ethanol,2021,March,Mumbai,Maharashtra,small 
+5053,Ethanol 1L Can,ETH/1L/C,28,200,TN2347,5600,1/28/2020,South,Ethanol,2020,January,Chennai,Tamil Nadu,large
+7629,Propanol 1L Bottle,PROP/1L/B,72,3426,MA2350,246672,12/11/2021,West,Propanol,2021,December,Pune,Maharashtra,small 
+5647,Ethanol 3L Drum,ETH/3L/D,177,1500,TN2347,265500,2/16/2020,South,Ethanol,2020,February,Chennai,Tamil Nadu,large
+4788,Ethanol 1L Bottle,ETH/1L/B,198,100,PU2675,19800,8/13/2021,North,Ethanol,2021,August,Bhatinda ,Punjab,large
+6595,Ethanol 3L Drum,ETH/3L/D,198,1500,RJ4367,297000,5/4/2022,North,Ethanol,2022,May,Jaipur,Rajasthan,small 
+7204,Propanol 1L Can,PROP/1L/C,174,1300,PU2675,226200,9/3/2022,North,Propanol,2022,September,Bhatinda ,Punjab,large
+4212,Propanol 1L Bottle,PROP/1L/B,124,3426,AS9648,424824,6/5/2023,East,Propanol,2023,June,Jorhat ,Assam,small 
+7274,Butanol 2L Bottle,BUT/2L/B,126,657,TL2348,82782,2/19/2022,South,Butanol,2022,February,Hyderabad,Telangana,small 
+6273,Ethanol 3L Drum,ETH/3L/D,158,1500,KA2349,237000,1/17/2020,South,Ethanol,2020,January,Bangalore,Karnataka,large
+6206,Ethanol 3L Drum,ETH/3L/D,90,1500,PU2675,135000,4/24/2024,North,Ethanol,2024,April,Bhatinda ,Punjab,large
+4782,Ethanol 3L Drum,ETH/3L/D,151,1500,AS9648,226500,8/12/2023,East,Ethanol,2023,August,Jorhat ,Assam,small 
+4691,Ethanol 3L Drum,ETH/3L/D,21,1500,TN2347,31500,11/3/2021,South,Ethanol,2021,November,Chennai,Tamil Nadu,large
+5648,Ethanol 1L Bottle,ETH/1L/B,116,100,TN2347,11600,6/7/2021,South,Ethanol,2021,June,Chennai,Tamil Nadu,large
+7938,Propanol 3L Drum ,PROP/3L/D,182,1200,KA2349,218400,6/6/2023,South,Propanol,2023,June,Bangalore,Karnataka,large
+7894,Ethanol 3L Drum,ETH/3L/D,49,1500,TN2347,73500,2/3/2023,South,Ethanol,2023,February,Chennai,Tamil Nadu,large
+6346,Ethanol 1L Bottle,ETH/1L/B,159,100,MH2345,15900,3/22/2021,West,Ethanol,2021,March,Mumbai,Maharashtra,small 
+7682,Ethanol 1L Bottle,ETH/1L/B,22,100,TL2348,2200,5/11/2022,South,Ethanol,2022,May,Hyderabad,Telangana,small 
+4245,Ethanol 3L Drum,ETH/3L/D,125,1500,TN2347,187500,3/29/2022,South,Ethanol,2022,March,Chennai,Tamil Nadu,large
+4505,Propanol 1L Bottle,PROP/1L/B,181,3426,TL2348,620106,7/28/2022,South,Propanol,2022,July,Hyderabad,Telangana,small 
+7344,Ethanol 1L Can,ETH/1L/C,139,200,TN2347,27800,6/17/2020,South,Ethanol,2020,June,Chennai,Tamil Nadu,large
+6735,Butanol 2L Bottle,BUT/2L/B,180,657,RJ4367,118260,5/9/2024,North,Butanol,2024,May,Jaipur,Rajasthan,small 
+6871,Ethanol 1L Can,ETH/1L/C,49,200,RJ4367,9800,11/1/2021,North,Ethanol,2021,November,Jaipur,Rajasthan,small 
+6268,Propanol 1L Can,PROP/1L/C,44,1300,TL2348,57200,3/23/2021,South,Propanol,2021,March,Hyderabad,Telangana,small 
+5831,Ethanol 3L Drum,ETH/3L/D,166,1500,WB2346,249000,1/3/2020,East,Ethanol,2020,January,Kolkata,West Bengal,large
+5674,Butanol 2L Bottle,BUT/2L/B,19,657,AS9648,12483,12/12/2022,East,Butanol,2022,December,Jorhat ,Assam,small 
+5614,Butanol 2L Bottle,BUT/2L/B,165,657,TL2348,108405,12/11/2022,South,Butanol,2022,December,Hyderabad,Telangana,small 
+7358,Propanol 3L Drum ,PROP/3L/D,120,1200,MH2345,144000,9/7/2020,West,Propanol,2020,September,Mumbai,Maharashtra,small 
+7242,Propanol 1L Can,PROP/1L/C,157,1300,TN2347,204100,8/14/2023,South,Propanol,2023,August,Chennai,Tamil Nadu,large
+7483,Propanol 1L Bottle,PROP/1L/B,169,3426,AS9648,578994,5/11/2024,East,Propanol,2024,May,Jorhat ,Assam,small 
+6360,Ethanol 1L Bottle,ETH/1L/B,77,100,MH2345,7700,2/5/2022,West,Ethanol,2022,February,Mumbai,Maharashtra,small 
+6372,Butanol 2L Bottle,BUT/2L/B,58,657,MH2345,38106,4/2/2023,West,Butanol,2023,April,Mumbai,Maharashtra,small 
+4684,Ethanol 3L Drum,ETH/3L/D,43,1500,MA2350,64500,4/28/2022,West,Ethanol,2022,April,Pune,Maharashtra,small 
+7408,Butanol 2L Bottle,BUT/2L/B,39,657,RJ4367,25623,1/21/2023,North,Butanol,2023,January,Jaipur,Rajasthan,small 
+5614,Propanol 1L Can,PROP/1L/C,100,1300,MA2350,130000,10/1/2020,West,Propanol,2020,October,Pune,Maharashtra,small 
+6011,Butanol 2L Bottle,BUT/2L/B,197,657,RJ4367,129429,3/19/2021,North,Butanol,2021,March,Jaipur,Rajasthan,small 
+5223,Ethanol 3L Drum,ETH/3L/D,36,1500,TN2347,54000,8/7/2020,South,Ethanol,2020,August,Chennai,Tamil Nadu,large
+6275,Ethanol 1L Can,ETH/1L/C,128,200,WB2346,25600,4/12/2022,East,Ethanol,2022,April,Kolkata,West Bengal,large
+5000,Propanol 3L Drum ,PROP/3L/D,145,1200,TL2348,174000,10/17/2022,South,Propanol,2022,October,Hyderabad,Telangana,small 
+4550,Propanol 1L Bottle,PROP/1L/B,186,3426,KA2349,637236,10/17/2022,South,Propanol,2022,October,Bangalore,Karnataka,large
+5084,Ethanol 3L Drum,ETH/3L/D,193,1500,TN2347,289500,7/17/2021,South,Ethanol,2021,July,Chennai,Tamil Nadu,large
+4864,Ethanol 1L Can,ETH/1L/C,111,200,PU2675,22200,9/30/2021,North,Ethanol,2021,September,Bhatinda ,Punjab,large
+7573,Propanol 1L Bottle,PROP/1L/B,134,3426,AS9648,459084,5/28/2020,East,Propanol,2020,May,Jorhat ,Assam,small 
+5501,Butanol 2L Bottle,BUT/2L/B,97,657,MA2350,63729,1/13/2020,West,Butanol,2020,January,Pune,Maharashtra,small 
+4329,Propanol 1L Bottle,PROP/1L/B,20,3426,TL2348,68520,12/1/2023,South,Propanol,2023,December,Hyderabad,Telangana,small 
+6174,Ethanol 3L Drum,ETH/3L/D,103,1500,WB2346,154500,9/23/2022,East,Ethanol,2022,September,Kolkata,West Bengal,large
+5003,Propanol 3L Drum ,PROP/3L/D,139,1200,MH2345,166800,3/13/2024,West,Propanol,2024,March,Mumbai,Maharashtra,small 
+5503,Ethanol 1L Bottle,ETH/1L/B,171,100,RJ4367,17100,6/23/2024,North,Ethanol,2024,June,Jaipur,Rajasthan,small 
+4654,Propanol 1L Can,PROP/1L/C,176,1300,KA2349,228800,5/17/2023,South,Propanol,2023,May,Bangalore,Karnataka,large
+5873,Propanol 1L Bottle,PROP/1L/B,86,3426,TN2347,294636,7/14/2023,South,Propanol,2023,July,Chennai,Tamil Nadu,large
+7785,Propanol 1L Bottle,PROP/1L/B,159,3426,TN2347,544734,12/22/2024,South,Propanol,2024,December,Chennai,Tamil Nadu,large
+4219,Ethanol 1L Bottle,ETH/1L/B,39,100,TL2348,3900,5/4/2020,South,Ethanol,2020,May,Hyderabad,Telangana,small 
+5515,Propanol 3L Drum ,PROP/3L/D,165,1200,KA2349,198000,5/9/2020,South,Propanol,2020,May,Bangalore,Karnataka,large
+7144,Propanol 1L Bottle,PROP/1L/B,151,3426,RJ4367,517326,5/9/2023,North,Propanol,2023,May,Jaipur,Rajasthan,small 
+6252,Ethanol 3L Drum,ETH/3L/D,137,1500,PU2675,205500,10/21/2022,North,Ethanol,2022,October,Bhatinda ,Punjab,large
+7860,Ethanol 3L Drum,ETH/3L/D,31,1500,RJ4367,46500,3/7/2023,North,Ethanol,2023,March,Jaipur,Rajasthan,small 
+6297,Butanol 2L Bottle,BUT/2L/B,56,657,MA2350,36792,7/8/2022,West,Butanol,2022,July,Pune,Maharashtra,small 
+6885,Ethanol 1L Bottle,ETH/1L/B,60,100,MA2350,6000,1/11/2023,West,Ethanol,2023,January,Pune,Maharashtra,small 
+7299,Propanol 1L Can,PROP/1L/C,129,1300,KA2349,167700,8/22/2021,South,Propanol,2021,August,Bangalore,Karnataka,large
+5781,Ethanol 1L Bottle,ETH/1L/B,178,100,PU2675,17800,1/8/2023,North,Ethanol,2023,January,Bhatinda ,Punjab,large
+7381,Ethanol 1L Can,ETH/1L/C,93,200,TN2347,18600,6/12/2023,South,Ethanol,2023,June,Chennai,Tamil Nadu,large
+7675,Ethanol 1L Can,ETH/1L/C,42,200,KA2349,8400,6/27/2021,South,Ethanol,2021,June,Bangalore,Karnataka,large
+7457,Ethanol 1L Can,ETH/1L/C,132,200,KA2349,26400,2/8/2021,South,Ethanol,2021,February,Bangalore,Karnataka,large
+5328,Ethanol 1L Can,ETH/1L/C,174,200,MA2350,34800,11/20/2023,West,Ethanol,2023,November,Pune,Maharashtra,small 
+7594,Ethanol 3L Drum,ETH/3L/D,153,1500,KA2349,229500,2/10/2022,South,Ethanol,2022,February,Bangalore,Karnataka,large
+7683,Ethanol 1L Can,ETH/1L/C,62,200,RJ4367,12400,11/23/2021,North,Ethanol,2021,November,Jaipur,Rajasthan,small 
+6245,Propanol 1L Bottle,PROP/1L/B,137,3426,PU2675,469362,1/19/2020,North,Propanol,2020,January,Bhatinda ,Punjab,large
+7810,Ethanol 3L Drum,ETH/3L/D,140,1500,KA2349,210000,2/23/2022,South,Ethanol,2022,February,Bangalore,Karnataka,large
+4731,Propanol 1L Can,PROP/1L/C,48,1300,RJ4367,62400,3/7/2020,North,Propanol,2020,March,Jaipur,Rajasthan,small 
+4829,Butanol 2L Bottle,BUT/2L/B,151,657,TN2347,99207,9/5/2020,South,Butanol,2020,September,Chennai,Tamil Nadu,large
+7979,Propanol 1L Can,PROP/1L/C,122,1300,WB2346,158600,5/4/2023,East,Propanol,2023,May,Kolkata,West Bengal,large
+5287,Ethanol 3L Drum,ETH/3L/D,195,1500,WB2346,292500,11/23/2023,East,Ethanol,2023,November,Kolkata,West Bengal,large
+4446,Propanol 1L Can,PROP/1L/C,46,1300,AS9648,59800,1/23/2022,East,Propanol,2022,January,Jorhat ,Assam,small 
+4565,Propanol 1L Can,PROP/1L/C,90,1300,MH2345,117000,5/20/2023,West,Propanol,2023,May,Mumbai,Maharashtra,small 
+5885,Ethanol 1L Bottle,ETH/1L/B,180,100,KA2349,18000,11/2/2023,South,Ethanol,2023,November,Bangalore,Karnataka,large
+5900,Propanol 3L Drum ,PROP/3L/D,124,1200,TL2348,148800,2/14/2022,South,Propanol,2022,February,Hyderabad,Telangana,small 
+4852,Propanol 1L Can,PROP/1L/C,115,1300,KA2349,149500,6/12/2023,South,Propanol,2023,June,Bangalore,Karnataka,large
+6212,Propanol 3L Drum ,PROP/3L/D,177,1200,MA2350,212400,2/17/2020,West,Propanol,2020,February,Pune,Maharashtra,small 
+5672,Butanol 2L Bottle,BUT/2L/B,38,657,TL2348,24966,2/12/2023,South,Butanol,2023,February,Hyderabad,Telangana,small 
+7394,Butanol 2L Bottle,BUT/2L/B,91,657,AS9648,59787,12/3/2022,East,Butanol,2022,December,Jorhat ,Assam,small 
+6416,Propanol 1L Bottle,PROP/1L/B,53,3426,MH2345,181578,5/13/2022,West,Propanol,2022,May,Mumbai,Maharashtra,small 
+4592,Propanol 1L Bottle,PROP/1L/B,82,3426,MH2345,280932,4/26/2023,West,Propanol,2023,April,Mumbai,Maharashtra,small 
+7931,Propanol 1L Bottle,PROP/1L/B,89,3426,KA2349,304914,12/26/2021,South,Propanol,2021,December,Bangalore,Karnataka,large
+6051,Ethanol 1L Bottle,ETH/1L/B,45,100,TN2347,4500,6/12/2023,South,Ethanol,2023,June,Chennai,Tamil Nadu,large
+7879,Ethanol 1L Bottle,ETH/1L/B,14,100,AS9648,1400,9/28/2023,East,Ethanol,2023,September,Jorhat ,Assam,small 
+5722,Butanol 2L Bottle,BUT/2L/B,55,657,MA2350,36135,3/21/2022,West,Butanol,2022,March,Pune,Maharashtra,small 
+5134,Propanol 1L Bottle,PROP/1L/B,64,3426,TL2348,219264,1/26/2024,South,Propanol,2024,January,Hyderabad,Telangana,small 
+5040,Ethanol 3L Drum,ETH/3L/D,54,1500,TL2348,81000,12/13/2023,South,Ethanol,2023,December,Hyderabad,Telangana,small 
+4177,Propanol 1L Bottle,PROP/1L/B,124,3426,AS9648,424824,5/2/2023,East,Propanol,2023,May,Jorhat ,Assam,small 
+7942,Ethanol 3L Drum,ETH/3L/D,122,1500,PU2675,183000,10/10/2020,North,Ethanol,2020,October,Bhatinda ,Punjab,large
+4278,Propanol 1L Bottle,PROP/1L/B,79,3426,WB2346,270654,1/8/2023,East,Propanol,2023,January,Kolkata,West Bengal,large
+6552,Ethanol 1L Can,ETH/1L/C,27,200,MA2350,5400,3/8/2021,West,Ethanol,2021,March,Pune,Maharashtra,small 
+4458,Propanol 3L Drum ,PROP/3L/D,59,1200,RJ4367,70800,8/1/2023,North,Propanol,2023,August,Jaipur,Rajasthan,small 
+7808,Ethanol 1L Bottle,ETH/1L/B,70,100,MA2350,7000,2/12/2022,West,Ethanol,2022,February,Pune,Maharashtra,small 
+7064,Propanol 1L Bottle,PROP/1L/B,125,3426,KA2349,428250,9/29/2024,South,Propanol,2024,September,Bangalore,Karnataka,large
+6958,Ethanol 1L Can,ETH/1L/C,57,200,MA2350,11400,5/16/2020,West,Ethanol,2020,May,Pune,Maharashtra,small 
+6883,Propanol 1L Can,PROP/1L/C,125,1300,AS9648,162500,5/9/2023,East,Propanol,2023,May,Jorhat ,Assam,small 
+5836,Propanol 3L Drum ,PROP/3L/D,69,1200,PU2675,82800,1/16/2021,North,Propanol,2021,January,Bhatinda ,Punjab,large
+4745,Ethanol 1L Can,ETH/1L/C,31,200,MA2350,6200,9/9/2021,West,Ethanol,2021,September,Pune,Maharashtra,small 
+7970,Ethanol 1L Bottle,ETH/1L/B,139,100,PU2675,13900,3/12/2024,North,Ethanol,2024,March,Bhatinda ,Punjab,large
+5740,Ethanol 3L Drum,ETH/3L/D,80,1500,TL2348,120000,5/24/2024,South,Ethanol,2024,May,Hyderabad,Telangana,small 
+4512,Ethanol 1L Can,ETH/1L/C,98,200,KA2349,19600,1/21/2020,South,Ethanol,2020,January,Bangalore,Karnataka,large
+4767,Ethanol 3L Drum,ETH/3L/D,178,1500,RJ4367,267000,9/15/2020,North,Ethanol,2020,September,Jaipur,Rajasthan,small 
+6993,Propanol 1L Can,PROP/1L/C,139,1300,MH2345,180700,9/11/2022,West,Propanol,2022,September,Mumbai,Maharashtra,small 
+6684,Propanol 3L Drum ,PROP/3L/D,155,1200,PU2675,186000,7/28/2021,North,Propanol,2021,July,Bhatinda ,Punjab,large
+5806,Butanol 2L Bottle,BUT/2L/B,70,657,WB2346,45990,12/8/2022,East,Butanol,2022,December,Kolkata,West Bengal,large
+7290,Propanol 1L Bottle,PROP/1L/B,188,3426,AS9648,644088,9/15/2024,East,Propanol,2024,September,Jorhat ,Assam,small 
+4793,Ethanol 1L Can,ETH/1L/C,183,200,RJ4367,36600,3/15/2021,North,Ethanol,2021,March,Jaipur,Rajasthan,small 
+4352,Butanol 2L Bottle,BUT/2L/B,17,657,AS9648,11169,11/9/2020,East,Butanol,2020,November,Jorhat ,Assam,small 
+4823,Propanol 3L Drum ,PROP/3L/D,149,1200,TL2348,178800,4/8/2024,South,Propanol,2024,April,Hyderabad,Telangana,small 
+4877,Propanol 1L Bottle,PROP/1L/B,161,3426,KA2349,551586,11/3/2023,South,Propanol,2023,November,Bangalore,Karnataka,large
+4826,Propanol 1L Can,PROP/1L/C,96,1300,KA2349,124800,9/3/2022,South,Propanol,2022,September,Bangalore,Karnataka,large
+4966,Butanol 2L Bottle,BUT/2L/B,75,657,TN2347,49275,9/26/2020,South,Butanol,2020,September,Chennai,Tamil Nadu,large
+6643,Ethanol 1L Bottle,ETH/1L/B,22,100,RJ4367,2200,6/11/2023,North,Ethanol,2023,June,Jaipur,Rajasthan,small 
+4870,Propanol 1L Bottle,PROP/1L/B,155,3426,PU2675,531030,3/5/2021,North,Propanol,2021,March,Bhatinda ,Punjab,large
+4918,Propanol 1L Can,PROP/1L/C,139,1300,WB2346,180700,4/8/2022,East,Propanol,2022,April,Kolkata,West Bengal,large
+5110,Butanol 2L Bottle,BUT/2L/B,196,657,MA2350,128772,2/2/2021,West,Butanol,2021,February,Pune,Maharashtra,small 
+7933,Ethanol 1L Bottle,ETH/1L/B,147,100,TN2347,14700,8/13/2021,South,Ethanol,2021,August,Chennai,Tamil Nadu,large
+5475,Butanol 2L Bottle,BUT/2L/B,154,657,TN2347,101178,8/12/2023,South,Butanol,2023,August,Chennai,Tamil Nadu,large
+5736,Ethanol 3L Drum,ETH/3L/D,92,1500,AS9648,138000,8/2/2021,East,Ethanol,2021,August,Jorhat ,Assam,small 
+5444,Propanol 1L Can,PROP/1L/C,84,1300,MH2345,109200,2/1/2023,West,Propanol,2023,February,Mumbai,Maharashtra,small 
+4471,Ethanol 1L Can,ETH/1L/C,79,200,TN2347,15800,7/30/2024,South,Ethanol,2024,July,Chennai,Tamil Nadu,large
+7573,Ethanol 1L Can,ETH/1L/C,198,200,PU2675,39600,1/27/2020,North,Ethanol,2020,January,Bhatinda ,Punjab,large
+6479,Propanol 3L Drum ,PROP/3L/D,16,1200,AS9648,19200,12/6/2024,East,Propanol,2024,December,Jorhat ,Assam,small 
+7797,Propanol 1L Can,PROP/1L/C,57,1300,MH2345,74100,10/14/2022,West,Propanol,2022,October,Mumbai,Maharashtra,small 
+5476,Ethanol 1L Bottle,ETH/1L/B,184,100,AS9648,18400,9/29/2021,East,Ethanol,2021,September,Jorhat ,Assam,small 
+5969,Propanol 1L Can,PROP/1L/C,13,1300,TN2347,16900,12/31/2023,South,Propanol,2023,December,Chennai,Tamil Nadu,large
+5949,Propanol 3L Drum ,PROP/3L/D,177,1200,PU2675,212400,8/9/2022,North,Propanol,2022,August,Bhatinda ,Punjab,large
+6154,Ethanol 1L Bottle,ETH/1L/B,198,100,RJ4367,19800,10/26/2024,North,Ethanol,2024,October,Jaipur,Rajasthan,small 
+5050,Propanol 1L Bottle,PROP/1L/B,35,3426,MA2350,119910,6/10/2022,West,Propanol,2022,June,Pune,Maharashtra,small 
+5606,Butanol 2L Bottle,BUT/2L/B,119,657,TN2347,78183,8/14/2021,South,Butanol,2021,August,Chennai,Tamil Nadu,large
+6857,Propanol 1L Bottle,PROP/1L/B,40,3426,WB2346,137040,10/7/2022,East,Propanol,2022,October,Kolkata,West Bengal,large
+5050,Propanol 1L Can,PROP/1L/C,172,1300,MH2345,223600,5/5/2024,West,Propanol,2024,May,Mumbai,Maharashtra,small 
+4031,Propanol 1L Can,PROP/1L/C,135,1300,RJ4367,175500,7/20/2023,North,Propanol,2023,July,Jaipur,Rajasthan,small 
+4863,Butanol 2L Bottle,BUT/2L/B,47,657,WB2346,30879,3/30/2022,East,Butanol,2022,March,Kolkata,West Bengal,large
+4997,Ethanol 1L Can,ETH/1L/C,109,200,PU2675,21800,9/18/2020,North,Ethanol,2020,September,Bhatinda ,Punjab,large
+6346,Propanol 1L Bottle,PROP/1L/B,103,3426,RJ4367,352878,4/25/2024,North,Propanol,2024,April,Jaipur,Rajasthan,small 
+4257,Propanol 1L Bottle,PROP/1L/B,157,3426,PU2675,537882,4/1/2024,North,Propanol,2024,April,Bhatinda ,Punjab,large
+6830,Ethanol 3L Drum,ETH/3L/D,31,1500,TN2347,46500,5/27/2022,South,Ethanol,2022,May,Chennai,Tamil Nadu,large
+5891,Propanol 3L Drum ,PROP/3L/D,58,1200,AS9648,69600,9/9/2020,East,Propanol,2020,September,Jorhat ,Assam,small 
+5737,Butanol 2L Bottle,BUT/2L/B,128,657,MH2345,84096,7/25/2023,West,Butanol,2023,July,Mumbai,Maharashtra,small 
+7262,Propanol 3L Drum ,PROP/3L/D,145,1200,TL2348,174000,10/1/2023,South,Propanol,2023,October,Hyderabad,Telangana,small 
+5870,Propanol 1L Bottle,PROP/1L/B,112,3426,TN2347,383712,3/14/2020,South,Propanol,2020,March,Chennai,Tamil Nadu,large
+6884,Propanol 3L Drum ,PROP/3L/D,149,1200,TL2348,178800,1/28/2020,South,Propanol,2020,January,Hyderabad,Telangana,small 
+6055,Ethanol 3L Drum,ETH/3L/D,62,1500,TL2348,93000,9/12/2024,South,Ethanol,2024,September,Hyderabad,Telangana,small 
+7320,Ethanol 1L Can,ETH/1L/C,23,200,MA2350,4600,10/1/2020,West,Ethanol,2020,October,Pune,Maharashtra,small 
+5728,Propanol 1L Bottle,PROP/1L/B,75,3426,MA2350,256950,11/17/2023,West,Propanol,2023,November,Pune,Maharashtra,small 
+6652,Butanol 2L Bottle,BUT/2L/B,112,657,TN2347,73584,1/6/2024,South,Butanol,2024,January,Chennai,Tamil Nadu,large
+6698,Ethanol 1L Bottle,ETH/1L/B,34,100,RJ4367,3400,8/7/2021,North,Ethanol,2021,August,Jaipur,Rajasthan,small 
+6274,Propanol 1L Can,PROP/1L/C,168,1300,AS9648,218400,8/28/2024,East,Propanol,2024,August,Jorhat ,Assam,small 
+7080,Ethanol 1L Can,ETH/1L/C,103,200,PU2675,20600,11/10/2024,North,Ethanol,2024,November,Bhatinda ,Punjab,large
+5324,Propanol 3L Drum ,PROP/3L/D,46,1200,AS9648,55200,12/4/2020,East,Propanol,2020,December,Jorhat ,Assam,small 
+7066,Propanol 1L Can,PROP/1L/C,41,1300,WB2346,53300,8/8/2024,East,Propanol,2024,August,Kolkata,West Bengal,large
+7952,Ethanol 3L Drum,ETH/3L/D,132,1500,MA2350,198000,7/7/2022,West,Ethanol,2022,July,Pune,Maharashtra,small 
+5406,Ethanol 1L Bottle,ETH/1L/B,51,100,WB2346,5100,11/26/2022,East,Ethanol,2022,November,Kolkata,West Bengal,large
+4921,Ethanol 1L Bottle,ETH/1L/B,162,100,PU2675,16200,3/20/2021,North,Ethanol,2021,March,Bhatinda ,Punjab,large
+5393,Propanol 3L Drum ,PROP/3L/D,30,1200,WB2346,36000,3/5/2023,East,Propanol,2023,March,Kolkata,West Bengal,large
+4570,Ethanol 3L Drum,ETH/3L/D,19,1500,WB2346,28500,5/22/2021,East,Ethanol,2021,May,Kolkata,West Bengal,large
+7710,Propanol 3L Drum ,PROP/3L/D,19,1200,KA2349,22800,11/1/2020,South,Propanol,2020,November,Bangalore,Karnataka,large
+5688,Ethanol 1L Can,ETH/1L/C,127,200,PU2675,25400,6/6/2020,North,Ethanol,2020,June,Bhatinda ,Punjab,large
+7155,Butanol 2L Bottle,BUT/2L/B,153,657,AS9648,100521,1/29/2021,East,Butanol,2021,January,Jorhat ,Assam,small 
+7241,Propanol 1L Bottle,PROP/1L/B,78,3426,TL2348,267228,3/28/2023,South,Propanol,2023,March,Hyderabad,Telangana,small 
+5827,Propanol 1L Can,PROP/1L/C,148,1300,KA2349,192400,12/20/2020,South,Propanol,2020,December,Bangalore,Karnataka,large
+5102,Propanol 1L Can,PROP/1L/C,148,1300,AS9648,192400,5/29/2020,East,Propanol,2020,May,Jorhat ,Assam,small 
+5254,Ethanol 1L Can,ETH/1L/C,65,200,PU2675,13000,2/26/2022,North,Ethanol,2022,February,Bhatinda ,Punjab,large
+7393,Ethanol 1L Bottle,ETH/1L/B,74,100,TN2347,7400,2/19/2021,South,Ethanol,2021,February,Chennai,Tamil Nadu,large
+5135,Ethanol 1L Can,ETH/1L/C,22,200,WB2346,4400,9/6/2021,East,Ethanol,2021,September,Kolkata,West Bengal,large
+5699,Butanol 2L Bottle,BUT/2L/B,28,657,MA2350,18396,1/24/2022,West,Butanol,2022,January,Pune,Maharashtra,small 
+4912,Propanol 1L Bottle,PROP/1L/B,85,3426,TN2347,291210,6/23/2022,South,Propanol,2022,June,Chennai,Tamil Nadu,large
+6610,Ethanol 3L Drum,ETH/3L/D,104,1500,WB2346,156000,4/24/2023,East,Ethanol,2023,April,Kolkata,West Bengal,large
+7739,Butanol 2L Bottle,BUT/2L/B,99,657,PU2675,65043,1/2/2020,North,Butanol,2020,January,Bhatinda ,Punjab,large
+7096,Ethanol 1L Bottle,ETH/1L/B,15,100,PU2675,1500,6/13/2020,North,Ethanol,2020,June,Bhatinda ,Punjab,large
+7189,Propanol 1L Can,PROP/1L/C,150,1300,KA2349,195000,3/19/2020,South,Propanol,2020,March,Bangalore,Karnataka,large
+4859,Propanol 3L Drum ,PROP/3L/D,69,1200,TN2347,82800,11/15/2024,South,Propanol,2024,November,Chennai,Tamil Nadu,large
+4035,Ethanol 1L Can,ETH/1L/C,82,200,AS9648,16400,2/13/2024,East,Ethanol,2024,February,Jorhat ,Assam,small 
+6834,Propanol 3L Drum ,PROP/3L/D,86,1200,RJ4367,103200,12/3/2021,North,Propanol,2021,December,Jaipur,Rajasthan,small 
+6487,Propanol 3L Drum ,PROP/3L/D,160,1200,TL2348,192000,8/19/2020,South,Propanol,2020,August,Hyderabad,Telangana,small 
+4569,Ethanol 1L Can,ETH/1L/C,127,200,KA2349,25400,11/10/2021,South,Ethanol,2021,November,Bangalore,Karnataka,large
+5936,Propanol 3L Drum ,PROP/3L/D,96,1200,WB2346,115200,5/26/2022,East,Propanol,2022,May,Kolkata,West Bengal,large
+6810,Propanol 1L Can,PROP/1L/C,80,1300,AS9648,104000,7/12/2020,East,Propanol,2020,July,Jorhat ,Assam,small 
+4146,Ethanol 3L Drum,ETH/3L/D,61,1500,AS9648,91500,2/26/2023,East,Ethanol,2023,February,Jorhat ,Assam,small 
+5370,Butanol 2L Bottle,BUT/2L/B,22,657,MH2345,14454,1/14/2024,West,Butanol,2024,January,Mumbai,Maharashtra,small 
+7060,Ethanol 3L Drum,ETH/3L/D,86,1500,AS9648,129000,3/23/2024,East,Ethanol,2024,March,Jorhat ,Assam,small 
+4104,Propanol 1L Can,PROP/1L/C,33,1300,PU2675,42900,10/22/2021,North,Propanol,2021,October,Bhatinda ,Punjab,large
+4577,Propanol 3L Drum ,PROP/3L/D,61,1200,MH2345,73200,5/24/2022,West,Propanol,2022,May,Mumbai,Maharashtra,small 
+7927,Propanol 1L Bottle,PROP/1L/B,190,3426,TL2348,650940,4/24/2023,South,Propanol,2023,April,Hyderabad,Telangana,small 
+4398,Ethanol 3L Drum,ETH/3L/D,15,1500,KA2349,22500,6/12/2021,South,Ethanol,2021,June,Bangalore,Karnataka,large
+4080,Butanol 2L Bottle,BUT/2L/B,82,657,PU2675,53874,12/17/2024,North,Butanol,2024,December,Bhatinda ,Punjab,large
+4366,Propanol 1L Bottle,PROP/1L/B,99,3426,TN2347,339174,9/2/2020,South,Propanol,2020,September,Chennai,Tamil Nadu,large
+5448,Propanol 1L Bottle,PROP/1L/B,175,3426,PU2675,599550,4/13/2022,North,Propanol,2022,April,Bhatinda ,Punjab,large
+6273,Ethanol 1L Bottle,ETH/1L/B,86,100,AS9648,8600,4/27/2022,East,Ethanol,2022,April,Jorhat ,Assam,small 
+7490,Ethanol 1L Can,ETH/1L/C,56,200,TL2348,11200,9/29/2020,South,Ethanol,2020,September,Hyderabad,Telangana,small 
+6110,Ethanol 3L Drum,ETH/3L/D,90,1500,KA2349,135000,11/3/2024,South,Ethanol,2024,November,Bangalore,Karnataka,large
+4939,Propanol 1L Bottle,PROP/1L/B,97,3426,KA2349,332322,10/4/2022,South,Propanol,2022,October,Bangalore,Karnataka,large
+6325,Propanol 1L Bottle,PROP/1L/B,146,3426,MH2345,500196,12/9/2023,West,Propanol,2023,December,Mumbai,Maharashtra,small 
+5541,Ethanol 1L Can,ETH/1L/C,178,200,TN2347,35600,7/18/2023,South,Ethanol,2023,July,Chennai,Tamil Nadu,large
+5046,Butanol 2L Bottle,BUT/2L/B,163,657,PU2675,107091,6/27/2022,North,Butanol,2022,June,Bhatinda ,Punjab,large
+7945,Propanol 1L Bottle,PROP/1L/B,43,3426,PU2675,147318,11/24/2022,North,Propanol,2022,November,Bhatinda ,Punjab,large
+4266,Ethanol 1L Bottle,ETH/1L/B,54,100,MH2345,5400,3/23/2020,West,Ethanol,2020,March,Mumbai,Maharashtra,small 
+6796,Propanol 3L Drum ,PROP/3L/D,123,1200,PU2675,147600,2/12/2022,North,Propanol,2022,February,Bhatinda ,Punjab,large
+4106,Ethanol 1L Bottle,ETH/1L/B,139,100,WB2346,13900,11/26/2022,East,Ethanol,2022,November,Kolkata,West Bengal,large
+5939,Ethanol 1L Can,ETH/1L/C,193,200,KA2349,38600,5/1/2021,South,Ethanol,2021,May,Bangalore,Karnataka,large
+5612,Propanol 1L Bottle,PROP/1L/B,197,3426,MH2345,674922,7/27/2024,West,Propanol,2024,July,Mumbai,Maharashtra,small 
+7687,Ethanol 1L Bottle,ETH/1L/B,140,100,PU2675,14000,9/12/2020,North,Ethanol,2020,September,Bhatinda ,Punjab,large
+4286,Propanol 1L Bottle,PROP/1L/B,114,3426,MA2350,390564,8/9/2022,West,Propanol,2022,August,Pune,Maharashtra,small 
+4139,Propanol 1L Can,PROP/1L/C,155,1300,PU2675,201500,4/19/2021,North,Propanol,2021,April,Bhatinda ,Punjab,large
+5030,Butanol 2L Bottle,BUT/2L/B,62,657,PU2675,40734,1/1/2023,North,Butanol,2023,January,Bhatinda ,Punjab,large
+5320,Butanol 2L Bottle,BUT/2L/B,102,657,WB2346,67014,1/8/2023,East,Butanol,2023,January,Kolkata,West Bengal,large
+5501,Propanol 1L Bottle,PROP/1L/B,173,3426,KA2349,592698,11/26/2020,South,Propanol,2020,November,Bangalore,Karnataka,large
+6519,Propanol 1L Can,PROP/1L/C,200,1300,MA2350,260000,6/9/2020,West,Propanol,2020,June,Pune,Maharashtra,small 
+6504,Butanol 2L Bottle,BUT/2L/B,27,657,WB2346,17739,9/3/2020,East,Butanol,2020,September,Kolkata,West Bengal,large
+6633,Propanol 1L Bottle,PROP/1L/B,41,3426,KA2349,140466,2/18/2021,South,Propanol,2021,February,Bangalore,Karnataka,large
+7702,Ethanol 1L Bottle,ETH/1L/B,142,100,TL2348,14200,8/24/2023,South,Ethanol,2023,August,Hyderabad,Telangana,small 
+7701,Ethanol 1L Can,ETH/1L/C,42,200,MH2345,8400,2/6/2022,West,Ethanol,2022,February,Mumbai,Maharashtra,small 
+4264,Ethanol 1L Can,ETH/1L/C,105,200,WB2346,21000,2/12/2021,East,Ethanol,2021,February,Kolkata,West Bengal,large
+6611,Propanol 3L Drum ,PROP/3L/D,114,1200,TL2348,136800,3/26/2020,South,Propanol,2020,March,Hyderabad,Telangana,small 
+7673,Ethanol 1L Can,ETH/1L/C,41,200,AS9648,8200,3/18/2024,East,Ethanol,2024,March,Jorhat ,Assam,small 
+5956,Propanol 3L Drum ,PROP/3L/D,145,1200,WB2346,174000,8/25/2020,East,Propanol,2020,August,Kolkata,West Bengal,large
+7090,Propanol 1L Can,PROP/1L/C,170,1300,MH2345,221000,12/6/2023,West,Propanol,2023,December,Mumbai,Maharashtra,small 
+7185,Butanol 2L Bottle,BUT/2L/B,125,657,WB2346,82125,5/4/2023,East,Butanol,2023,May,Kolkata,West Bengal,large
+6121,Propanol 1L Bottle,PROP/1L/B,121,3426,MA2350,414546,4/8/2021,West,Propanol,2021,April,Pune,Maharashtra,small 
+6146,Propanol 1L Bottle,PROP/1L/B,143,3426,MH2345,489918,8/16/2023,West,Propanol,2023,August,Mumbai,Maharashtra,small 
+4935,Ethanol 3L Drum,ETH/3L/D,118,1500,PU2675,177000,9/11/2022,North,Ethanol,2022,September,Bhatinda ,Punjab,large
+5986,Propanol 1L Bottle,PROP/1L/B,58,3426,AS9648,198708,9/19/2023,East,Propanol,2023,September,Jorhat ,Assam,small 
+4148,Propanol 3L Drum ,PROP/3L/D,90,1200,KA2349,108000,10/9/2024,South,Propanol,2024,October,Bangalore,Karnataka,large
+7127,Ethanol 1L Bottle,ETH/1L/B,156,100,MA2350,15600,10/16/2022,West,Ethanol,2022,October,Pune,Maharashtra,small 
+7872,Ethanol 3L Drum,ETH/3L/D,57,1500,RJ4367,85500,1/31/2023,North,Ethanol,2023,January,Jaipur,Rajasthan,small 
+7558,Ethanol 3L Drum,ETH/3L/D,133,1500,AS9648,199500,11/19/2024,East,Ethanol,2024,November,Jorhat ,Assam,small 
+7305,Propanol 3L Drum ,PROP/3L/D,137,1200,MH2345,164400,8/27/2021,West,Propanol,2021,August,Mumbai,Maharashtra,small 
+6410,Propanol 3L Drum ,PROP/3L/D,151,1200,TL2348,181200,12/17/2023,South,Propanol,2023,December,Hyderabad,Telangana,small 
+7488,Propanol 3L Drum ,PROP/3L/D,51,1200,TL2348,61200,10/13/2020,South,Propanol,2020,October,Hyderabad,Telangana,small 
+5867,Propanol 1L Bottle,PROP/1L/B,141,3426,PU2675,483066,7/25/2024,North,Propanol,2024,July,Bhatinda ,Punjab,large
+5197,Propanol 1L Can,PROP/1L/C,22,1300,MH2345,28600,8/30/2024,West,Propanol,2024,August,Mumbai,Maharashtra,small 
+7525,Ethanol 1L Bottle,ETH/1L/B,88,100,WB2346,8800,10/1/2020,East,Ethanol,2020,October,Kolkata,West Bengal,large
+6036,Propanol 3L Drum ,PROP/3L/D,106,1200,TN2347,127200,11/3/2020,South,Propanol,2020,November,Chennai,Tamil Nadu,large
+4066,Ethanol 1L Can,ETH/1L/C,191,200,WB2346,38200,10/4/2023,East,Ethanol,2023,October,Kolkata,West Bengal,large
+7352,Butanol 2L Bottle,BUT/2L/B,79,657,MH2345,51903,8/26/2024,West,Butanol,2024,August,Mumbai,Maharashtra,small 
+5746,Butanol 2L Bottle,BUT/2L/B,83,657,AS9648,54531,2/19/2023,East,Butanol,2023,February,Jorhat ,Assam,small 
+5309,Propanol 1L Can,PROP/1L/C,186,1300,TL2348,241800,3/22/2024,South,Propanol,2024,March,Hyderabad,Telangana,small 
+4497,Butanol 2L Bottle,BUT/2L/B,118,657,AS9648,77526,3/6/2024,East,Butanol,2024,March,Jorhat ,Assam,small 
+7609,Propanol 1L Bottle,PROP/1L/B,68,3426,AS9648,232968,12/8/2023,East,Propanol,2023,December,Jorhat ,Assam,small 
+6740,Propanol 1L Bottle,PROP/1L/B,197,3426,PU2675,674922,2/9/2022,North,Propanol,2022,February,Bhatinda ,Punjab,large
+7031,Ethanol 3L Drum,ETH/3L/D,100,1500,KA2349,150000,1/22/2021,South,Ethanol,2021,January,Bangalore,Karnataka,large
+7153,Butanol 2L Bottle,BUT/2L/B,42,657,TN2347,27594,5/31/2020,South,Butanol,2020,May,Chennai,Tamil Nadu,large
+5055,Propanol 1L Bottle,PROP/1L/B,40,3426,PU2675,137040,12/11/2023,North,Propanol,2023,December,Bhatinda ,Punjab,large
+4431,Ethanol 3L Drum,ETH/3L/D,132,1500,WB2346,198000,1/4/2022,East,Ethanol,2022,January,Kolkata,West Bengal,large
+6032,Butanol 2L Bottle,BUT/2L/B,173,657,RJ4367,113661,2/13/2022,North,Butanol,2022,February,Jaipur,Rajasthan,small 
+7904,Propanol 1L Bottle,PROP/1L/B,22,3426,MH2345,75372,9/7/2021,West,Propanol,2021,September,Mumbai,Maharashtra,small 
+7440,Butanol 2L Bottle,BUT/2L/B,111,657,TN2347,72927,11/13/2024,South,Butanol,2024,November,Chennai,Tamil Nadu,large
+4205,Butanol 2L Bottle,BUT/2L/B,42,657,TL2348,27594,6/30/2022,South,Butanol,2022,June,Hyderabad,Telangana,small 
+7032,Propanol 1L Can,PROP/1L/C,95,1300,PU2675,123500,12/31/2022,North,Propanol,2022,December,Bhatinda ,Punjab,large
+5556,Ethanol 3L Drum,ETH/3L/D,173,1500,MA2350,259500,11/21/2023,West,Ethanol,2023,November,Pune,Maharashtra,small 
+6752,Butanol 2L Bottle,BUT/2L/B,100,657,PU2675,65700,2/8/2021,North,Butanol,2021,February,Bhatinda ,Punjab,large
+6836,Propanol 1L Bottle,PROP/1L/B,112,3426,KA2349,383712,11/24/2021,South,Propanol,2021,November,Bangalore,Karnataka,large
+4890,Propanol 3L Drum ,PROP/3L/D,17,1200,WB2346,20400,10/1/2021,East,Propanol,2021,October,Kolkata,West Bengal,large
+7516,Propanol 1L Can,PROP/1L/C,190,1300,PU2675,247000,9/24/2020,North,Propanol,2020,September,Bhatinda ,Punjab,large
+6188,Propanol 1L Bottle,PROP/1L/B,140,3426,AS9648,479640,10/5/2024,East,Propanol,2024,October,Jorhat ,Assam,small 
+4785,Propanol 1L Can,PROP/1L/C,137,1300,RJ4367,178100,9/30/2021,North,Propanol,2021,September,Jaipur,Rajasthan,small 
+7070,Propanol 3L Drum ,PROP/3L/D,110,1200,WB2346,132000,1/27/2021,East,Propanol,2021,January,Kolkata,West Bengal,large
+6596,Ethanol 1L Bottle,ETH/1L/B,108,100,RJ4367,10800,2/5/2021,North,Ethanol,2021,February,Jaipur,Rajasthan,small 
+7286,Ethanol 1L Bottle,ETH/1L/B,21,100,MH2345,2100,8/11/2021,West,Ethanol,2021,August,Mumbai,Maharashtra,small 
+5804,Propanol 1L Bottle,PROP/1L/B,77,3426,TL2348,263802,8/22/2023,South,Propanol,2023,August,Hyderabad,Telangana,small 
+5050,Butanol 2L Bottle,BUT/2L/B,90,657,KA2349,59130,10/15/2020,South,Butanol,2020,October,Bangalore,Karnataka,large
+5314,Ethanol 1L Can,ETH/1L/C,157,200,TL2348,31400,6/17/2024,South,Ethanol,2024,June,Hyderabad,Telangana,small 
+4347,Propanol 1L Bottle,PROP/1L/B,189,3426,MH2345,647514,7/5/2020,West,Propanol,2020,July,Mumbai,Maharashtra,small 
+4858,Ethanol 3L Drum,ETH/3L/D,104,1500,KA2349,156000,3/2/2022,South,Ethanol,2022,March,Bangalore,Karnataka,large
+5559,Ethanol 1L Can,ETH/1L/C,185,200,WB2346,37000,7/1/2023,East,Ethanol,2023,July,Kolkata,West Bengal,large
+4528,Propanol 1L Bottle,PROP/1L/B,98,3426,AS9648,335748,5/6/2024,East,Propanol,2024,May,Jorhat ,Assam,small 
+4920,Ethanol 1L Can,ETH/1L/C,183,200,MH2345,36600,10/20/2020,West,Ethanol,2020,October,Mumbai,Maharashtra,small 
+6614,Propanol 1L Bottle,PROP/1L/B,54,3426,RJ4367,185004,3/22/2020,North,Propanol,2020,March,Jaipur,Rajasthan,small 
+5757,Propanol 1L Bottle,PROP/1L/B,197,3426,TN2347,674922,10/23/2023,South,Propanol,2023,October,Chennai,Tamil Nadu,large
+7931,Butanol 2L Bottle,BUT/2L/B,104,657,TN2347,68328,6/23/2024,South,Butanol,2024,June,Chennai,Tamil Nadu,large
+6858,Propanol 1L Bottle,PROP/1L/B,183,3426,WB2346,626958,11/16/2021,East,Propanol,2021,November,Kolkata,West Bengal,large
+6658,Butanol 2L Bottle,BUT/2L/B,121,657,WB2346,79497,8/22/2020,East,Butanol,2020,August,Kolkata,West Bengal,large
+5854,Propanol 1L Bottle,PROP/1L/B,82,3426,MA2350,280932,12/25/2022,West,Propanol,2022,December,Pune,Maharashtra,small 
+5240,Ethanol 1L Can,ETH/1L/C,70,200,PU2675,14000,7/14/2024,North,Ethanol,2024,July,Bhatinda ,Punjab,large
+5461,Propanol 1L Bottle,PROP/1L/B,115,3426,KA2349,393990,9/13/2024,South,Propanol,2024,September,Bangalore,Karnataka,large
+6227,Propanol 3L Drum ,PROP/3L/D,150,1200,PU2675,180000,3/8/2023,North,Propanol,2023,March,Bhatinda ,Punjab,large
+7207,Ethanol 1L Can,ETH/1L/C,67,200,PU2675,13400,5/28/2020,North,Ethanol,2020,May,Bhatinda ,Punjab,large
+6381,Propanol 1L Can,PROP/1L/C,143,1300,TN2347,185900,6/28/2023,South,Propanol,2023,June,Chennai,Tamil Nadu,large
+6452,Propanol 3L Drum ,PROP/3L/D,80,1200,MH2345,96000,12/29/2024,West,Propanol,2024,December,Mumbai,Maharashtra,small 
+4646,Ethanol 1L Can,ETH/1L/C,45,200,MA2350,9000,3/14/2023,West,Ethanol,2023,March,Pune,Maharashtra,small 
+6210,Ethanol 1L Bottle,ETH/1L/B,53,100,AS9648,5300,8/19/2024,East,Ethanol,2024,August,Jorhat ,Assam,small 
+6130,Ethanol 1L Bottle,ETH/1L/B,118,100,RJ4367,11800,2/19/2021,North,Ethanol,2021,February,Jaipur,Rajasthan,small 
+4229,Propanol 1L Can,PROP/1L/C,195,1300,WB2346,253500,5/2/2020,East,Propanol,2020,May,Kolkata,West Bengal,large
+6050,Propanol 3L Drum ,PROP/3L/D,175,1200,RJ4367,210000,2/27/2023,North,Propanol,2023,February,Jaipur,Rajasthan,small 
+6056,Propanol 1L Bottle,PROP/1L/B,166,3426,PU2675,568716,9/25/2023,North,Propanol,2023,September,Bhatinda ,Punjab,large
+5999,Ethanol 3L Drum,ETH/3L/D,55,1500,KA2349,82500,5/1/2024,South,Ethanol,2024,May,Bangalore,Karnataka,large
+4793,Propanol 1L Can,PROP/1L/C,194,1300,MH2345,252200,1/11/2024,West,Propanol,2024,January,Mumbai,Maharashtra,small 
+5052,Propanol 1L Bottle,PROP/1L/B,26,3426,WB2346,89076,2/12/2024,East,Propanol,2024,February,Kolkata,West Bengal,large
+4867,Propanol 3L Drum ,PROP/3L/D,80,1200,PU2675,96000,7/12/2024,North,Propanol,2024,July,Bhatinda ,Punjab,large
+5135,Ethanol 3L Drum,ETH/3L/D,95,1500,AS9648,142500,2/7/2021,East,Ethanol,2021,February,Jorhat ,Assam,small 
+7691,Ethanol 3L Drum,ETH/3L/D,150,1500,TL2348,225000,4/1/2023,South,Ethanol,2023,April,Hyderabad,Telangana,small 
+4483,Propanol 3L Drum ,PROP/3L/D,129,1200,MH2345,154800,9/30/2020,West,Propanol,2020,September,Mumbai,Maharashtra,small 
+4471,Ethanol 1L Bottle,ETH/1L/B,94,100,MA2350,9400,11/4/2024,West,Ethanol,2024,November,Pune,Maharashtra,small 
+7514,Ethanol 3L Drum,ETH/3L/D,77,1500,WB2346,115500,1/11/2024,East,Ethanol,2024,January,Kolkata,West Bengal,large
+6665,Propanol 1L Can,PROP/1L/C,14,1300,TL2348,18200,6/22/2024,South,Propanol,2024,June,Hyderabad,Telangana,small 
+7174,Ethanol 1L Bottle,ETH/1L/B,19,100,KA2349,1900,7/17/2021,South,Ethanol,2021,July,Bangalore,Karnataka,large
+6560,Ethanol 3L Drum,ETH/3L/D,93,1500,WB2346,139500,9/27/2020,East,Ethanol,2020,September,Kolkata,West Bengal,large
+6384,Propanol 1L Bottle,PROP/1L/B,180,3426,MA2350,616680,6/3/2022,West,Propanol,2022,June,Pune,Maharashtra,small 
+6971,Ethanol 1L Can,ETH/1L/C,145,200,MA2350,29000,12/17/2021,West,Ethanol,2021,December,Pune,Maharashtra,small 
+4922,Ethanol 1L Bottle,ETH/1L/B,57,100,MA2350,5700,9/1/2022,West,Ethanol,2022,September,Pune,Maharashtra,small 
+7152,Ethanol 3L Drum,ETH/3L/D,131,1500,MA2350,196500,4/4/2020,West,Ethanol,2020,April,Pune,Maharashtra,small 
+4251,Butanol 2L Bottle,BUT/2L/B,101,657,AS9648,66357,2/2/2024,East,Butanol,2024,February,Jorhat ,Assam,small 
+7782,Propanol 3L Drum ,PROP/3L/D,121,1200,TL2348,145200,5/23/2024,South,Propanol,2024,May,Hyderabad,Telangana,small 
+6950,Propanol 1L Can,PROP/1L/C,168,1300,AS9648,218400,5/14/2021,East,Propanol,2021,May,Jorhat ,Assam,small 
+4194,Ethanol 1L Can,ETH/1L/C,35,200,TL2348,7000,9/18/2022,South,Ethanol,2022,September,Hyderabad,Telangana,small 
+5840,Ethanol 1L Bottle,ETH/1L/B,134,100,AS9648,13400,2/3/2023,East,Ethanol,2023,February,Jorhat ,Assam,small 
+7474,Propanol 1L Can,PROP/1L/C,174,1300,WB2346,226200,1/27/2024,East,Propanol,2024,January,Kolkata,West Bengal,large
+6072,Ethanol 3L Drum,ETH/3L/D,59,1500,PU2675,88500,1/14/2023,North,Ethanol,2023,January,Bhatinda ,Punjab,large
+7897,Propanol 1L Can,PROP/1L/C,76,1300,PU2675,98800,10/9/2023,North,Propanol,2023,October,Bhatinda ,Punjab,large
+7224,Propanol 3L Drum ,PROP/3L/D,84,1200,TL2348,100800,5/4/2022,South,Propanol,2022,May,Hyderabad,Telangana,small 
+7945,Ethanol 1L Bottle,ETH/1L/B,178,100,MA2350,17800,10/11/2024,West,Ethanol,2024,October,Pune,Maharashtra,small 
+4019,Ethanol 1L Bottle,ETH/1L/B,197,100,RJ4367,19700,11/6/2022,North,Ethanol,2022,November,Jaipur,Rajasthan,small 
+6423,Propanol 1L Can,PROP/1L/C,89,1300,TL2348,115700,12/2/2020,South,Propanol,2020,December,Hyderabad,Telangana,small 
+4244,Propanol 1L Can,PROP/1L/C,161,1300,KA2349,209300,7/6/2021,South,Propanol,2021,July,Bangalore,Karnataka,large
+5549,Ethanol 3L Drum,ETH/3L/D,137,1500,TL2348,205500,5/15/2021,South,Ethanol,2021,May,Hyderabad,Telangana,small 
+4628,Butanol 2L Bottle,BUT/2L/B,106,657,WB2346,69642,5/29/2023,East,Butanol,2023,May,Kolkata,West Bengal,large
+6608,Propanol 1L Bottle,PROP/1L/B,61,3426,TN2347,208986,9/22/2024,South,Propanol,2024,September,Chennai,Tamil Nadu,large
+6402,Propanol 1L Bottle,PROP/1L/B,53,3426,RJ4367,181578,9/23/2024,North,Propanol,2024,September,Jaipur,Rajasthan,small 
+4570,Propanol 3L Drum ,PROP/3L/D,15,1200,MA2350,18000,5/17/2024,West,Propanol,2024,May,Pune,Maharashtra,small 
+4430,Propanol 3L Drum ,PROP/3L/D,171,1200,AS9648,205200,6/8/2022,East,Propanol,2022,June,Jorhat ,Assam,small 
+4103,Propanol 1L Can,PROP/1L/C,118,1300,KA2349,153400,9/30/2024,South,Propanol,2024,September,Bangalore,Karnataka,large
+6645,Ethanol 3L Drum,ETH/3L/D,93,1500,PU2675,139500,2/5/2020,North,Ethanol,2020,February,Bhatinda ,Punjab,large
+7616,Propanol 1L Bottle,PROP/1L/B,105,3426,KA2349,359730,4/29/2021,South,Propanol,2021,April,Bangalore,Karnataka,large
+4513,Propanol 3L Drum ,PROP/3L/D,114,1200,KA2349,136800,8/23/2023,South,Propanol,2023,August,Bangalore,Karnataka,large
+4037,Butanol 2L Bottle,BUT/2L/B,49,657,AS9648,32193,10/27/2023,East,Butanol,2023,October,Jorhat ,Assam,small 
+5368,Propanol 3L Drum ,PROP/3L/D,137,1200,TL2348,164400,4/12/2024,South,Propanol,2024,April,Hyderabad,Telangana,small 
+6463,Ethanol 1L Can,ETH/1L/C,42,200,AS9648,8400,7/14/2021,East,Ethanol,2021,July,Jorhat ,Assam,small 
+4642,Ethanol 3L Drum,ETH/3L/D,27,1500,AS9648,40500,4/13/2020,East,Ethanol,2020,April,Jorhat ,Assam,small 
+4913,Ethanol 3L Drum,ETH/3L/D,129,1500,MH2345,193500,2/9/2020,West,Ethanol,2020,February,Mumbai,Maharashtra,small 
+5426,Ethanol 1L Bottle,ETH/1L/B,99,100,PU2675,9900,12/26/2020,North,Ethanol,2020,December,Bhatinda ,Punjab,large
+5735,Ethanol 1L Can,ETH/1L/C,139,200,TL2348,27800,9/9/2023,South,Ethanol,2023,September,Hyderabad,Telangana,small 
+7649,Butanol 2L Bottle,BUT/2L/B,60,657,MA2350,39420,6/23/2020,West,Butanol,2020,June,Pune,Maharashtra,small 
+7475,Propanol 3L Drum ,PROP/3L/D,10,1200,MA2350,12000,6/3/2023,West,Propanol,2023,June,Pune,Maharashtra,small 
+7408,Propanol 1L Can,PROP/1L/C,54,1300,PU2675,70200,12/21/2020,North,Propanol,2020,December,Bhatinda ,Punjab,large
+5665,Ethanol 3L Drum,ETH/3L/D,74,1500,MA2350,111000,6/15/2022,West,Ethanol,2022,June,Pune,Maharashtra,small 
+6068,Propanol 1L Can,PROP/1L/C,153,1300,WB2346,198900,7/5/2020,East,Propanol,2020,July,Kolkata,West Bengal,large
+5718,Butanol 2L Bottle,BUT/2L/B,110,657,MA2350,72270,1/3/2022,West,Butanol,2022,January,Pune,Maharashtra,small 
+6196,Ethanol 1L Can,ETH/1L/C,193,200,TL2348,38600,12/22/2021,South,Ethanol,2021,December,Hyderabad,Telangana,small 
+4239,Propanol 3L Drum ,PROP/3L/D,114,1200,MA2350,136800,8/11/2020,West,Propanol,2020,August,Pune,Maharashtra,small 
+4728,Ethanol 1L Bottle,ETH/1L/B,141,100,WB2346,14100,6/20/2020,East,Ethanol,2020,June,Kolkata,West Bengal,large
+7378,Propanol 1L Can,PROP/1L/C,65,1300,WB2346,84500,1/18/2022,East,Propanol,2022,January,Kolkata,West Bengal,large
+5244,Propanol 1L Can,PROP/1L/C,52,1300,TN2347,67600,3/14/2020,South,Propanol,2020,March,Chennai,Tamil Nadu,large
+4118,Propanol 1L Bottle,PROP/1L/B,23,3426,TN2347,78798,1/12/2023,South,Propanol,2023,January,Chennai,Tamil Nadu,large
+5954,Propanol 1L Bottle,PROP/1L/B,180,3426,TL2348,616680,3/15/2024,South,Propanol,2024,March,Hyderabad,Telangana,small 
+7564,Ethanol 1L Bottle,ETH/1L/B,75,100,PU2675,7500,9/27/2023,North,Ethanol,2023,September,Bhatinda ,Punjab,large
+6890,Ethanol 1L Bottle,ETH/1L/B,118,100,PU2675,11800,5/5/2023,North,Ethanol,2023,May,Bhatinda ,Punjab,large
+7011,Ethanol 3L Drum,ETH/3L/D,80,1500,WB2346,120000,1/14/2024,East,Ethanol,2024,January,Kolkata,West Bengal,large
+4784,Ethanol 3L Drum,ETH/3L/D,75,1500,RJ4367,112500,1/27/2023,North,Ethanol,2023,January,Jaipur,Rajasthan,small 
+5107,Ethanol 3L Drum,ETH/3L/D,129,1500,MA2350,193500,5/13/2022,West,Ethanol,2022,May,Pune,Maharashtra,small 
+6509,Propanol 1L Can,PROP/1L/C,154,1300,AS9648,200200,7/28/2020,East,Propanol,2020,July,Jorhat ,Assam,small 
+5646,Propanol 1L Can,PROP/1L/C,144,1300,TN2347,187200,4/14/2023,South,Propanol,2023,April,Chennai,Tamil Nadu,large
+4532,Ethanol 3L Drum,ETH/3L/D,197,1500,KA2349,295500,2/15/2023,South,Ethanol,2023,February,Bangalore,Karnataka,large
+7437,Ethanol 1L Bottle,ETH/1L/B,168,100,TN2347,16800,2/28/2021,South,Ethanol,2021,February,Chennai,Tamil Nadu,large
+5733,Propanol 1L Bottle,PROP/1L/B,101,3426,PU2675,346026,4/9/2024,North,Propanol,2024,April,Bhatinda ,Punjab,large
+4060,Ethanol 3L Drum,ETH/3L/D,112,1500,RJ4367,168000,9/30/2022,North,Ethanol,2022,September,Jaipur,Rajasthan,small 
+4867,Ethanol 1L Bottle,ETH/1L/B,28,100,KA2349,2800,5/23/2021,South,Ethanol,2021,May,Bangalore,Karnataka,large
+4922,Propanol 3L Drum ,PROP/3L/D,198,1200,TN2347,237600,10/3/2022,South,Propanol,2022,October,Chennai,Tamil Nadu,large
+6938,Propanol 1L Bottle,PROP/1L/B,57,3426,RJ4367,195282,7/31/2024,North,Propanol,2024,July,Jaipur,Rajasthan,small 
+6287,Propanol 3L Drum ,PROP/3L/D,163,1200,RJ4367,195600,9/30/2020,North,Propanol,2020,September,Jaipur,Rajasthan,small 
+4509,Propanol 1L Can,PROP/1L/C,76,1300,KA2349,98800,12/13/2023,South,Propanol,2023,December,Bangalore,Karnataka,large
+7605,Propanol 1L Can,PROP/1L/C,183,1300,KA2349,237900,9/27/2020,South,Propanol,2020,September,Bangalore,Karnataka,large
+7728,Propanol 1L Can,PROP/1L/C,129,1300,TN2347,167700,6/4/2020,South,Propanol,2020,June,Chennai,Tamil Nadu,large
+6671,Propanol 1L Can,PROP/1L/C,96,1300,PU2675,124800,8/18/2024,North,Propanol,2024,August,Bhatinda ,Punjab,large
+7677,Ethanol 1L Can,ETH/1L/C,144,200,AS9648,28800,5/10/2020,East,Ethanol,2020,May,Jorhat ,Assam,small 
+4217,Ethanol 3L Drum,ETH/3L/D,98,1500,TL2348,147000,1/3/2021,South,Ethanol,2021,January,Hyderabad,Telangana,small 
+6930,Butanol 2L Bottle,BUT/2L/B,191,657,TL2348,125487,1/1/2024,South,Butanol,2024,January,Hyderabad,Telangana,small 
+6335,Propanol 3L Drum ,PROP/3L/D,68,1200,RJ4367,81600,3/1/2024,North,Propanol,2024,March,Jaipur,Rajasthan,small 
+7224,Propanol 3L Drum ,PROP/3L/D,141,1200,MH2345,169200,7/3/2022,West,Propanol,2022,July,Mumbai,Maharashtra,small 
+5695,Propanol 1L Can,PROP/1L/C,49,1300,MA2350,63700,3/17/2022,West,Propanol,2022,March,Pune,Maharashtra,small 
+7181,Butanol 2L Bottle,BUT/2L/B,75,657,RJ4367,49275,8/15/2022,North,Butanol,2022,August,Jaipur,Rajasthan,small 
+7908,Ethanol 1L Can,ETH/1L/C,97,200,WB2346,19400,7/18/2024,East,Ethanol,2024,July,Kolkata,West Bengal,large
+6557,Propanol 1L Bottle,PROP/1L/B,49,3426,AS9648,167874,4/13/2020,East,Propanol,2020,April,Jorhat ,Assam,small 
+5322,Butanol 2L Bottle,BUT/2L/B,108,657,MA2350,70956,4/19/2020,West,Butanol,2020,April,Pune,Maharashtra,small 
+6923,Ethanol 1L Bottle,ETH/1L/B,166,100,TN2347,16600,5/29/2021,South,Ethanol,2021,May,Chennai,Tamil Nadu,large
+4719,Propanol 1L Can,PROP/1L/C,82,1300,MA2350,106600,7/21/2022,West,Propanol,2022,July,Pune,Maharashtra,small 
+6746,Propanol 1L Can,PROP/1L/C,145,1300,MA2350,188500,3/29/2024,West,Propanol,2024,March,Pune,Maharashtra,small 
+5764,Propanol 1L Bottle,PROP/1L/B,165,3426,WB2346,565290,3/8/2023,East,Propanol,2023,March,Kolkata,West Bengal,large
+6700,Ethanol 3L Drum,ETH/3L/D,18,1500,PU2675,27000,6/29/2020,North,Ethanol,2020,June,Bhatinda ,Punjab,large
+4824,Propanol 1L Can,PROP/1L/C,89,1300,MA2350,115700,9/13/2020,West,Propanol,2020,September,Pune,Maharashtra,small 
+6249,Butanol 2L Bottle,BUT/2L/B,156,657,AS9648,102492,1/16/2022,East,Butanol,2022,January,Jorhat ,Assam,small 
+6592,Propanol 3L Drum ,PROP/3L/D,85,1200,MA2350,102000,1/23/2024,West,Propanol,2024,January,Pune,Maharashtra,small 
+6143,Propanol 1L Bottle,PROP/1L/B,190,3426,AS9648,650940,9/15/2021,East,Propanol,2021,September,Jorhat ,Assam,small 
+5437,Ethanol 1L Can,ETH/1L/C,13,200,RJ4367,2600,11/12/2022,North,Ethanol,2022,November,Jaipur,Rajasthan,small 
+5871,Ethanol 1L Bottle,ETH/1L/B,167,100,PU2675,16700,6/19/2022,North,Ethanol,2022,June,Bhatinda ,Punjab,large
+4261,Ethanol 1L Bottle,ETH/1L/B,122,100,MH2345,12200,6/18/2023,West,Ethanol,2023,June,Mumbai,Maharashtra,small 
+5661,Ethanol 1L Bottle,ETH/1L/B,144,100,TN2347,14400,1/14/2023,South,Ethanol,2023,January,Chennai,Tamil Nadu,large
+5787,Butanol 2L Bottle,BUT/2L/B,200,657,MH2345,131400,12/30/2021,West,Butanol,2021,December,Mumbai,Maharashtra,small 
+7796,Butanol 2L Bottle,BUT/2L/B,146,657,KA2349,95922,9/3/2020,South,Butanol,2020,September,Bangalore,Karnataka,large
+6386,Propanol 1L Bottle,PROP/1L/B,59,3426,MA2350,202134,9/9/2020,West,Propanol,2020,September,Pune,Maharashtra,small 
+7955,Ethanol 1L Can,ETH/1L/C,190,200,MH2345,38000,12/27/2023,West,Ethanol,2023,December,Mumbai,Maharashtra,small 
+5759,Propanol 1L Can,PROP/1L/C,197,1300,TN2347,256100,9/24/2022,South,Propanol,2022,September,Chennai,Tamil Nadu,large
+7252,Ethanol 1L Bottle,ETH/1L/B,109,100,WB2346,10900,7/11/2023,East,Ethanol,2023,July,Kolkata,West Bengal,large
+6361,Propanol 1L Can,PROP/1L/C,173,1300,MA2350,224900,10/30/2023,West,Propanol,2023,October,Pune,Maharashtra,small 
+7887,Ethanol 1L Can,ETH/1L/C,40,200,WB2346,8000,10/23/2020,East,Ethanol,2020,October,Kolkata,West Bengal,large
+4035,Ethanol 1L Bottle,ETH/1L/B,102,100,MA2350,10200,4/19/2024,West,Ethanol,2024,April,Pune,Maharashtra,small 
+4632,Propanol 1L Bottle,PROP/1L/B,191,3426,AS9648,654366,10/15/2021,East,Propanol,2021,October,Jorhat ,Assam,small 
+4111,Propanol 1L Can,PROP/1L/C,72,1300,MA2350,93600,2/10/2024,West,Propanol,2024,February,Pune,Maharashtra,small 
+5535,Propanol 3L Drum ,PROP/3L/D,107,1200,TL2348,128400,9/5/2022,South,Propanol,2022,September,Hyderabad,Telangana,small 
+4837,Propanol 1L Bottle,PROP/1L/B,78,3426,TN2347,267228,12/21/2022,South,Propanol,2022,December,Chennai,Tamil Nadu,large
+7011,Butanol 2L Bottle,BUT/2L/B,134,657,MH2345,88038,4/11/2024,West,Butanol,2024,April,Mumbai,Maharashtra,small 
+5232,Ethanol 1L Can,ETH/1L/C,100,200,WB2346,20000,5/26/2024,East,Ethanol,2024,May,Kolkata,West Bengal,large
+4787,Propanol 3L Drum ,PROP/3L/D,172,1200,WB2346,206400,10/10/2023,East,Propanol,2023,October,Kolkata,West Bengal,large
+6751,Propanol 1L Bottle,PROP/1L/B,49,3426,MA2350,167874,1/20/2024,West,Propanol,2024,January,Pune,Maharashtra,small 
+5222,Propanol 1L Can,PROP/1L/C,49,1300,AS9648,63700,1/28/2022,East,Propanol,2022,January,Jorhat ,Assam,small 
+4712,Propanol 1L Can,PROP/1L/C,181,1300,AS9648,235300,6/17/2024,East,Propanol,2024,June,Jorhat ,Assam,small 
+4399,Propanol 1L Can,PROP/1L/C,80,1300,MA2350,104000,12/11/2023,West,Propanol,2023,December,Pune,Maharashtra,small 
+5401,Ethanol 1L Bottle,ETH/1L/B,50,100,TN2347,5000,1/24/2020,South,Ethanol,2020,January,Chennai,Tamil Nadu,large
+6534,Ethanol 1L Bottle,ETH/1L/B,186,100,RJ4367,18600,5/18/2022,North,Ethanol,2022,May,Jaipur,Rajasthan,small 
+7150,Propanol 3L Drum ,PROP/3L/D,33,1200,TL2348,39600,1/29/2024,South,Propanol,2024,January,Hyderabad,Telangana,small 
+6668,Butanol 2L Bottle,BUT/2L/B,31,657,WB2346,20367,3/25/2021,East,Butanol,2021,March,Kolkata,West Bengal,large
+5908,Propanol 3L Drum ,PROP/3L/D,88,1200,WB2346,105600,1/6/2024,East,Propanol,2024,January,Kolkata,West Bengal,large
+6455,Ethanol 1L Bottle,ETH/1L/B,64,100,TL2348,6400,4/13/2024,South,Ethanol,2024,April,Hyderabad,Telangana,small 
+6774,Propanol 1L Can,PROP/1L/C,175,1300,TL2348,227500,6/6/2022,South,Propanol,2022,June,Hyderabad,Telangana,small 
+4995,Propanol 1L Bottle,PROP/1L/B,104,3426,MA2350,356304,2/27/2022,West,Propanol,2022,February,Pune,Maharashtra,small 
+7450,Ethanol 1L Bottle,ETH/1L/B,148,100,RJ4367,14800,2/27/2024,North,Ethanol,2024,February,Jaipur,Rajasthan,small 
+5030,Butanol 2L Bottle,BUT/2L/B,95,657,TL2348,62415,7/26/2024,South,Butanol,2024,July,Hyderabad,Telangana,small 
+4594,Ethanol 1L Can,ETH/1L/C,91,200,AS9648,18200,7/29/2021,East,Ethanol,2021,July,Jorhat ,Assam,small 
+5069,Butanol 2L Bottle,BUT/2L/B,97,657,WB2346,63729,3/6/2022,East,Butanol,2022,March,Kolkata,West Bengal,large
+6897,Ethanol 3L Drum,ETH/3L/D,49,1500,MH2345,73500,7/4/2020,West,Ethanol,2020,July,Mumbai,Maharashtra,small 
+7668,Butanol 2L Bottle,BUT/2L/B,92,657,TL2348,60444,12/26/2020,South,Butanol,2020,December,Hyderabad,Telangana,small 
+6455,Propanol 1L Can,PROP/1L/C,137,1300,TL2348,178100,2/21/2020,South,Propanol,2020,February,Hyderabad,Telangana,small 
+7702,Propanol 1L Bottle,PROP/1L/B,27,3426,TL2348,92502,6/23/2024,South,Propanol,2024,June,Hyderabad,Telangana,small 
+4059,Butanol 2L Bottle,BUT/2L/B,120,657,PU2675,78840,1/29/2020,North,Butanol,2020,January,Bhatinda ,Punjab,large
+6299,Ethanol 1L Bottle,ETH/1L/B,142,100,PU2675,14200,8/16/2022,North,Ethanol,2022,August,Bhatinda ,Punjab,large
+4552,Ethanol 1L Can,ETH/1L/C,134,200,RJ4367,26800,5/24/2020,North,Ethanol,2020,May,Jaipur,Rajasthan,small 
+5690,Ethanol 3L Drum,ETH/3L/D,114,1500,TL2348,171000,1/31/2023,South,Ethanol,2023,January,Hyderabad,Telangana,small 
+7990,Ethanol 1L Can,ETH/1L/C,148,200,AS9648,29600,11/12/2023,East,Ethanol,2023,November,Jorhat ,Assam,small 
+6495,Propanol 1L Bottle,PROP/1L/B,181,3426,TN2347,620106,4/27/2020,South,Propanol,2020,April,Chennai,Tamil Nadu,large
+5999,Butanol 2L Bottle,BUT/2L/B,89,657,AS9648,58473,10/8/2024,East,Butanol,2024,October,Jorhat ,Assam,small 
+7076,Propanol 1L Bottle,PROP/1L/B,74,3426,TN2347,253524,7/26/2020,South,Propanol,2020,July,Chennai,Tamil Nadu,large
+7495,Ethanol 1L Can,ETH/1L/C,143,200,MA2350,28600,8/29/2021,West,Ethanol,2021,August,Pune,Maharashtra,small 
+4162,Propanol 1L Bottle,PROP/1L/B,132,3426,WB2346,452232,1/18/2024,East,Propanol,2024,January,Kolkata,West Bengal,large
+4739,Propanol 1L Bottle,PROP/1L/B,195,3426,TL2348,668070,6/30/2022,South,Propanol,2022,June,Hyderabad,Telangana,small 
+4827,Propanol 1L Can,PROP/1L/C,132,1300,TN2347,171600,4/24/2020,South,Propanol,2020,April,Chennai,Tamil Nadu,large
+7689,Butanol 2L Bottle,BUT/2L/B,39,657,PU2675,25623,7/31/2024,North,Butanol,2024,July,Bhatinda ,Punjab,large
+5497,Propanol 1L Bottle,PROP/1L/B,50,3426,TN2347,171300,10/26/2022,South,Propanol,2022,October,Chennai,Tamil Nadu,large
+5526,Propanol 1L Can,PROP/1L/C,160,1300,PU2675,208000,3/4/2023,North,Propanol,2023,March,Bhatinda ,Punjab,large
+4720,Propanol 1L Can,PROP/1L/C,90,1300,TL2348,117000,12/28/2021,South,Propanol,2021,December,Hyderabad,Telangana,small 
+6250,Propanol 1L Can,PROP/1L/C,31,1300,RJ4367,40300,6/29/2020,North,Propanol,2020,June,Jaipur,Rajasthan,small 
+5618,Ethanol 3L Drum,ETH/3L/D,61,1500,TL2348,91500,10/28/2020,South,Ethanol,2020,October,Hyderabad,Telangana,small 
+6828,Propanol 1L Can,PROP/1L/C,192,1300,WB2346,249600,9/3/2023,East,Propanol,2023,September,Kolkata,West Bengal,large
+6905,Ethanol 1L Can,ETH/1L/C,57,200,KA2349,11400,8/10/2023,South,Ethanol,2023,August,Bangalore,Karnataka,large
+5626,Ethanol 1L Bottle,ETH/1L/B,163,100,AS9648,16300,1/9/2023,East,Ethanol,2023,January,Jorhat ,Assam,small 
+5435,Butanol 2L Bottle,BUT/2L/B,111,657,TN2347,72927,3/6/2021,South,Butanol,2021,March,Chennai,Tamil Nadu,large
+5965,Ethanol 1L Can,ETH/1L/C,98,200,TL2348,19600,12/8/2024,South,Ethanol,2024,December,Hyderabad,Telangana,small 
+6290,Ethanol 1L Can,ETH/1L/C,191,200,TN2347,38200,7/11/2022,South,Ethanol,2022,July,Chennai,Tamil Nadu,large
+5628,Butanol 2L Bottle,BUT/2L/B,42,657,MA2350,27594,3/21/2022,West,Butanol,2022,March,Pune,Maharashtra,small 
+6668,Ethanol 1L Bottle,ETH/1L/B,20,100,AS9648,2000,6/6/2021,East,Ethanol,2021,June,Jorhat ,Assam,small 
+5575,Propanol 1L Bottle,PROP/1L/B,34,3426,PU2675,116484,8/16/2024,North,Propanol,2024,August,Bhatinda ,Punjab,large
+4863,Ethanol 1L Bottle,ETH/1L/B,75,100,RJ4367,7500,6/30/2021,North,Ethanol,2021,June,Jaipur,Rajasthan,small 
+7939,Propanol 3L Drum ,PROP/3L/D,24,1200,RJ4367,28800,12/29/2022,North,Propanol,2022,December,Jaipur,Rajasthan,small 
+7276,Ethanol 1L Bottle,ETH/1L/B,54,100,MH2345,5400,10/24/2022,West,Ethanol,2022,October,Mumbai,Maharashtra,small 
+7561,Propanol 1L Can,PROP/1L/C,166,1300,TL2348,215800,3/9/2021,South,Propanol,2021,March,Hyderabad,Telangana,small 
+6549,Butanol 2L Bottle,BUT/2L/B,111,657,MH2345,72927,9/3/2022,West,Butanol,2022,September,Mumbai,Maharashtra,small 
+6892,Propanol 1L Can,PROP/1L/C,108,1300,MA2350,140400,11/3/2023,West,Propanol,2023,November,Pune,Maharashtra,small 
+7506,Propanol 1L Bottle,PROP/1L/B,16,3426,MA2350,54816,11/18/2023,West,Propanol,2023,November,Pune,Maharashtra,small 
+7619,Ethanol 1L Can,ETH/1L/C,171,200,AS9648,34200,6/26/2023,East,Ethanol,2023,June,Jorhat ,Assam,small 
+5061,Ethanol 3L Drum,ETH/3L/D,45,1500,MH2345,67500,9/26/2020,West,Ethanol,2020,September,Mumbai,Maharashtra,small 
+6999,Propanol 1L Can,PROP/1L/C,128,1300,AS9648,166400,1/23/2020,East,Propanol,2020,January,Jorhat ,Assam,small 
+5826,Ethanol 3L Drum,ETH/3L/D,62,1500,PU2675,93000,2/10/2022,North,Ethanol,2022,February,Bhatinda ,Punjab,large
+5866,Propanol 3L Drum ,PROP/3L/D,74,1200,KA2349,88800,1/18/2023,South,Propanol,2023,January,Bangalore,Karnataka,large
+7036,Ethanol 1L Bottle,ETH/1L/B,188,100,RJ4367,18800,11/4/2022,North,Ethanol,2022,November,Jaipur,Rajasthan,small 
+7199,Ethanol 1L Can,ETH/1L/C,109,200,KA2349,21800,12/12/2022,South,Ethanol,2022,December,Bangalore,Karnataka,large
+6024,Ethanol 1L Can,ETH/1L/C,59,200,AS9648,11800,4/23/2021,East,Ethanol,2021,April,Jorhat ,Assam,small 
+6573,Propanol 3L Drum ,PROP/3L/D,87,1200,PU2675,104400,6/25/2022,North,Propanol,2022,June,Bhatinda ,Punjab,large
+6930,Propanol 3L Drum ,PROP/3L/D,111,1200,RJ4367,133200,6/14/2021,North,Propanol,2021,June,Jaipur,Rajasthan,small 
+5840,Propanol 3L Drum ,PROP/3L/D,47,1200,KA2349,56400,2/15/2023,South,Propanol,2023,February,Bangalore,Karnataka,large
+6296,Propanol 1L Bottle,PROP/1L/B,181,3426,KA2349,620106,11/7/2023,South,Propanol,2023,November,Bangalore,Karnataka,large
+5934,Ethanol 1L Bottle,ETH/1L/B,66,100,AS9648,6600,7/4/2024,East,Ethanol,2024,July,Jorhat ,Assam,small 
+4956,Ethanol 1L Bottle,ETH/1L/B,35,100,TL2348,3500,10/21/2021,South,Ethanol,2021,October,Hyderabad,Telangana,small 
+5942,Propanol 3L Drum ,PROP/3L/D,162,1200,PU2675,194400,4/30/2022,North,Propanol,2022,April,Bhatinda ,Punjab,large
+6495,Propanol 3L Drum ,PROP/3L/D,175,1200,KA2349,210000,3/25/2024,South,Propanol,2024,March,Bangalore,Karnataka,large
+4017,Ethanol 3L Drum,ETH/3L/D,14,1500,TL2348,21000,12/26/2024,South,Ethanol,2024,December,Hyderabad,Telangana,small 
+4409,Propanol 1L Can,PROP/1L/C,108,1300,AS9648,140400,10/12/2024,East,Propanol,2024,October,Jorhat ,Assam,small 
+6441,Propanol 1L Can,PROP/1L/C,49,1300,TL2348,63700,9/6/2023,South,Propanol,2023,September,Hyderabad,Telangana,small 
+7162,Butanol 2L Bottle,BUT/2L/B,138,657,PU2675,90666,3/7/2024,North,Butanol,2024,March,Bhatinda ,Punjab,large
+5588,Ethanol 1L Can,ETH/1L/C,134,200,RJ4367,26800,3/2/2023,North,Ethanol,2023,March,Jaipur,Rajasthan,small 
+4694,Ethanol 1L Can,ETH/1L/C,162,200,KA2349,32400,1/21/2023,South,Ethanol,2023,January,Bangalore,Karnataka,large
+6987,Butanol 2L Bottle,BUT/2L/B,76,657,AS9648,49932,9/10/2021,East,Butanol,2021,September,Jorhat ,Assam,small 
+6021,Propanol 3L Drum ,PROP/3L/D,80,1200,MA2350,96000,6/28/2022,West,Propanol,2022,June,Pune,Maharashtra,small 
+5740,Ethanol 3L Drum,ETH/3L/D,75,1500,KA2349,112500,7/17/2023,South,Ethanol,2023,July,Bangalore,Karnataka,large
+4557,Propanol 1L Bottle,PROP/1L/B,179,3426,TL2348,613254,7/7/2021,South,Propanol,2021,July,Hyderabad,Telangana,small 
+4118,Ethanol 3L Drum,ETH/3L/D,128,1500,RJ4367,192000,11/23/2022,North,Ethanol,2022,November,Jaipur,Rajasthan,small 
+6760,Ethanol 1L Bottle,ETH/1L/B,41,100,AS9648,4100,12/10/2020,East,Ethanol,2020,December,Jorhat ,Assam,small 
+7766,Propanol 1L Bottle,PROP/1L/B,139,3426,TN2347,476214,2/16/2020,South,Propanol,2020,February,Chennai,Tamil Nadu,large
+5366,Propanol 3L Drum ,PROP/3L/D,155,1200,KA2349,186000,10/19/2023,South,Propanol,2023,October,Bangalore,Karnataka,large
+4478,Propanol 3L Drum ,PROP/3L/D,105,1200,MA2350,126000,2/6/2021,West,Propanol,2021,February,Pune,Maharashtra,small 
+6092,Butanol 2L Bottle,BUT/2L/B,73,657,WB2346,47961,8/18/2023,East,Butanol,2023,August,Kolkata,West Bengal,large
+7437,Propanol 1L Bottle,PROP/1L/B,108,3426,PU2675,370008,1/17/2020,North,Propanol,2020,January,Bhatinda ,Punjab,large
+6951,Propanol 1L Can,PROP/1L/C,51,1300,AS9648,66300,7/1/2024,East,Propanol,2024,July,Jorhat ,Assam,small 
+4041,Butanol 2L Bottle,BUT/2L/B,100,657,MH2345,65700,7/4/2020,West,Butanol,2020,July,Mumbai,Maharashtra,small 
+4086,Ethanol 1L Can,ETH/1L/C,46,200,RJ4367,9200,4/8/2022,North,Ethanol,2022,April,Jaipur,Rajasthan,small 
+6387,Propanol 1L Can,PROP/1L/C,105,1300,MH2345,136500,7/31/2022,West,Propanol,2022,July,Mumbai,Maharashtra,small 
+4466,Propanol 3L Drum ,PROP/3L/D,120,1200,TN2347,144000,2/9/2021,South,Propanol,2021,February,Chennai,Tamil Nadu,large
+4492,Propanol 3L Drum ,PROP/3L/D,21,1200,RJ4367,25200,12/6/2020,North,Propanol,2020,December,Jaipur,Rajasthan,small 
+6513,Propanol 3L Drum ,PROP/3L/D,44,1200,TN2347,52800,12/12/2023,South,Propanol,2023,December,Chennai,Tamil Nadu,large
+6391,Butanol 2L Bottle,BUT/2L/B,90,657,WB2346,59130,4/9/2021,East,Butanol,2021,April,Kolkata,West Bengal,large
+5365,Ethanol 3L Drum,ETH/3L/D,36,1500,MA2350,54000,10/13/2024,West,Ethanol,2024,October,Pune,Maharashtra,small 
+6581,Ethanol 1L Bottle,ETH/1L/B,192,100,KA2349,19200,7/28/2022,South,Ethanol,2022,July,Bangalore,Karnataka,large
+4911,Ethanol 3L Drum,ETH/3L/D,171,1500,MH2345,256500,9/17/2023,West,Ethanol,2023,September,Mumbai,Maharashtra,small 
+4674,Propanol 1L Bottle,PROP/1L/B,57,3426,TN2347,195282,9/12/2024,South,Propanol,2024,September,Chennai,Tamil Nadu,large
+4226,Ethanol 1L Bottle,ETH/1L/B,43,100,RJ4367,4300,1/17/2021,North,Ethanol,2021,January,Jaipur,Rajasthan,small 
+6913,Ethanol 3L Drum,ETH/3L/D,26,1500,TL2348,39000,3/29/2021,South,Ethanol,2021,March,Hyderabad,Telangana,small 
+5696,Propanol 1L Bottle,PROP/1L/B,168,3426,AS9648,575568,1/25/2021,East,Propanol,2021,January,Jorhat ,Assam,small 
+6262,Ethanol 1L Bottle,ETH/1L/B,70,100,PU2675,7000,8/26/2021,North,Ethanol,2021,August,Bhatinda ,Punjab,large
+7593,Butanol 2L Bottle,BUT/2L/B,101,657,AS9648,66357,6/26/2022,East,Butanol,2022,June,Jorhat ,Assam,small 
+6637,Ethanol 3L Drum,ETH/3L/D,21,1500,TN2347,31500,3/29/2024,South,Ethanol,2024,March,Chennai,Tamil Nadu,large
+5089,Ethanol 3L Drum,ETH/3L/D,24,1500,WB2346,36000,7/28/2021,East,Ethanol,2021,July,Kolkata,West Bengal,large
+7328,Ethanol 1L Bottle,ETH/1L/B,76,100,TL2348,7600,11/29/2022,South,Ethanol,2022,November,Hyderabad,Telangana,small 
+7817,Ethanol 3L Drum,ETH/3L/D,14,1500,MA2350,21000,10/10/2020,West,Ethanol,2020,October,Pune,Maharashtra,small 
+7661,Ethanol 3L Drum,ETH/3L/D,67,1500,KA2349,100500,5/11/2021,South,Ethanol,2021,May,Bangalore,Karnataka,large
+4019,Propanol 1L Can,PROP/1L/C,147,1300,TL2348,191100,11/15/2022,South,Propanol,2022,November,Hyderabad,Telangana,small 
+6877,Ethanol 1L Can,ETH/1L/C,47,200,TL2348,9400,2/5/2022,South,Ethanol,2022,February,Hyderabad,Telangana,small 
+7238,Ethanol 1L Bottle,ETH/1L/B,41,100,MA2350,4100,1/11/2020,West,Ethanol,2020,January,Pune,Maharashtra,small 
+6457,Propanol 1L Can,PROP/1L/C,138,1300,MA2350,179400,1/20/2020,West,Propanol,2020,January,Pune,Maharashtra,small 
+7472,Propanol 1L Bottle,PROP/1L/B,127,3426,RJ4367,435102,3/30/2020,North,Propanol,2020,March,Jaipur,Rajasthan,small 
+5579,Propanol 1L Bottle,PROP/1L/B,148,3426,WB2346,507048,6/29/2022,East,Propanol,2022,June,Kolkata,West Bengal,large
+5778,Propanol 3L Drum ,PROP/3L/D,71,1200,AS9648,85200,8/19/2020,East,Propanol,2020,August,Jorhat ,Assam,small 
+7142,Ethanol 3L Drum,ETH/3L/D,85,1500,PU2675,127500,7/18/2023,North,Ethanol,2023,July,Bhatinda ,Punjab,large
+6911,Butanol 2L Bottle,BUT/2L/B,35,657,TN2347,22995,2/9/2024,South,Butanol,2024,February,Chennai,Tamil Nadu,large
+5600,Ethanol 1L Bottle,ETH/1L/B,148,100,PU2675,14800,5/6/2024,North,Ethanol,2024,May,Bhatinda ,Punjab,large
+5465,Ethanol 3L Drum,ETH/3L/D,194,1500,TL2348,291000,8/27/2022,South,Ethanol,2022,August,Hyderabad,Telangana,small 
+5457,Ethanol 1L Can,ETH/1L/C,71,200,TN2347,14200,8/24/2022,South,Ethanol,2022,August,Chennai,Tamil Nadu,large
+5282,Propanol 3L Drum ,PROP/3L/D,82,1200,WB2346,98400,8/31/2021,East,Propanol,2021,August,Kolkata,West Bengal,large
+7426,Ethanol 3L Drum,ETH/3L/D,84,1500,TN2347,126000,1/4/2021,South,Ethanol,2021,January,Chennai,Tamil Nadu,large
+6883,Propanol 3L Drum ,PROP/3L/D,170,1200,MH2345,204000,5/22/2020,West,Propanol,2020,May,Mumbai,Maharashtra,small 
+5364,Ethanol 1L Bottle,ETH/1L/B,195,100,TL2348,19500,2/9/2022,South,Ethanol,2022,February,Hyderabad,Telangana,small 
+6114,Ethanol 3L Drum,ETH/3L/D,130,1500,PU2675,195000,4/27/2024,North,Ethanol,2024,April,Bhatinda ,Punjab,large
+4592,Butanol 2L Bottle,BUT/2L/B,48,657,RJ4367,31536,9/10/2024,North,Butanol,2024,September,Jaipur,Rajasthan,small 
+4156,Butanol 2L Bottle,BUT/2L/B,124,657,KA2349,81468,8/3/2023,South,Butanol,2023,August,Bangalore,Karnataka,large
+7179,Ethanol 1L Bottle,ETH/1L/B,123,100,KA2349,12300,2/17/2020,South,Ethanol,2020,February,Bangalore,Karnataka,large
+6430,Ethanol 1L Bottle,ETH/1L/B,197,100,RJ4367,19700,5/8/2024,North,Ethanol,2024,May,Jaipur,Rajasthan,small 
+7118,Propanol 1L Can,PROP/1L/C,127,1300,TN2347,165100,8/18/2024,South,Propanol,2024,August,Chennai,Tamil Nadu,large
+7086,Propanol 3L Drum ,PROP/3L/D,171,1200,TL2348,205200,5/8/2023,South,Propanol,2023,May,Hyderabad,Telangana,small 
+6771,Propanol 1L Bottle,PROP/1L/B,176,3426,MA2350,602976,3/14/2024,West,Propanol,2024,March,Pune,Maharashtra,small 
+7575,Propanol 1L Can,PROP/1L/C,198,1300,AS9648,257400,5/23/2024,East,Propanol,2024,May,Jorhat ,Assam,small 
+7565,Propanol 1L Bottle,PROP/1L/B,108,3426,MH2345,370008,9/16/2021,West,Propanol,2021,September,Mumbai,Maharashtra,small 
+6214,Propanol 1L Can,PROP/1L/C,12,1300,MH2345,15600,1/20/2024,West,Propanol,2024,January,Mumbai,Maharashtra,small 
+5174,Butanol 2L Bottle,BUT/2L/B,57,657,TL2348,37449,10/1/2022,South,Butanol,2022,October,Hyderabad,Telangana,small 
+7329,Propanol 1L Bottle,PROP/1L/B,132,3426,MA2350,452232,3/21/2022,West,Propanol,2022,March,Pune,Maharashtra,small 
+6336,Propanol 1L Can,PROP/1L/C,174,1300,AS9648,226200,8/16/2023,East,Propanol,2023,August,Jorhat ,Assam,small 
+4568,Ethanol 3L Drum,ETH/3L/D,161,1500,RJ4367,241500,1/18/2022,North,Ethanol,2022,January,Jaipur,Rajasthan,small 
+5344,Propanol 1L Can,PROP/1L/C,124,1300,MH2345,161200,4/14/2022,West,Propanol,2022,April,Mumbai,Maharashtra,small 
+4518,Ethanol 3L Drum,ETH/3L/D,173,1500,KA2349,259500,8/24/2021,South,Ethanol,2021,August,Bangalore,Karnataka,large
+6975,Propanol 1L Bottle,PROP/1L/B,101,3426,KA2349,346026,11/20/2022,South,Propanol,2022,November,Bangalore,Karnataka,large
+5842,Ethanol 3L Drum,ETH/3L/D,99,1500,MA2350,148500,12/11/2022,West,Ethanol,2022,December,Pune,Maharashtra,small 
+6646,Ethanol 3L Drum,ETH/3L/D,59,1500,MH2345,88500,2/22/2023,West,Ethanol,2023,February,Mumbai,Maharashtra,small 
+4489,Propanol 1L Bottle,PROP/1L/B,138,3426,MH2345,472788,2/1/2023,West,Propanol,2023,February,Mumbai,Maharashtra,small 
+5667,Ethanol 3L Drum,ETH/3L/D,79,1500,PU2675,118500,8/24/2020,North,Ethanol,2020,August,Bhatinda ,Punjab,large
+5064,Ethanol 3L Drum,ETH/3L/D,45,1500,KA2349,67500,9/2/2020,South,Ethanol,2020,September,Bangalore,Karnataka,large
+4521,Ethanol 1L Bottle,ETH/1L/B,147,100,WB2346,14700,2/6/2020,East,Ethanol,2020,February,Kolkata,West Bengal,large
+5826,Propanol 3L Drum ,PROP/3L/D,55,1200,PU2675,66000,7/20/2024,North,Propanol,2024,July,Bhatinda ,Punjab,large
+4170,Propanol 3L Drum ,PROP/3L/D,114,1200,PU2675,136800,7/26/2023,North,Propanol,2023,July,Bhatinda ,Punjab,large
+7437,Propanol 1L Bottle,PROP/1L/B,163,3426,MA2350,558438,4/10/2020,West,Propanol,2020,April,Pune,Maharashtra,small 
+7103,Propanol 1L Can,PROP/1L/C,199,1300,MA2350,258700,12/16/2024,West,Propanol,2024,December,Pune,Maharashtra,small 
+7975,Butanol 2L Bottle,PROP/3L/D,43,657,MH2345,28251,5/26/2020,West,Propanol,2020,May,Mumbai,Maharashtra,small 
+7158,Propanol 3L Drum ,PROP/3L/D,175,1200,TN2347,210000,6/11/2020,South,Propanol,2020,June,Chennai,Tamil Nadu,large
+5675,Ethanol 1L Can,ETH/1L/C,76,200,MA2350,15200,2/19/2020,West,Ethanol,2020,February,Pune,Maharashtra,small 
+7255,Propanol 1L Bottle,PROP/1L/B,154,3426,RJ4367,527604,5/2/2023,North,Propanol,2023,May,Jaipur,Rajasthan,small 
+7069,Ethanol 1L Bottle,ETH/1L/B,143,100,TL2348,14300,4/16/2021,South,Ethanol,2021,April,Hyderabad,Telangana,small 
+7402,Ethanol 1L Bottle,ETH/1L/B,158,100,MA2350,15800,3/20/2022,West,Ethanol,2022,March,Pune,Maharashtra,small 
+6150,Propanol 1L Bottle,PROP/3L/D,68,3426,RJ4367,232968,6/25/2020,North,Propanol,2020,June,Jaipur,Rajasthan,small 
+6008,Ethanol 1L Bottle,ETH/1L/B,192,100,TN2347,19200,12/17/2021,South,Ethanol,2021,December,Chennai,Tamil Nadu,large
+5367,Propanol 1L Bottle,PROP/1L/B,136,3426,RJ4367,465936,1/10/2023,North,Propanol,2023,January,Jaipur,Rajasthan,small 
+5669,Propanol 3L Drum ,PROP/3L/D,51,1200,AS9648,61200,5/14/2021,East,Propanol,2021,May,Jorhat ,Assam,small 
+5882,Ethanol 3L Drum,ETH/3L/D,32,1500,MH2345,48000,9/24/2021,West,Ethanol,2021,September,Mumbai,Maharashtra,small 
+7662,Ethanol 1L Can,ETH/1L/C,29,200,KA2349,5800,5/30/2024,South,Ethanol,2024,May,Bangalore,Karnataka,large
+5291,Propanol 1L Can,PROP/1L/C,16,1300,AS9648,20800,1/15/2023,East,Propanol,2023,January,Jorhat ,Assam,small 
+7067,Ethanol 3L Drum,ETH/3L/D,172,1500,AS9648,258000,2/4/2024,East,Ethanol,2024,February,Jorhat ,Assam,small 
+6553,Ethanol 1L Bottle,ETH/1L/B,86,100,MH2345,8600,8/4/2022,West,Ethanol,2022,August,Mumbai,Maharashtra,small 
+6339,Propanol 1L Can,PROP/1L/C,134,1300,RJ4367,174200,8/6/2024,North,Propanol,2024,August,Jaipur,Rajasthan,small 
+6787,Ethanol 1L Bottle,ETH/1L/B,176,100,TL2348,17600,1/14/2023,South,Ethanol,2023,January,Hyderabad,Telangana,small 
+6001,Butanol 2L Bottle,BUT/2L/B,33,657,RJ4367,21681,7/11/2022,North,Butanol,2022,July,Jaipur,Rajasthan,small 
+4444,Ethanol 1L Bottle,ETH/1L/B,183,100,PU2675,18300,11/15/2023,North,Ethanol,2023,November,Bhatinda ,Punjab,large
+5960,Ethanol 1L Can,ETH/1L/C,101,200,PU2675,20200,3/27/2021,North,Ethanol,2021,March,Bhatinda ,Punjab,large
+5200,Ethanol 1L Can,ETH/1L/C,175,200,TN2347,35000,8/8/2020,South,Ethanol,2020,August,Chennai,Tamil Nadu,large
+7040,Propanol 1L Bottle,PROP/1L/B,188,3426,RJ4367,644088,7/19/2024,North,Propanol,2024,July,Jaipur,Rajasthan,small 
+4657,Ethanol 3L Drum,ETH/3L/D,18,1500,TN2347,27000,4/20/2020,South,Ethanol,2020,April,Chennai,Tamil Nadu,large
+5924,Ethanol 1L Can,ETH/1L/C,147,200,KA2349,29400,5/16/2021,South,Ethanol,2021,May,Bangalore,Karnataka,large
+5747,Ethanol 1L Can,ETH/1L/C,134,200,TN2347,26800,8/2/2020,South,Ethanol,2020,August,Chennai,Tamil Nadu,large
+7814,Ethanol 3L Drum,ETH/3L/D,79,1500,AS9648,118500,7/24/2022,East,Ethanol,2022,July,Jorhat ,Assam,small 
+4001,Ethanol 3L Drum,ETH/3L/D,174,1500,TN2347,261000,5/25/2022,South,Ethanol,2022,May,Chennai,Tamil Nadu,large
+4615,Ethanol 3L Drum,ETH/3L/D,173,1500,PU2675,259500,7/9/2020,North,Ethanol,2020,July,Bhatinda ,Punjab,large
+6276,Propanol 1L Can,PROP/1L/C,176,1300,TN2347,228800,5/3/2022,South,Propanol,2022,May,Chennai,Tamil Nadu,large
+5715,Ethanol 3L Drum,ETH/3L/D,106,1500,MH2345,159000,7/29/2020,West,Ethanol,2020,July,Mumbai,Maharashtra,small 
+5392,Ethanol 1L Can,ETH/1L/C,84,200,MH2345,16800,12/12/2022,West,Ethanol,2022,December,Mumbai,Maharashtra,small 
+7903,Butanol 2L Bottle,BUT/2L/B,77,657,KA2349,50589,3/2/2021,South,Butanol,2021,March,Bangalore,Karnataka,large
+5524,Butanol 2L Bottle,BUT/2L/B,121,657,AS9648,79497,4/27/2024,East,Butanol,2024,April,Jorhat ,Assam,small 
+6133,Propanol 1L Bottle,PROP/1L/B,151,3426,MA2350,517326,9/18/2022,West,Propanol,2022,September,Pune,Maharashtra,small 
+6028,Ethanol 1L Bottle,ETH/1L/B,79,100,WB2346,7900,12/5/2022,East,Ethanol,2022,December,Kolkata,West Bengal,large
+6638,Propanol 1L Can,PROP/1L/C,128,1300,PU2675,166400,7/31/2024,North,Propanol,2024,July,Bhatinda ,Punjab,large
+7036,Ethanol 1L Can,ETH/1L/C,35,200,KA2349,7000,9/3/2023,South,Ethanol,2023,September,Bangalore,Karnataka,large
+7871,Propanol 1L Can,PROP/1L/C,123,1300,WB2346,159900,10/28/2024,East,Propanol,2024,October,Kolkata,West Bengal,large
+7457,Propanol 1L Bottle,PROP/1L/B,15,3426,PU2675,51390,5/17/2024,North,Propanol,2024,May,Bhatinda ,Punjab,large
+7689,Propanol 1L Can,PROP/1L/C,153,1300,AS9648,198900,7/12/2021,East,Propanol,2021,July,Jorhat ,Assam,small 
+7904,Ethanol 3L Drum,ETH/3L/D,103,1500,TL2348,154500,1/15/2021,South,Ethanol,2021,January,Hyderabad,Telangana,small 
+6412,Propanol 1L Bottle,PROP/1L/B,46,3426,MH2345,157596,8/9/2024,West,Propanol,2024,August,Mumbai,Maharashtra,small 
+5350,Propanol 1L Bottle,PROP/1L/B,156,3426,AS9648,534456,6/29/2021,East,Propanol,2021,June,Jorhat ,Assam,small 
+4139,Ethanol 3L Drum,ETH/3L/D,186,1500,KA2349,279000,5/27/2024,South,Ethanol,2024,May,Bangalore,Karnataka,large
+7922,Ethanol 1L Can,ETH/1L/C,170,200,RJ4367,34000,2/11/2023,North,Ethanol,2023,February,Jaipur,Rajasthan,small 
+5733,Propanol 3L Drum ,PROP/3L/D,188,1200,RJ4367,225600,4/2/2022,North,Propanol,2022,April,Jaipur,Rajasthan,small 
+4978,Ethanol 1L Bottle,ETH/1L/B,82,100,WB2346,8200,6/13/2023,East,Ethanol,2023,June,Kolkata,West Bengal,large
+7107,Propanol 1L Bottle,PROP/1L/B,104,3426,AS9648,356304,7/7/2021,East,Propanol,2021,July,Jorhat ,Assam,small 
+4435,Butanol 2L Bottle,BUT/2L/B,46,657,TL2348,30222,6/8/2022,South,Butanol,2022,June,Hyderabad,Telangana,small 
+7995,Propanol 1L Bottle,PROP/1L/B,57,3426,KA2349,195282,4/3/2024,South,Propanol,2024,April,Bangalore,Karnataka,large
+6930,Ethanol 1L Can,ETH/1L/C,119,200,MH2345,23800,3/17/2023,West,Ethanol,2023,March,Mumbai,Maharashtra,small 
+7759,Propanol 1L Can,PROP/1L/C,161,1300,TN2347,209300,5/28/2022,South,Propanol,2022,May,Chennai,Tamil Nadu,large
+4115,Propanol 1L Bottle,PROP/1L/B,29,3426,TN2347,99354,5/11/2022,South,Propanol,2022,May,Chennai,Tamil Nadu,large
+4853,Propanol 1L Bottle,PROP/1L/B,104,3426,RJ4367,356304,12/13/2021,North,Propanol,2021,December,Jaipur,Rajasthan,small 
+6554,Butanol 2L Bottle,BUT/2L/B,79,657,WB2346,51903,7/2/2020,East,Butanol,2020,July,Kolkata,West Bengal,large
+4582,Propanol 3L Drum ,PROP/3L/D,196,1200,TL2348,235200,1/18/2020,South,Propanol,2020,January,Hyderabad,Telangana,small 
+5105,Butanol 2L Bottle,BUT/2L/B,149,657,MH2345,97893,4/28/2021,West,Butanol,2021,April,Mumbai,Maharashtra,small 
+6018,Ethanol 3L Drum,ETH/3L/D,182,1500,TN2347,273000,3/6/2024,South,Ethanol,2024,March,Chennai,Tamil Nadu,large
+7742,Ethanol 3L Drum,ETH/3L/D,61,1500,KA2349,91500,8/6/2020,South,Ethanol,2020,August,Bangalore,Karnataka,large
+7830,Butanol 2L Bottle,BUT/2L/B,161,657,RJ4367,105777,7/7/2023,North,Butanol,2023,July,Jaipur,Rajasthan,small 
+4439,Butanol 2L Bottle,BUT/2L/B,105,657,MH2345,68985,5/1/2023,West,Butanol,2023,May,Mumbai,Maharashtra,small 
+7089,Ethanol 3L Drum,ETH/3L/D,91,1500,MH2345,136500,6/2/2022,West,Ethanol,2022,June,Mumbai,Maharashtra,small 
+6187,Ethanol 3L Drum,ETH/3L/D,167,1500,AS9648,250500,10/17/2021,East,Ethanol,2021,October,Jorhat ,Assam,small 
+4731,Butanol 2L Bottle,BUT/2L/B,37,657,AS9648,24309,2/1/2021,East,Butanol,2021,February,Jorhat ,Assam,small 
+5763,Propanol 1L Bottle,PROP/1L/B,71,3426,TL2348,243246,7/3/2020,South,Propanol,2020,July,Hyderabad,Telangana,small 
+4713,Propanol 1L Bottle,PROP/1L/B,174,3426,RJ4367,596124,11/19/2022,North,Propanol,2022,November,Jaipur,Rajasthan,small 
+6114,Butanol 2L Bottle,BUT/2L/B,54,657,KA2349,35478,8/31/2023,South,Butanol,2023,August,Bangalore,Karnataka,large
+6325,Ethanol 1L Bottle,ETH/1L/B,31,100,MA2350,3100,6/2/2024,West,Ethanol,2024,June,Pune,Maharashtra,small 
+4595,Propanol 1L Bottle,PROP/1L/B,84,3426,TL2348,287784,8/6/2022,South,Propanol,2022,August,Hyderabad,Telangana,small 
+5651,Propanol 1L Can,PROP/1L/C,165,1300,WB2346,214500,5/16/2023,East,Propanol,2023,May,Kolkata,West Bengal,large
+4381,Butanol 2L Bottle,BUT/2L/B,189,657,RJ4367,124173,12/9/2020,North,Butanol,2020,December,Jaipur,Rajasthan,small 
+4512,Ethanol 3L Drum,ETH/3L/D,186,1500,WB2346,279000,2/5/2020,East,Ethanol,2020,February,Kolkata,West Bengal,large
+6694,Ethanol 1L Bottle,ETH/1L/B,141,100,PU2675,14100,9/10/2021,North,Ethanol,2021,September,Bhatinda ,Punjab,large
+7533,Butanol 2L Bottle,BUT/2L/B,81,657,KA2349,53217,10/26/2022,South,Butanol,2022,October,Bangalore,Karnataka,large
+7059,Propanol 1L Bottle,PROP/1L/B,34,3426,WB2346,116484,4/14/2024,East,Propanol,2024,April,Kolkata,West Bengal,large
+7259,Propanol 1L Bottle,PROP/1L/B,44,3426,RJ4367,150744,5/19/2024,North,Propanol,2024,May,Jaipur,Rajasthan,small 
+6092,Propanol 1L Bottle,PROP/1L/B,156,3426,TN2347,534456,10/2/2021,South,Propanol,2021,October,Chennai,Tamil Nadu,large
+7662,Propanol 3L Drum ,PROP/3L/D,26,1200,MH2345,31200,2/3/2023,West,Propanol,2023,February,Mumbai,Maharashtra,small 
+7376,Ethanol 1L Can,ETH/1L/C,105,200,RJ4367,21000,10/4/2020,North,Ethanol,2020,October,Jaipur,Rajasthan,small 
+5423,Propanol 1L Can,PROP/1L/C,179,1300,RJ4367,232700,9/16/2023,North,Propanol,2023,September,Jaipur,Rajasthan,small 
+6943,Propanol 1L Can,PROP/1L/C,80,1300,RJ4367,104000,2/15/2022,North,Propanol,2022,February,Jaipur,Rajasthan,small 
+5217,Propanol 1L Can,PROP/1L/C,71,1300,AS9648,92300,2/11/2021,East,Propanol,2021,February,Jorhat ,Assam,small 
+6043,Propanol 1L Bottle,PROP/1L/B,199,3426,TN2347,681774,7/29/2022,South,Propanol,2022,July,Chennai,Tamil Nadu,large
+6425,Ethanol 1L Bottle,ETH/1L/B,71,100,RJ4367,7100,12/13/2020,North,Ethanol,2020,December,Jaipur,Rajasthan,small 
+4566,Butanol 2L Bottle,BUT/2L/B,22,657,KA2349,14454,4/19/2021,South,Butanol,2021,April,Bangalore,Karnataka,large
+5380,Propanol 3L Drum ,PROP/3L/D,55,1200,MA2350,66000,1/23/2022,West,Propanol,2022,January,Pune,Maharashtra,small 
+4936,Butanol 2L Bottle,BUT/2L/B,159,657,MA2350,104463,11/28/2020,West,Butanol,2020,November,Pune,Maharashtra,small 
+7522,Propanol 3L Drum ,PROP/3L/D,33,1200,TL2348,39600,6/27/2022,South,Propanol,2022,June,Hyderabad,Telangana,small 
+6780,Propanol 3L Drum ,PROP/3L/D,38,1200,PU2675,45600,12/22/2021,North,Propanol,2021,December,Bhatinda ,Punjab,large
+4254,Ethanol 1L Can,ETH/1L/C,51,200,PU2675,10200,9/3/2020,North,Ethanol,2020,September,Bhatinda ,Punjab,large
+7750,Propanol 1L Can,PROP/1L/C,97,1300,TN2347,126100,9/7/2024,South,Propanol,2024,September,Chennai,Tamil Nadu,large
+6778,Propanol 3L Drum ,PROP/3L/D,31,1200,AS9648,37200,6/22/2020,East,Propanol,2020,June,Jorhat ,Assam,small 
+5038,Butanol 2L Bottle,BUT/2L/B,69,657,AS9648,45333,9/18/2023,East,Butanol,2023,September,Jorhat ,Assam,small 
+4059,Propanol 1L Can,PROP/1L/C,199,1300,TL2348,258700,8/24/2023,South,Propanol,2023,August,Hyderabad,Telangana,small 
+6766,Ethanol 1L Can,ETH/1L/C,183,200,TL2348,36600,6/21/2024,South,Ethanol,2024,June,Hyderabad,Telangana,small 
+6276,Propanol 3L Drum ,PROP/3L/D,175,1200,PU2675,210000,10/20/2021,North,Propanol,2021,October,Bhatinda ,Punjab,large
+5234,Ethanol 1L Can,ETH/1L/C,59,200,WB2346,11800,1/4/2022,East,Ethanol,2022,January,Kolkata,West Bengal,large
+6093,Propanol 1L Bottle,PROP/1L/B,196,3426,AS9648,671496,4/26/2022,East,Propanol,2022,April,Jorhat ,Assam,small 
+5591,Ethanol 1L Can,ETH/1L/C,194,200,RJ4367,38800,8/1/2024,North,Ethanol,2024,August,Jaipur,Rajasthan,small 
+5129,Ethanol 1L Bottle,ETH/1L/B,198,100,PU2675,19800,3/31/2024,North,Ethanol,2024,March,Bhatinda ,Punjab,large
+5454,Ethanol 1L Bottle,ETH/1L/B,95,100,AS9648,9500,10/14/2023,East,Ethanol,2023,October,Jorhat ,Assam,small 
+7500,Butanol 2L Bottle,BUT/2L/B,163,657,KA2349,107091,2/2/2022,South,Butanol,2022,February,Bangalore,Karnataka,large
+6411,Ethanol 1L Can,ETH/1L/C,76,200,TN2347,15200,7/12/2020,South,Ethanol,2020,July,Chennai,Tamil Nadu,large
+6865,Propanol 1L Can,PROP/1L/C,28,1300,RJ4367,36400,1/10/2022,North,Propanol,2022,January,Jaipur,Rajasthan,small 
+5636,Propanol 1L Can,PROP/1L/C,74,1300,WB2346,96200,6/21/2022,East,Propanol,2022,June,Kolkata,West Bengal,large
+7871,Propanol 3L Drum ,PROP/3L/D,124,1200,MA2350,148800,11/14/2022,West,Propanol,2022,November,Pune,Maharashtra,small 
+5957,Propanol 1L Bottle,PROP/1L/B,150,3426,WB2346,513900,6/20/2024,East,Propanol,2024,June,Kolkata,West Bengal,large
+5796,Propanol 1L Bottle,PROP/1L/B,26,3426,WB2346,89076,9/28/2021,East,Propanol,2021,September,Kolkata,West Bengal,large
+6206,Ethanol 1L Bottle,ETH/1L/B,171,100,TL2348,17100,1/3/2022,South,Ethanol,2022,January,Hyderabad,Telangana,small 
+7184,Propanol 3L Drum ,PROP/3L/D,66,1200,MH2345,79200,3/23/2023,West,Propanol,2023,March,Mumbai,Maharashtra,small 
+5586,Ethanol 3L Drum,ETH/3L/D,188,1500,KA2349,282000,2/21/2023,South,Ethanol,2023,February,Bangalore,Karnataka,large
+5914,Ethanol 1L Can,ETH/1L/C,104,200,TL2348,20800,7/15/2021,South,Ethanol,2021,July,Hyderabad,Telangana,small 
+7303,Ethanol 3L Drum,ETH/3L/D,192,1500,AS9648,288000,3/2/2023,East,Ethanol,2023,March,Jorhat ,Assam,small 
+7693,Propanol 3L Drum ,PROP/3L/D,68,1200,RJ4367,81600,11/6/2021,North,Propanol,2021,November,Jaipur,Rajasthan,small 
+6171,Butanol 2L Bottle,BUT/2L/B,44,657,WB2346,28908,10/7/2021,East,Butanol,2021,October,Kolkata,West Bengal,large
+7109,Propanol 1L Can,PROP/1L/C,119,1300,TL2348,154700,2/4/2024,South,Propanol,2024,February,Hyderabad,Telangana,small 
+5108,Propanol 3L Drum ,PROP/3L/D,127,1200,TN2347,152400,6/5/2023,South,Propanol,2023,June,Chennai,Tamil Nadu,large
+7403,Ethanol 3L Drum,ETH/3L/D,29,1500,PU2675,43500,1/3/2023,North,Ethanol,2023,January,Bhatinda ,Punjab,large
+6647,Propanol 1L Can,PROP/1L/C,129,1300,MA2350,167700,7/19/2021,West,Propanol,2021,July,Pune,Maharashtra,small 
+5363,Propanol 1L Bottle,PROP/1L/B,10,3426,MH2345,34260,12/7/2024,West,Propanol,2024,December,Mumbai,Maharashtra,small 
+5370,Ethanol 3L Drum,ETH/3L/D,118,1500,MH2345,177000,1/28/2022,West,Ethanol,2022,January,Mumbai,Maharashtra,small 
+4680,Butanol 2L Bottle,BUT/2L/B,102,657,TL2348,67014,12/17/2022,South,Butanol,2022,December,Hyderabad,Telangana,small 
+4699,Ethanol 1L Can,ETH/1L/C,158,200,KA2349,31600,11/15/2020,South,Ethanol,2020,November,Bangalore,Karnataka,large
+6558,Propanol 1L Can,PROP/1L/C,66,1300,AS9648,85800,3/9/2021,East,Propanol,2021,March,Jorhat ,Assam,small 
+5313,Propanol 1L Can,PROP/1L/C,129,1300,MA2350,167700,10/31/2021,West,Propanol,2021,October,Pune,Maharashtra,small 
+5221,Ethanol 1L Can,ETH/1L/C,145,200,PU2675,29000,6/9/2020,North,Ethanol,2020,June,Bhatinda ,Punjab,large
+5846,Propanol 1L Can,PROP/1L/C,55,1300,AS9648,71500,12/22/2021,East,Propanol,2021,December,Jorhat ,Assam,small 
+7260,Ethanol 3L Drum,ETH/3L/D,121,1500,TN2347,181500,5/9/2024,South,Ethanol,2024,May,Chennai,Tamil Nadu,large
+5908,Propanol 1L Can,PROP/1L/C,99,1300,WB2346,128700,6/5/2024,East,Propanol,2024,June,Kolkata,West Bengal,large
+6859,Propanol 1L Can,PROP/1L/C,181,1300,TN2347,235300,1/11/2024,South,Propanol,2024,January,Chennai,Tamil Nadu,large
+6937,Butanol 2L Bottle,BUT/2L/B,77,657,KA2349,50589,1/18/2020,South,Butanol,2020,January,Bangalore,Karnataka,large
+5144,Butanol 2L Bottle,BUT/2L/B,67,657,MH2345,44019,9/30/2020,West,Butanol,2020,September,Mumbai,Maharashtra,small 
+4585,Ethanol 1L Can,ETH/1L/C,135,200,KA2349,27000,8/18/2021,South,Ethanol,2021,August,Bangalore,Karnataka,large
+6977,Propanol 3L Drum ,PROP/3L/D,171,1200,TN2347,205200,4/23/2020,South,Propanol,2020,April,Chennai,Tamil Nadu,large
+6514,Propanol 1L Can,PROP/1L/C,40,1300,TL2348,52000,8/29/2022,South,Propanol,2022,August,Hyderabad,Telangana,small 
+7272,Propanol 1L Bottle,PROP/1L/B,28,3426,TL2348,95928,10/16/2020,South,Propanol,2020,October,Hyderabad,Telangana,small 
+4836,Ethanol 3L Drum,ETH/3L/D,66,1500,TL2348,99000,6/23/2023,South,Ethanol,2023,June,Hyderabad,Telangana,small 
+4194,Propanol 1L Bottle,PROP/1L/B,75,3426,RJ4367,256950,8/26/2023,North,Propanol,2023,August,Jaipur,Rajasthan,small 
+4705,Propanol 3L Drum ,PROP/3L/D,196,1200,PU2675,235200,1/12/2024,North,Propanol,2024,January,Bhatinda ,Punjab,large
+6043,Ethanol 3L Drum,ETH/3L/D,71,1500,AS9648,106500,10/13/2023,East,Ethanol,2023,October,Jorhat ,Assam,small 
+7772,Ethanol 3L Drum,ETH/3L/D,37,1500,MH2345,55500,10/14/2020,West,Ethanol,2020,October,Mumbai,Maharashtra,small 
+7327,Ethanol 3L Drum,ETH/3L/D,109,1500,KA2349,163500,8/14/2022,South,Ethanol,2022,August,Bangalore,Karnataka,large
+7778,Ethanol 1L Can,ETH/1L/C,97,200,WB2346,19400,10/19/2024,East,Ethanol,2024,October,Kolkata,West Bengal,large
+6757,Butanol 2L Bottle,BUT/2L/B,61,657,TN2347,40077,7/31/2021,South,Butanol,2021,July,Chennai,Tamil Nadu,large
+4420,Ethanol 3L Drum,ETH/3L/D,22,1500,MA2350,33000,6/29/2022,West,Ethanol,2022,June,Pune,Maharashtra,small 
+7791,Ethanol 1L Bottle,ETH/1L/B,145,100,RJ4367,14500,8/8/2024,North,Ethanol,2024,August,Jaipur,Rajasthan,small 
+4698,Propanol 3L Drum ,PROP/3L/D,172,1200,AS9648,206400,12/5/2022,East,Propanol,2022,December,Jorhat ,Assam,small 
+6166,Ethanol 1L Can,ETH/1L/C,31,200,TL2348,6200,2/17/2023,South,Ethanol,2023,February,Hyderabad,Telangana,small 
+5534,Propanol 1L Bottle,PROP/1L/B,72,3426,KA2349,246672,5/3/2022,South,Propanol,2022,May,Bangalore,Karnataka,large
+7568,Ethanol 3L Drum,ETH/3L/D,145,1500,WB2346,217500,8/7/2023,East,Ethanol,2023,August,Kolkata,West Bengal,large
+4410,Propanol 1L Can,PROP/1L/C,91,1300,RJ4367,118300,7/25/2021,North,Propanol,2021,July,Jaipur,Rajasthan,small 
+5001,Propanol 1L Bottle,PROP/1L/B,46,3426,TL2348,157596,10/28/2023,South,Propanol,2023,October,Hyderabad,Telangana,small 
+6854,Propanol 1L Bottle,PROP/1L/B,186,3426,TL2348,637236,8/2/2021,South,Propanol,2021,August,Hyderabad,Telangana,small 
+5512,Propanol 1L Bottle,PROP/1L/B,57,3426,TN2347,195282,5/13/2021,South,Propanol,2021,May,Chennai,Tamil Nadu,large
+7608,Ethanol 1L Can,ETH/1L/C,172,200,MA2350,34400,1/5/2020,West,Ethanol,2020,January,Pune,Maharashtra,small 
+6159,Propanol 3L Drum ,PROP/3L/D,117,1200,PU2675,140400,1/7/2024,North,Propanol,2024,January,Bhatinda ,Punjab,large
+5220,Ethanol 1L Can,ETH/1L/C,160,200,MH2345,32000,12/3/2020,West,Ethanol,2020,December,Mumbai,Maharashtra,small 
+5428,Propanol 1L Can,PROP/1L/C,71,1300,MA2350,92300,9/13/2023,West,Propanol,2023,September,Pune,Maharashtra,small 
+5956,Butanol 2L Bottle,BUT/2L/B,157,657,WB2346,103149,11/14/2021,East,Butanol,2021,November,Kolkata,West Bengal,large
+6381,Ethanol 1L Bottle,ETH/1L/B,199,100,TL2348,19900,4/19/2020,South,Ethanol,2020,April,Hyderabad,Telangana,small 
+7262,Ethanol 3L Drum,ETH/3L/D,161,1500,WB2346,241500,3/12/2024,East,Ethanol,2024,March,Kolkata,West Bengal,large
+4683,Ethanol 3L Drum,ETH/3L/D,136,1500,MA2350,204000,3/7/2023,West,Ethanol,2023,March,Pune,Maharashtra,small 
+6412,Propanol 1L Bottle,PROP/1L/B,28,3426,WB2346,95928,6/25/2020,East,Propanol,2020,June,Kolkata,West Bengal,large
+7016,Ethanol 1L Can,ETH/1L/C,19,200,KA2349,3800,1/21/2021,South,Ethanol,2021,January,Bangalore,Karnataka,large
+5926,Propanol 3L Drum ,PROP/3L/D,179,1200,RJ4367,214800,9/26/2024,North,Propanol,2024,September,Jaipur,Rajasthan,small 
+4183,Propanol 1L Can,PROP/1L/C,80,1300,TL2348,104000,2/22/2022,South,Propanol,2022,February,Hyderabad,Telangana,small 
+4108,Ethanol 1L Bottle,ETH/1L/B,113,100,TL2348,11300,3/11/2022,South,Ethanol,2022,March,Hyderabad,Telangana,small 
+6533,Butanol 2L Bottle,BUT/2L/B,101,657,WB2346,66357,9/21/2022,East,Butanol,2022,September,Kolkata,West Bengal,large
+7847,Ethanol 1L Can,ETH/1L/C,155,200,MA2350,31000,9/29/2024,West,Ethanol,2024,September,Pune,Maharashtra,small 
+4143,Butanol 2L Bottle,BUT/2L/B,118,657,MH2345,77526,4/18/2020,West,Butanol,2020,April,Mumbai,Maharashtra,small 
+4297,Ethanol 3L Drum,ETH/3L/D,181,1500,TL2348,271500,8/23/2024,South,Ethanol,2024,August,Hyderabad,Telangana,small 
+6969,Propanol 3L Drum ,PROP/3L/D,88,1200,AS9648,105600,9/18/2022,East,Propanol,2022,September,Jorhat ,Assam,small 
+4700,Propanol 3L Drum ,PROP/3L/D,113,1200,RJ4367,135600,10/2/2020,North,Propanol,2020,October,Jaipur,Rajasthan,small 
+4640,Ethanol 3L Drum,ETH/3L/D,181,1500,KA2349,271500,9/25/2023,South,Ethanol,2023,September,Bangalore,Karnataka,large
+6519,Ethanol 3L Drum,ETH/3L/D,109,1500,MA2350,163500,7/12/2023,West,Ethanol,2023,July,Pune,Maharashtra,small 
+4722,Propanol 1L Bottle,PROP/1L/B,65,3426,MH2345,222690,12/3/2024,West,Propanol,2024,December,Mumbai,Maharashtra,small 
+5859,Butanol 2L Bottle,BUT/2L/B,83,657,MH2345,54531,2/10/2022,West,Butanol,2022,February,Mumbai,Maharashtra,small 
+5410,Propanol 3L Drum ,PROP/3L/D,13,1200,KA2349,15600,11/27/2020,South,Propanol,2020,November,Bangalore,Karnataka,large
+6328,Butanol 2L Bottle,BUT/2L/B,28,657,RJ4367,18396,2/8/2024,North,Butanol,2024,February,Jaipur,Rajasthan,small 
+6460,Propanol 1L Bottle,PROP/1L/B,42,3426,PU2675,143892,2/22/2021,North,Propanol,2021,February,Bhatinda ,Punjab,large
+6373,Propanol 1L Can,PROP/1L/C,17,1300,TL2348,22100,7/25/2021,South,Propanol,2021,July,Hyderabad,Telangana,small 
+4899,Butanol 2L Bottle,BUT/2L/B,159,657,MA2350,104463,3/31/2020,West,Butanol,2020,March,Pune,Maharashtra,small 
+5234,Propanol 1L Bottle,PROP/1L/B,13,3426,KA2349,44538,2/6/2022,South,Propanol,2022,February,Bangalore,Karnataka,large
+6145,Butanol 2L Bottle,BUT/2L/B,45,657,TN2347,29565,7/18/2021,South,Butanol,2021,July,Chennai,Tamil Nadu,large
+5090,Butanol 2L Bottle,BUT/2L/B,92,657,WB2346,60444,1/14/2020,East,Butanol,2020,January,Kolkata,West Bengal,large
+4198,Ethanol 3L Drum,ETH/3L/D,188,1500,TL2348,282000,2/28/2024,South,Ethanol,2024,February,Hyderabad,Telangana,small 
+4263,Propanol 1L Bottle,PROP/1L/B,54,3426,MH2345,185004,5/26/2022,West,Propanol,2022,May,Mumbai,Maharashtra,small 
+6803,Butanol 2L Bottle,BUT/2L/B,10,657,TL2348,6570,3/1/2020,South,Butanol,2020,March,Hyderabad,Telangana,small 
+6203,Ethanol 3L Drum,ETH/3L/D,109,1500,RJ4367,163500,8/10/2022,North,Ethanol,2022,August,Jaipur,Rajasthan,small 
+4383,Ethanol 1L Bottle,ETH/1L/B,167,100,TL2348,16700,3/31/2023,South,Ethanol,2023,March,Hyderabad,Telangana,small 
+7038,Ethanol 1L Bottle,ETH/1L/B,183,100,MA2350,18300,5/27/2022,West,Ethanol,2022,May,Pune,Maharashtra,small 
+5040,Ethanol 1L Can,ETH/1L/C,58,200,TN2347,11600,12/16/2022,South,Ethanol,2022,December,Chennai,Tamil Nadu,large
+7541,Ethanol 3L Drum,ETH/3L/D,135,1500,MH2345,202500,9/25/2020,West,Ethanol,2020,September,Mumbai,Maharashtra,small 
+4029,Propanol 3L Drum ,PROP/3L/D,197,1200,WB2346,236400,8/16/2020,East,Propanol,2020,August,Kolkata,West Bengal,large
+7280,Ethanol 1L Can,ETH/1L/C,116,200,PU2675,23200,6/15/2023,North,Ethanol,2023,June,Bhatinda ,Punjab,large
+7590,Ethanol 1L Bottle,ETH/1L/B,148,100,KA2349,14800,3/27/2023,South,Ethanol,2023,March,Bangalore,Karnataka,large
+5673,Ethanol 3L Drum,ETH/3L/D,34,1500,MA2350,51000,1/5/2022,West,Ethanol,2022,January,Pune,Maharashtra,small 
+7072,Propanol 1L Bottle,PROP/1L/B,65,3426,MA2350,222690,9/9/2023,West,Propanol,2023,September,Pune,Maharashtra,small 
+4795,Ethanol 1L Bottle,ETH/1L/B,49,100,MA2350,4900,6/17/2022,West,Ethanol,2022,June,Pune,Maharashtra,small 
+6263,Propanol 1L Can,PROP/1L/C,131,1300,MA2350,170300,5/10/2020,West,Propanol,2020,May,Pune,Maharashtra,small 
+6796,Ethanol 3L Drum,ETH/3L/D,73,1500,WB2346,109500,11/22/2020,East,Ethanol,2020,November,Kolkata,West Bengal,large
+5062,Propanol 1L Bottle,PROP/1L/B,152,3426,WB2346,520752,3/18/2022,East,Propanol,2022,March,Kolkata,West Bengal,large
+4394,Butanol 2L Bottle,BUT/2L/B,132,657,MA2350,86724,9/12/2021,West,Butanol,2021,September,Pune,Maharashtra,small 
+4348,Ethanol 1L Can,ETH/1L/C,26,200,AS9648,5200,11/22/2020,East,Ethanol,2020,November,Jorhat ,Assam,small 
+4509,Propanol 1L Can,PROP/1L/C,158,1300,KA2349,205400,10/10/2021,South,Propanol,2021,October,Bangalore,Karnataka,large
+5138,Ethanol 1L Bottle,ETH/1L/B,190,100,PU2675,19000,6/27/2020,North,Ethanol,2020,June,Bhatinda ,Punjab,large
+5528,Propanol 1L Bottle,PROP/1L/B,189,3426,RJ4367,647514,12/1/2024,North,Propanol,2024,December,Jaipur,Rajasthan,small 
+4316,Ethanol 3L Drum,ETH/3L/D,103,1500,TL2348,154500,1/15/2023,South,Ethanol,2023,January,Hyderabad,Telangana,small 
+4534,Propanol 1L Bottle,PROP/1L/B,55,3426,MA2350,188430,4/16/2022,West,Propanol,2022,April,Pune,Maharashtra,small 
+5373,Ethanol 1L Bottle,ETH/1L/B,200,100,KA2349,20000,10/1/2022,South,Ethanol,2022,October,Bangalore,Karnataka,large
+5837,Propanol 1L Can,PROP/1L/C,195,1300,PU2675,253500,1/12/2022,North,Propanol,2022,January,Bhatinda ,Punjab,large
+6136,Butanol 2L Bottle,BUT/2L/B,103,657,AS9648,67671,10/19/2023,East,Butanol,2023,October,Jorhat ,Assam,small 
+7339,Propanol 1L Bottle,PROP/1L/B,151,3426,TL2348,517326,3/16/2023,South,Propanol,2023,March,Hyderabad,Telangana,small 
+4591,Propanol 1L Bottle,PROP/1L/B,88,3426,PU2675,301488,2/23/2020,North,Propanol,2020,February,Bhatinda ,Punjab,large
+6988,Butanol 2L Bottle,BUT/2L/B,119,657,AS9648,78183,10/29/2022,East,Butanol,2022,October,Jorhat ,Assam,small 
+6237,Propanol 1L Can,PROP/1L/C,181,1300,WB2346,235300,7/24/2022,East,Propanol,2022,July,Kolkata,West Bengal,large
+4314,Propanol 3L Drum ,PROP/3L/D,75,1200,WB2346,90000,3/10/2022,East,Propanol,2022,March,Kolkata,West Bengal,large
+6354,Propanol 1L Can,PROP/1L/C,165,1300,MA2350,214500,2/4/2020,West,Propanol,2020,February,Pune,Maharashtra,small 
+4940,Butanol 2L Bottle,BUT/2L/B,28,657,AS9648,18396,2/4/2023,East,Butanol,2023,February,Jorhat ,Assam,small 
+5377,Ethanol 1L Bottle,ETH/1L/B,163,100,WB2346,16300,3/12/2020,East,Ethanol,2020,March,Kolkata,West Bengal,large
+4457,Propanol 1L Can,PROP/1L/C,59,1300,RJ4367,76700,10/25/2023,North,Propanol,2023,October,Jaipur,Rajasthan,small 
+6956,Ethanol 3L Drum,ETH/3L/D,169,1500,AS9648,253500,3/6/2024,East,Ethanol,2024,March,Jorhat ,Assam,small 
+7390,Propanol 3L Drum ,PROP/3L/D,15,1200,TN2347,18000,1/11/2020,South,Propanol,2020,January,Chennai,Tamil Nadu,large
+7954,Propanol 1L Can,PROP/1L/C,69,1300,RJ4367,89700,3/15/2021,North,Propanol,2021,March,Jaipur,Rajasthan,small 
+6007,Ethanol 1L Can,ETH/1L/C,134,200,KA2349,26800,9/27/2020,South,Ethanol,2020,September,Bangalore,Karnataka,large
+7580,Ethanol 3L Drum,ETH/3L/D,10,1500,KA2349,15000,5/23/2024,South,Ethanol,2024,May,Bangalore,Karnataka,large
+7904,Ethanol 3L Drum,ETH/3L/D,159,1500,TN2347,238500,8/9/2022,South,Ethanol,2022,August,Chennai,Tamil Nadu,large
+4490,Propanol 1L Bottle,PROP/1L/B,146,3426,MH2345,500196,5/8/2023,West,Propanol,2023,May,Mumbai,Maharashtra,small 
+6758,Ethanol 1L Bottle,ETH/1L/B,84,100,MA2350,8400,11/19/2020,West,Ethanol,2020,November,Pune,Maharashtra,small 
+4533,Propanol 1L Bottle,PROP/1L/B,20,3426,MA2350,68520,1/16/2024,West,Propanol,2024,January,Pune,Maharashtra,small 
+7767,Ethanol 3L Drum,ETH/3L/D,64,1500,MA2350,96000,12/18/2021,West,Ethanol,2021,December,Pune,Maharashtra,small 
+4802,Propanol 1L Can,PROP/1L/C,24,1300,TL2348,31200,9/13/2023,South,Propanol,2023,September,Hyderabad,Telangana,small 
+7877,Propanol 1L Can,PROP/1L/C,74,1300,WB2346,96200,6/8/2023,East,Propanol,2023,June,Kolkata,West Bengal,large
+4233,Ethanol 1L Bottle,ETH/1L/B,163,100,TN2347,16300,7/17/2020,South,Ethanol,2020,July,Chennai,Tamil Nadu,large
+4741,Ethanol 1L Bottle,ETH/1L/B,11,100,RJ4367,1100,1/30/2020,North,Ethanol,2020,January,Jaipur,Rajasthan,small 
+6945,Butanol 2L Bottle,BUT/2L/B,153,657,WB2346,100521,5/30/2022,East,Butanol,2022,May,Kolkata,West Bengal,large
+6687,Ethanol 3L Drum,ETH/3L/D,180,1500,RJ4367,270000,7/8/2022,North,Ethanol,2022,July,Jaipur,Rajasthan,small 
+7294,Ethanol 1L Can,ETH/1L/C,133,200,AS9648,26600,9/16/2024,East,Ethanol,2024,September,Jorhat ,Assam,small 
+4669,Propanol 1L Bottle,PROP/1L/B,46,3426,TN2347,157596,8/27/2023,South,Propanol,2023,August,Chennai,Tamil Nadu,large
+7320,Ethanol 1L Bottle,ETH/1L/B,51,100,PU2675,5100,4/23/2024,North,Ethanol,2024,April,Bhatinda ,Punjab,large
+5046,Ethanol 3L Drum,ETH/3L/D,141,1500,MA2350,211500,10/26/2021,West,Ethanol,2021,October,Pune,Maharashtra,small 
+7236,Ethanol 1L Bottle,ETH/1L/B,173,100,KA2349,17300,2/20/2020,South,Ethanol,2020,February,Bangalore,Karnataka,large
+6435,Ethanol 1L Bottle,ETH/1L/B,186,100,TN2347,18600,8/25/2024,South,Ethanol,2024,August,Chennai,Tamil Nadu,large
+6321,Ethanol 1L Bottle,ETH/1L/B,132,100,PU2675,13200,9/10/2021,North,Ethanol,2021,September,Bhatinda ,Punjab,large
+6066,Ethanol 1L Bottle,ETH/1L/B,26,100,MA2350,2600,12/30/2021,West,Ethanol,2021,December,Pune,Maharashtra,small 
+7831,Ethanol 1L Can,ETH/1L/C,157,200,TL2348,31400,8/6/2024,South,Ethanol,2024,August,Hyderabad,Telangana,small 
+5948,Ethanol 1L Can,ETH/1L/C,174,200,KA2349,34800,6/2/2024,South,Ethanol,2024,June,Bangalore,Karnataka,large
+7418,Ethanol 1L Bottle,ETH/1L/B,35,100,MH2345,3500,5/28/2022,West,Ethanol,2022,May,Mumbai,Maharashtra,small 
+5430,Ethanol 3L Drum,ETH/3L/D,138,1500,TL2348,207000,5/25/2021,South,Ethanol,2021,May,Hyderabad,Telangana,small 
+6581,Ethanol 1L Can,ETH/1L/C,193,200,RJ4367,38600,6/8/2024,North,Ethanol,2024,June,Jaipur,Rajasthan,small 
+4445,Ethanol 1L Bottle,ETH/1L/B,77,100,PU2675,7700,6/23/2021,North,Ethanol,2021,June,Bhatinda ,Punjab,large
+6979,Ethanol 1L Bottle,ETH/1L/B,111,100,PU2675,11100,4/27/2020,North,Ethanol,2020,April,Bhatinda ,Punjab,large
+6688,Ethanol 1L Can,ETH/1L/C,64,200,MH2345,12800,3/4/2024,West,Ethanol,2024,March,Mumbai,Maharashtra,small 
+5309,Propanol 1L Bottle,PROP/1L/B,87,3426,PU2675,298062,8/11/2024,North,Propanol,2024,August,Bhatinda ,Punjab,large
+5932,Propanol 1L Bottle,PROP/1L/B,72,3426,AS9648,246672,8/20/2024,East,Propanol,2024,August,Jorhat ,Assam,small 
+5188,Propanol 1L Bottle,PROP/1L/B,162,3426,RJ4367,555012,8/30/2022,North,Propanol,2022,August,Jaipur,Rajasthan,small 
+5713,Butanol 2L Bottle,BUT/2L/B,38,657,MH2345,24966,4/19/2021,West,Butanol,2021,April,Mumbai,Maharashtra,small 
+6183,Propanol 3L Drum ,PROP/3L/D,168,1200,MH2345,201600,8/28/2021,West,Propanol,2021,August,Mumbai,Maharashtra,small 
+7065,Ethanol 1L Can,ETH/1L/C,186,200,AS9648,37200,12/29/2020,East,Ethanol,2020,December,Jorhat ,Assam,small 
+4659,Ethanol 1L Bottle,ETH/1L/B,175,100,MA2350,17500,4/14/2021,West,Ethanol,2021,April,Pune,Maharashtra,small 
+7651,Propanol 1L Can,PROP/1L/C,179,1300,KA2349,232700,12/9/2020,South,Propanol,2020,December,Bangalore,Karnataka,large
+5245,Ethanol 1L Can,ETH/1L/C,159,200,TL2348,31800,5/4/2020,South,Ethanol,2020,May,Hyderabad,Telangana,small 
+7067,Butanol 2L Bottle,BUT/2L/B,133,657,PU2675,87381,10/2/2021,North,Butanol,2021,October,Bhatinda ,Punjab,large
+5784,Propanol 3L Drum ,PROP/3L/D,50,1200,TN2347,60000,5/18/2024,South,Propanol,2024,May,Chennai,Tamil Nadu,large
+4575,Propanol 1L Can,PROP/1L/C,157,1300,WB2346,204100,1/6/2023,East,Propanol,2023,January,Kolkata,West Bengal,large
+5182,Propanol 3L Drum ,PROP/3L/D,72,1200,TL2348,86400,5/17/2024,South,Propanol,2024,May,Hyderabad,Telangana,small 
+6723,Propanol 1L Can,PROP/1L/C,16,1300,TN2347,20800,10/15/2020,South,Propanol,2020,October,Chennai,Tamil Nadu,large
+5988,Propanol 1L Bottle,PROP/1L/B,32,3426,AS9648,109632,4/1/2020,East,Propanol,2020,April,Jorhat ,Assam,small 
+7630,Propanol 3L Drum ,PROP/3L/D,81,1200,RJ4367,97200,5/15/2023,North,Propanol,2023,May,Jaipur,Rajasthan,small 
+4065,Propanol 1L Bottle,PROP/1L/B,109,3426,RJ4367,373434,3/24/2023,North,Propanol,2023,March,Jaipur,Rajasthan,small 
+7207,Ethanol 1L Can,ETH/1L/C,101,200,KA2349,20200,5/28/2022,South,Ethanol,2022,May,Bangalore,Karnataka,large
+4681,Butanol 2L Bottle,BUT/2L/B,129,657,WB2346,84753,2/8/2023,East,Butanol,2023,February,Kolkata,West Bengal,large
+7627,Propanol 1L Bottle,PROP/1L/B,79,3426,AS9648,270654,3/30/2023,East,Propanol,2023,March,Jorhat ,Assam,small 
+4328,Ethanol 3L Drum,ETH/3L/D,42,1500,RJ4367,63000,8/18/2021,North,Ethanol,2021,August,Jaipur,Rajasthan,small 
+4146,Propanol 3L Drum ,PROP/3L/D,124,1200,AS9648,148800,8/6/2020,East,Propanol,2020,August,Jorhat ,Assam,small 
+7106,Propanol 1L Bottle,PROP/1L/B,27,3426,KA2349,92502,10/4/2024,South,Propanol,2024,October,Bangalore,Karnataka,large
+7355,Propanol 3L Drum ,PROP/3L/D,92,1200,PU2675,110400,11/19/2024,North,Propanol,2024,November,Bhatinda ,Punjab,large
+4260,Ethanol 1L Bottle,ETH/1L/B,186,100,RJ4367,18600,4/2/2024,North,Ethanol,2024,April,Jaipur,Rajasthan,small 
+7405,Propanol 1L Bottle,PROP/1L/B,143,3426,MA2350,489918,8/7/2023,West,Propanol,2023,August,Pune,Maharashtra,small 
+6952,Ethanol 1L Bottle,ETH/1L/B,189,100,WB2346,18900,5/15/2024,East,Ethanol,2024,May,Kolkata,West Bengal,large
+6681,Ethanol 1L Bottle,ETH/1L/B,134,100,RJ4367,13400,6/25/2023,North,Ethanol,2023,June,Jaipur,Rajasthan,small 
+6380,Ethanol 1L Can,ETH/1L/C,104,200,MA2350,20800,10/4/2022,West,Ethanol,2022,October,Pune,Maharashtra,small 
+6500,Ethanol 3L Drum,ETH/3L/D,120,1500,WB2346,180000,10/18/2020,East,Ethanol,2020,October,Kolkata,West Bengal,large
+7986,Propanol 1L Bottle,PROP/1L/B,49,3426,TL2348,167874,4/9/2021,South,Propanol,2021,April,Hyderabad,Telangana,small 
+5412,Ethanol 3L Drum,ETH/3L/D,148,1500,MH2345,222000,10/1/2024,West,Ethanol,2024,October,Mumbai,Maharashtra,small 
+7539,Ethanol 3L Drum,ETH/3L/D,120,1500,MH2345,180000,12/3/2022,West,Ethanol,2022,December,Mumbai,Maharashtra,small 
+7499,Butanol 2L Bottle,BUT/2L/B,195,657,TN2347,128115,9/22/2024,South,Butanol,2024,September,Chennai,Tamil Nadu,large
+6561,Ethanol 3L Drum,ETH/3L/D,49,1500,MH2345,73500,4/29/2020,West,Ethanol,2020,April,Mumbai,Maharashtra,small 
+7103,Butanol 2L Bottle,BUT/2L/B,95,657,PU2675,62415,11/25/2022,North,Butanol,2022,November,Bhatinda ,Punjab,large
+7444,Ethanol 1L Can,ETH/1L/C,86,200,TN2347,17200,7/17/2023,South,Ethanol,2023,July,Chennai,Tamil Nadu,large
+7305,Propanol 1L Can,PROP/1L/C,60,1300,MA2350,78000,6/16/2024,West,Propanol,2024,June,Pune,Maharashtra,small 
+6864,Ethanol 1L Bottle,ETH/1L/B,110,100,WB2346,11000,3/9/2021,East,Ethanol,2021,March,Kolkata,West Bengal,large
+7425,Propanol 3L Drum ,PROP/3L/D,25,1200,MA2350,30000,11/12/2023,West,Propanol,2023,November,Pune,Maharashtra,small 
+4602,Propanol 1L Bottle,PROP/1L/B,57,3426,MA2350,195282,9/20/2021,West,Propanol,2021,September,Pune,Maharashtra,small 
+6909,Butanol 2L Bottle,BUT/2L/B,11,657,WB2346,7227,2/12/2021,East,Butanol,2021,February,Kolkata,West Bengal,large
+4511,Propanol 1L Bottle,PROP/1L/B,162,3426,RJ4367,555012,10/8/2024,North,Propanol,2024,October,Jaipur,Rajasthan,small 
+4616,Ethanol 1L Bottle,ETH/1L/B,180,100,KA2349,18000,6/2/2020,South,Ethanol,2020,June,Bangalore,Karnataka,large
+7910,Butanol 2L Bottle,BUT/2L/B,86,657,WB2346,56502,12/1/2023,East,Butanol,2023,December,Kolkata,West Bengal,large
+4171,Ethanol 1L Can,ETH/1L/C,146,200,KA2349,29200,1/2/2021,South,Ethanol,2021,January,Bangalore,Karnataka,large
+5342,Ethanol 3L Drum,ETH/3L/D,109,1500,RJ4367,163500,8/18/2024,North,Ethanol,2024,August,Jaipur,Rajasthan,small 
+7303,Propanol 3L Drum ,PROP/3L/D,166,1200,TN2347,199200,10/26/2023,South,Propanol,2023,October,Chennai,Tamil Nadu,large
+6801,Ethanol 1L Bottle,ETH/1L/B,119,100,WB2346,11900,3/25/2024,East,Ethanol,2024,March,Kolkata,West Bengal,large
+4307,Ethanol 3L Drum,ETH/3L/D,78,1500,RJ4367,117000,9/30/2024,North,Ethanol,2024,September,Jaipur,Rajasthan,small 
+4173,Butanol 2L Bottle,BUT/2L/B,158,657,KA2349,103806,4/3/2020,South,Butanol,2020,April,Bangalore,Karnataka,large
+7719,Butanol 2L Bottle,BUT/2L/B,170,657,TL2348,111690,9/10/2024,South,Butanol,2024,September,Hyderabad,Telangana,small 
+7726,Ethanol 3L Drum,ETH/3L/D,28,1500,MH2345,42000,6/2/2022,West,Ethanol,2022,June,Mumbai,Maharashtra,small 
+7196,Propanol 3L Drum ,PROP/3L/D,24,1200,PU2675,28800,5/21/2021,North,Propanol,2021,May,Bhatinda ,Punjab,large
+7931,Ethanol 3L Drum,ETH/3L/D,195,1500,MH2345,292500,8/19/2022,West,Ethanol,2022,August,Mumbai,Maharashtra,small 
+6941,Ethanol 1L Can,ETH/1L/C,92,200,RJ4367,18400,5/13/2023,North,Ethanol,2023,May,Jaipur,Rajasthan,small 
+7801,Propanol 1L Bottle,PROP/1L/B,121,3426,TL2348,414546,3/14/2021,South,Propanol,2021,March,Hyderabad,Telangana,small 
+6127,Propanol 3L Drum ,PROP/3L/D,95,1200,MH2345,114000,7/5/2022,West,Propanol,2022,July,Mumbai,Maharashtra,small 
+4248,Ethanol 1L Bottle,ETH/1L/B,85,100,TN2347,8500,3/3/2023,South,Ethanol,2023,March,Chennai,Tamil Nadu,large
+6266,Propanol 3L Drum ,PROP/3L/D,194,1200,KA2349,232800,10/23/2022,South,Propanol,2022,October,Bangalore,Karnataka,large
+5703,Ethanol 3L Drum,ETH/3L/D,157,1500,MH2345,235500,11/19/2022,West,Ethanol,2022,November,Mumbai,Maharashtra,small 
+5499,Ethanol 3L Drum,ETH/3L/D,151,1500,WB2346,226500,11/17/2023,East,Ethanol,2023,November,Kolkata,West Bengal,large
+5017,Ethanol 1L Bottle,ETH/1L/B,76,100,MA2350,7600,7/30/2022,West,Ethanol,2022,July,Pune,Maharashtra,small 
+5213,Ethanol 3L Drum,ETH/3L/D,104,1500,WB2346,156000,8/7/2023,East,Ethanol,2023,August,Kolkata,West Bengal,large
+5268,Propanol 3L Drum ,PROP/3L/D,170,1200,TL2348,204000,10/16/2022,South,Propanol,2022,October,Hyderabad,Telangana,small 
+7065,Propanol 1L Can,PROP/1L/C,32,1300,KA2349,41600,3/10/2021,South,Propanol,2021,March,Bangalore,Karnataka,large
+4938,Butanol 2L Bottle,BUT/2L/B,70,657,KA2349,45990,9/2/2020,South,Butanol,2020,September,Bangalore,Karnataka,large
+4359,Ethanol 1L Can,ETH/1L/C,153,200,MA2350,30600,4/22/2023,West,Ethanol,2023,April,Pune,Maharashtra,small 
+6381,Propanol 1L Bottle,PROP/1L/B,199,3426,TN2347,681774,11/13/2023,South,Propanol,2023,November,Chennai,Tamil Nadu,large
+5852,Propanol 1L Can,PROP/1L/C,36,1300,TN2347,46800,11/30/2022,South,Propanol,2022,November,Chennai,Tamil Nadu,large
+5744,Propanol 1L Can,PROP/1L/C,149,1300,MA2350,193700,10/21/2021,West,Propanol,2021,October,Pune,Maharashtra,small 
+5748,Butanol 2L Bottle,BUT/2L/B,127,657,KA2349,83439,4/25/2023,South,Butanol,2023,April,Bangalore,Karnataka,large
+4707,Ethanol 1L Bottle,ETH/1L/B,28,100,TN2347,2800,7/12/2023,South,Ethanol,2023,July,Chennai,Tamil Nadu,large
+7848,Ethanol 1L Can,ETH/1L/C,28,200,MA2350,5600,10/1/2021,West,Ethanol,2021,October,Pune,Maharashtra,small 
+6437,Propanol 1L Bottle,PROP/1L/B,26,3426,TL2348,89076,6/24/2023,South,Propanol,2023,June,Hyderabad,Telangana,small 
+6588,Butanol 2L Bottle,BUT/2L/B,33,657,TN2347,21681,4/27/2021,South,Butanol,2021,April,Chennai,Tamil Nadu,large
+5137,Propanol 1L Bottle,PROP/1L/B,67,3426,MH2345,229542,1/26/2021,West,Propanol,2021,January,Mumbai,Maharashtra,small 
+6628,Ethanol 1L Bottle,ETH/1L/B,50,100,MH2345,5000,7/28/2021,West,Ethanol,2021,July,Mumbai,Maharashtra,small 
+7579,Ethanol 1L Bottle,ETH/1L/B,116,100,TL2348,11600,9/1/2024,South,Ethanol,2024,September,Hyderabad,Telangana,small 
+5500,Ethanol 3L Drum,ETH/3L/D,59,1500,AS9648,88500,6/21/2023,East,Ethanol,2023,June,Jorhat ,Assam,small 
+6085,Ethanol 3L Drum,ETH/3L/D,175,1500,RJ4367,262500,2/1/2022,North,Ethanol,2022,February,Jaipur,Rajasthan,small 
+4632,Ethanol 3L Drum,ETH/3L/D,64,1500,KA2349,96000,1/1/2022,South,Ethanol,2022,January,Bangalore,Karnataka,large
+6595,Ethanol 1L Can,ETH/1L/C,169,200,RJ4367,33800,12/28/2023,North,Ethanol,2023,December,Jaipur,Rajasthan,small 
+6436,Ethanol 1L Can,ETH/1L/C,79,200,TN2347,15800,4/5/2020,South,Ethanol,2020,April,Chennai,Tamil Nadu,large
+5474,Propanol 1L Can,PROP/1L/C,42,1300,TL2348,54600,5/23/2024,South,Propanol,2024,May,Hyderabad,Telangana,small 
+6488,Propanol 1L Can,PROP/1L/C,22,1300,PU2675,28600,5/25/2023,North,Propanol,2023,May,Bhatinda ,Punjab,large
+7807,Propanol 1L Bottle,PROP/1L/B,68,3426,TL2348,232968,4/9/2022,South,Propanol,2022,April,Hyderabad,Telangana,small 
+4753,Ethanol 1L Bottle,ETH/1L/B,108,100,PU2675,10800,1/5/2022,North,Ethanol,2022,January,Bhatinda ,Punjab,large
+4354,Butanol 2L Bottle,BUT/2L/B,128,657,TL2348,84096,8/14/2024,South,Butanol,2024,August,Hyderabad,Telangana,small 
+6401,Propanol 1L Bottle,PROP/1L/B,143,3426,MH2345,489918,7/27/2024,West,Propanol,2024,July,Mumbai,Maharashtra,small 
+5294,Propanol 1L Can,PROP/1L/C,67,1300,AS9648,87100,1/8/2021,East,Propanol,2021,January,Jorhat ,Assam,small 
+7401,Ethanol 1L Can,ETH/1L/C,178,200,AS9648,35600,12/9/2022,East,Ethanol,2022,December,Jorhat ,Assam,small 
+5546,Butanol 2L Bottle,BUT/2L/B,33,657,WB2346,21681,4/15/2020,East,Butanol,2020,April,Kolkata,West Bengal,large
+4064,Propanol 1L Bottle,PROP/1L/B,10,3426,RJ4367,34260,1/6/2024,North,Propanol,2024,January,Jaipur,Rajasthan,small 
+5108,Propanol 1L Bottle,PROP/1L/B,93,3426,RJ4367,318618,12/23/2024,North,Propanol,2024,December,Jaipur,Rajasthan,small 
+5917,Propanol 3L Drum ,PROP/3L/D,134,1200,MH2345,160800,3/27/2023,West,Propanol,2023,March,Mumbai,Maharashtra,small 
+5776,Ethanol 1L Can,ETH/1L/C,86,200,WB2346,17200,4/18/2020,East,Ethanol,2020,April,Kolkata,West Bengal,large
+6389,Butanol 2L Bottle,BUT/2L/B,183,657,KA2349,120231,12/18/2023,South,Butanol,2023,December,Bangalore,Karnataka,large
+5742,Ethanol 1L Bottle,ETH/1L/B,37,100,TN2347,3700,9/18/2020,South,Ethanol,2020,September,Chennai,Tamil Nadu,large
+6010,Ethanol 1L Can,ETH/1L/C,154,200,MH2345,30800,7/13/2023,West,Ethanol,2023,July,Mumbai,Maharashtra,small 
+5629,Ethanol 3L Drum,ETH/3L/D,94,1500,KA2349,141000,1/13/2020,South,Ethanol,2020,January,Bangalore,Karnataka,large
+7761,Propanol 1L Can,PROP/1L/C,72,1300,WB2346,93600,12/15/2021,East,Propanol,2021,December,Kolkata,West Bengal,large
+7369,Butanol 2L Bottle,BUT/2L/B,177,657,PU2675,116289,7/26/2023,North,Butanol,2023,July,Bhatinda ,Punjab,large
+4628,Ethanol 3L Drum,ETH/3L/D,64,1500,AS9648,96000,7/9/2024,East,Ethanol,2024,July,Jorhat ,Assam,small 
+5133,Ethanol 1L Bottle,ETH/1L/B,184,100,AS9648,18400,1/19/2022,East,Ethanol,2022,January,Jorhat ,Assam,small 
+4067,Propanol 1L Bottle,PROP/1L/B,146,3426,KA2349,500196,12/4/2023,South,Propanol,2023,December,Bangalore,Karnataka,large
+4133,Propanol 1L Can,PROP/1L/C,48,1300,TL2348,62400,3/13/2020,South,Propanol,2020,March,Hyderabad,Telangana,small 
+7990,Ethanol 3L Drum,ETH/3L/D,63,1500,AS9648,94500,1/16/2021,East,Ethanol,2021,January,Jorhat ,Assam,small 
+6125,Butanol 2L Bottle,BUT/2L/B,68,657,MA2350,44676,4/6/2022,West,Butanol,2022,April,Pune,Maharashtra,small 
+5440,Ethanol 1L Bottle,ETH/1L/B,99,100,TL2348,9900,3/3/2021,South,Ethanol,2021,March,Hyderabad,Telangana,small 
+4721,Propanol 1L Bottle,PROP/1L/B,39,3426,AS9648,133614,2/16/2022,East,Propanol,2022,February,Jorhat ,Assam,small 
+6991,Ethanol 1L Can,ETH/1L/C,112,200,PU2675,22400,5/20/2024,North,Ethanol,2024,May,Bhatinda ,Punjab,large
+6723,Propanol 3L Drum ,PROP/3L/D,54,1200,PU2675,64800,2/24/2022,North,Propanol,2022,February,Bhatinda ,Punjab,large
+6673,Propanol 1L Bottle,PROP/1L/B,155,3426,TL2348,531030,1/8/2023,South,Propanol,2023,January,Hyderabad,Telangana,small 
+7384,Propanol 1L Bottle,PROP/1L/B,195,3426,AS9648,668070,3/16/2021,East,Propanol,2021,March,Jorhat ,Assam,small 
+5388,Ethanol 1L Can,ETH/1L/C,195,200,WB2346,39000,1/17/2021,East,Ethanol,2021,January,Kolkata,West Bengal,large
+7687,Propanol 1L Bottle,PROP/1L/B,93,3426,AS9648,318618,1/26/2024,East,Propanol,2024,January,Jorhat ,Assam,small 
+7535,Propanol 1L Bottle,PROP/1L/B,197,3426,AS9648,674922,7/7/2023,East,Propanol,2023,July,Jorhat ,Assam,small 
+7744,Propanol 1L Can,PROP/1L/C,153,1300,MA2350,198900,8/28/2023,West,Propanol,2023,August,Pune,Maharashtra,small 
+4547,Butanol 2L Bottle,BUT/2L/B,120,657,KA2349,78840,11/21/2020,South,Butanol,2020,November,Bangalore,Karnataka,large
+4893,Propanol 3L Drum ,PROP/3L/D,143,1200,MA2350,171600,3/14/2020,West,Propanol,2020,March,Pune,Maharashtra,small 
+6659,Propanol 1L Bottle,PROP/1L/B,39,3426,KA2349,133614,3/8/2020,South,Propanol,2020,March,Bangalore,Karnataka,large
+7291,Butanol 2L Bottle,BUT/2L/B,73,657,PU2675,47961,6/28/2023,North,Butanol,2023,June,Bhatinda ,Punjab,large
+4371,Ethanol 1L Bottle,ETH/1L/B,58,100,WB2346,5800,3/17/2021,East,Ethanol,2021,March,Kolkata,West Bengal,large
+7094,Propanol 1L Can,PROP/1L/C,105,1300,TN2347,136500,10/27/2022,South,Propanol,2022,October,Chennai,Tamil Nadu,large
+4805,Ethanol 1L Can,ETH/1L/C,134,200,PU2675,26800,8/20/2023,North,Ethanol,2023,August,Bhatinda ,Punjab,large
+7824,Propanol 1L Bottle,PROP/1L/B,20,3426,WB2346,68520,9/2/2023,East,Propanol,2023,September,Kolkata,West Bengal,large
+4942,Butanol 2L Bottle,BUT/2L/B,32,657,WB2346,21024,5/13/2023,East,Butanol,2023,May,Kolkata,West Bengal,large
+5917,Butanol 2L Bottle,BUT/2L/B,91,657,KA2349,59787,4/17/2022,South,Butanol,2022,April,Bangalore,Karnataka,large
+6983,Propanol 1L Bottle,PROP/1L/B,85,3426,MA2350,291210,4/16/2023,West,Propanol,2023,April,Pune,Maharashtra,small 
+7685,Ethanol 3L Drum,ETH/3L/D,70,1500,RJ4367,105000,12/3/2020,North,Ethanol,2020,December,Jaipur,Rajasthan,small 
+6275,Propanol 1L Bottle,PROP/1L/B,158,3426,RJ4367,541308,12/29/2023,North,Propanol,2023,December,Jaipur,Rajasthan,small 
+5982,Propanol 1L Can,PROP/1L/C,53,1300,RJ4367,68900,7/5/2024,North,Propanol,2024,July,Jaipur,Rajasthan,small 
+6966,Ethanol 3L Drum,ETH/3L/D,24,1500,RJ4367,36000,3/5/2020,North,Ethanol,2020,March,Jaipur,Rajasthan,small 
+5919,Ethanol 1L Bottle,ETH/1L/B,144,100,MA2350,14400,9/26/2022,West,Ethanol,2022,September,Pune,Maharashtra,small 
+4433,Ethanol 3L Drum,ETH/3L/D,60,1500,WB2346,90000,12/7/2024,East,Ethanol,2024,December,Kolkata,West Bengal,large
+7023,Ethanol 1L Bottle,ETH/1L/B,53,100,TL2348,5300,11/24/2022,South,Ethanol,2022,November,Hyderabad,Telangana,small 
+5309,Propanol 1L Can,PROP/1L/C,36,1300,TL2348,46800,6/20/2020,South,Propanol,2020,June,Hyderabad,Telangana,small 
+4835,Ethanol 1L Can,ETH/1L/C,131,200,MA2350,26200,6/17/2021,West,Ethanol,2021,June,Pune,Maharashtra,small 
+7037,Ethanol 1L Bottle,ETH/1L/B,22,100,MH2345,2200,8/10/2022,West,Ethanol,2022,August,Mumbai,Maharashtra,small 
+6359,Ethanol 1L Bottle,ETH/1L/B,174,100,PU2675,17400,1/29/2020,North,Ethanol,2020,January,Bhatinda ,Punjab,large
+7408,Propanol 3L Drum ,PROP/3L/D,181,1200,TL2348,217200,4/6/2024,South,Propanol,2024,April,Hyderabad,Telangana,small 
+5499,Propanol 3L Drum ,PROP/3L/D,54,1200,MH2345,64800,4/13/2024,West,Propanol,2024,April,Mumbai,Maharashtra,small 
+4958,Propanol 1L Bottle,PROP/1L/B,168,3426,MA2350,575568,12/2/2023,West,Propanol,2023,December,Pune,Maharashtra,small 
+5927,Propanol 1L Can,PROP/1L/C,145,1300,MA2350,188500,6/1/2024,West,Propanol,2024,June,Pune,Maharashtra,small 
+4689,Butanol 2L Bottle,BUT/2L/B,170,657,AS9648,111690,3/5/2023,East,Butanol,2023,March,Jorhat ,Assam,small 
+4848,Propanol 1L Bottle,PROP/1L/B,149,3426,KA2349,510474,4/14/2020,South,Propanol,2020,April,Bangalore,Karnataka,large
+5033,Propanol 3L Drum ,PROP/3L/D,196,1200,TL2348,235200,2/18/2022,South,Propanol,2022,February,Hyderabad,Telangana,small 
+7674,Propanol 1L Bottle,PROP/1L/B,111,3426,MH2345,380286,2/26/2020,West,Propanol,2020,February,Mumbai,Maharashtra,small 
+6876,Ethanol 3L Drum,ETH/3L/D,162,1500,MA2350,243000,3/14/2020,West,Ethanol,2020,March,Pune,Maharashtra,small 
+4533,Ethanol 1L Can,ETH/1L/C,155,200,PU2675,31000,9/21/2020,North,Ethanol,2020,September,Bhatinda ,Punjab,large
+6726,Ethanol 3L Drum,ETH/3L/D,31,1500,RJ4367,46500,7/15/2021,North,Ethanol,2021,July,Jaipur,Rajasthan,small 
+4459,Propanol 1L Bottle,PROP/1L/B,40,3426,WB2346,137040,1/25/2020,East,Propanol,2020,January,Kolkata,West Bengal,large
+4178,Ethanol 1L Bottle,ETH/1L/B,90,100,AS9648,9000,5/12/2022,East,Ethanol,2022,May,Jorhat ,Assam,small 
+5865,Propanol 1L Bottle,PROP/1L/B,155,3426,KA2349,531030,4/19/2022,South,Propanol,2022,April,Bangalore,Karnataka,large
+7339,Ethanol 1L Bottle,ETH/1L/B,116,100,WB2346,11600,10/19/2022,East,Ethanol,2022,October,Kolkata,West Bengal,large
+5835,Butanol 2L Bottle,BUT/2L/B,151,657,TN2347,99207,6/3/2023,South,Butanol,2023,June,Chennai,Tamil Nadu,large
+4025,Ethanol 1L Bottle,ETH/1L/B,163,100,TL2348,16300,11/12/2022,South,Ethanol,2022,November,Hyderabad,Telangana,small 
+4388,Ethanol 1L Bottle,ETH/1L/B,67,100,KA2349,6700,1/6/2022,South,Ethanol,2022,January,Bangalore,Karnataka,large
+7010,Ethanol 1L Bottle,ETH/1L/B,35,100,TN2347,3500,12/20/2022,South,Ethanol,2022,December,Chennai,Tamil Nadu,large
+6999,Propanol 3L Drum ,PROP/3L/D,95,1200,PU2675,114000,4/1/2023,North,Propanol,2023,April,Bhatinda ,Punjab,large
+4789,Ethanol 1L Can,ETH/1L/C,112,200,RJ4367,22400,7/22/2022,North,Ethanol,2022,July,Jaipur,Rajasthan,small 
+6521,Ethanol 1L Bottle,ETH/1L/B,131,100,TN2347,13100,12/25/2021,South,Ethanol,2021,December,Chennai,Tamil Nadu,large
+6083,Ethanol 1L Can,ETH/1L/C,94,200,AS9648,18800,3/19/2024,East,Ethanol,2024,March,Jorhat ,Assam,small 
+6673,Butanol 2L Bottle,BUT/2L/B,30,657,KA2349,19710,12/25/2020,South,Butanol,2020,December,Bangalore,Karnataka,large
+7144,Propanol 1L Bottle,PROP/1L/B,93,3426,MA2350,318618,3/26/2024,West,Propanol,2024,March,Pune,Maharashtra,small 
+4209,Propanol 1L Can,PROP/1L/C,111,1300,PU2675,144300,9/24/2020,North,Propanol,2020,September,Bhatinda ,Punjab,large
+6869,Ethanol 1L Can,ETH/1L/C,160,200,TN2347,32000,10/18/2022,South,Ethanol,2022,October,Chennai,Tamil Nadu,large
+4704,Propanol 1L Can,PROP/1L/C,128,1300,TL2348,166400,4/10/2021,South,Propanol,2021,April,Hyderabad,Telangana,small 
+4384,Ethanol 1L Bottle,ETH/1L/B,119,100,AS9648,11900,5/20/2024,East,Ethanol,2024,May,Jorhat ,Assam,small 
+6479,Ethanol 3L Drum,ETH/3L/D,115,1500,KA2349,172500,3/2/2023,South,Ethanol,2023,March,Bangalore,Karnataka,large
+5331,Propanol 1L Can,PROP/1L/C,98,1300,RJ4367,127400,1/9/2023,North,Propanol,2023,January,Jaipur,Rajasthan,small 
+4730,Propanol 1L Bottle,PROP/1L/B,10,3426,WB2346,34260,10/16/2023,East,Propanol,2023,October,Kolkata,West Bengal,large
+5327,Ethanol 3L Drum,ETH/3L/D,156,1500,MA2350,234000,2/5/2020,West,Ethanol,2020,February,Pune,Maharashtra,small 
+4883,Ethanol 1L Bottle,ETH/1L/B,156,100,MA2350,15600,6/20/2021,West,Ethanol,2021,June,Pune,Maharashtra,small 
+7551,Propanol 3L Drum ,PROP/3L/D,93,1200,MA2350,111600,12/1/2023,West,Propanol,2023,December,Pune,Maharashtra,small 
+4193,Propanol 3L Drum ,PROP/3L/D,41,1200,KA2349,49200,4/24/2023,South,Propanol,2023,April,Bangalore,Karnataka,large
+5510,Propanol 1L Can,PROP/1L/C,159,1300,WB2346,206700,7/29/2021,East,Propanol,2021,July,Kolkata,West Bengal,large
+6653,Propanol 3L Drum ,PROP/3L/D,31,1200,TN2347,37200,11/14/2023,South,Propanol,2023,November,Chennai,Tamil Nadu,large
+4817,Propanol 1L Bottle,PROP/1L/B,124,3426,AS9648,424824,3/28/2020,East,Propanol,2020,March,Jorhat ,Assam,small 
+6024,Propanol 3L Drum ,PROP/3L/D,191,1200,PU2675,229200,6/28/2021,North,Propanol,2021,June,Bhatinda ,Punjab,large
+5275,Butanol 2L Bottle,BUT/2L/B,180,657,TL2348,118260,2/5/2020,South,Butanol,2020,February,Hyderabad,Telangana,small 
+6324,Ethanol 1L Can,ETH/1L/C,158,200,KA2349,31600,7/12/2024,South,Ethanol,2024,July,Bangalore,Karnataka,large
+6046,Ethanol 1L Bottle,ETH/1L/B,173,100,TN2347,17300,10/3/2021,South,Ethanol,2021,October,Chennai,Tamil Nadu,large
+7413,Ethanol 1L Can,ETH/1L/C,127,200,TN2347,25400,3/7/2024,South,Ethanol,2024,March,Chennai,Tamil Nadu,large
+4984,Propanol 3L Drum ,PROP/3L/D,156,1200,PU2675,187200,12/19/2021,North,Propanol,2021,December,Bhatinda ,Punjab,large
+6735,Ethanol 1L Can,ETH/1L/C,42,200,MH2345,8400,12/6/2022,West,Ethanol,2022,December,Mumbai,Maharashtra,small 
+6287,Ethanol 1L Can,ETH/1L/C,38,200,KA2349,7600,9/22/2023,South,Ethanol,2023,September,Bangalore,Karnataka,large
+6083,Propanol 3L Drum ,PROP/3L/D,127,1200,MA2350,152400,10/18/2021,West,Propanol,2021,October,Pune,Maharashtra,small 
+4256,Ethanol 1L Can,ETH/1L/C,41,200,WB2346,8200,4/8/2020,East,Ethanol,2020,April,Kolkata,West Bengal,large
+7728,Propanol 1L Bottle,PROP/1L/B,92,3426,AS9648,315192,11/23/2023,East,Propanol,2023,November,Jorhat ,Assam,small 
+4647,Ethanol 1L Bottle,ETH/1L/B,111,100,KA2349,11100,10/27/2023,South,Ethanol,2023,October,Bangalore,Karnataka,large
+7835,Propanol 3L Drum ,PROP/3L/D,101,1200,AS9648,121200,5/21/2020,East,Propanol,2020,May,Jorhat ,Assam,small 
+6761,Ethanol 3L Drum,ETH/3L/D,56,1500,MA2350,84000,2/15/2023,West,Ethanol,2023,February,Pune,Maharashtra,small 
+7455,Propanol 1L Can,PROP/1L/C,14,1300,TL2348,18200,12/13/2023,South,Propanol,2023,December,Hyderabad,Telangana,small 
+4672,Propanol 1L Can,PROP/1L/C,97,1300,TL2348,126100,8/30/2023,South,Propanol,2023,August,Hyderabad,Telangana,small 
+6779,Ethanol 3L Drum,ETH/3L/D,155,1500,KA2349,232500,2/25/2024,South,Ethanol,2024,February,Bangalore,Karnataka,large
+7600,Ethanol 1L Can,ETH/1L/C,158,200,AS9648,31600,3/26/2021,East,Ethanol,2021,March,Jorhat ,Assam,small 
+6452,Propanol 1L Can,PROP/1L/C,153,1300,PU2675,198900,12/25/2021,North,Propanol,2021,December,Bhatinda ,Punjab,large
+7764,Propanol 1L Can,PROP/1L/C,107,1300,TL2348,139100,6/12/2024,South,Propanol,2024,June,Hyderabad,Telangana,small 
+7610,Propanol 1L Can,PROP/1L/C,185,1300,TL2348,240500,5/15/2022,South,Propanol,2022,May,Hyderabad,Telangana,small 
+6614,Propanol 1L Can,PROP/1L/C,93,1300,RJ4367,120900,5/23/2023,North,Propanol,2023,May,Jaipur,Rajasthan,small 
+4246,Propanol 1L Bottle,PROP/1L/B,156,3426,WB2346,534456,11/1/2021,East,Propanol,2021,November,Kolkata,West Bengal,large
+7805,Butanol 2L Bottle,BUT/2L/B,29,657,TL2348,19053,3/22/2022,South,Butanol,2022,March,Hyderabad,Telangana,small 
+5893,Ethanol 1L Can,ETH/1L/C,187,200,AS9648,37400,8/15/2021,East,Ethanol,2021,August,Jorhat ,Assam,small 
+5562,Ethanol 1L Bottle,ETH/1L/B,24,100,TL2348,2400,8/4/2023,South,Ethanol,2023,August,Hyderabad,Telangana,small 
+5377,Propanol 1L Can,PROP/1L/C,192,1300,KA2349,249600,12/19/2024,South,Propanol,2024,December,Bangalore,Karnataka,large
+4965,Propanol 1L Can,PROP/1L/C,162,1300,MA2350,210600,12/28/2022,West,Propanol,2022,December,Pune,Maharashtra,small 
+7167,Ethanol 1L Bottle,ETH/1L/B,123,100,PU2675,12300,10/18/2021,North,Ethanol,2021,October,Bhatinda ,Punjab,large
+5483,Propanol 1L Bottle,PROP/1L/B,73,3426,PU2675,250098,6/14/2023,North,Propanol,2023,June,Bhatinda ,Punjab,large
+4894,Ethanol 3L Drum,ETH/3L/D,184,1500,TL2348,276000,10/9/2020,South,Ethanol,2020,October,Hyderabad,Telangana,small 
+5664,Ethanol 3L Drum,ETH/3L/D,158,1500,MH2345,237000,3/7/2024,West,Ethanol,2024,March,Mumbai,Maharashtra,small 
+5170,Propanol 3L Drum ,PROP/3L/D,155,1200,TL2348,186000,1/5/2022,South,Propanol,2022,January,Hyderabad,Telangana,small 
+7105,Ethanol 1L Can,ETH/1L/C,141,200,TL2348,28200,10/29/2020,South,Ethanol,2020,October,Hyderabad,Telangana,small 
+5094,Propanol 3L Drum ,PROP/3L/D,192,1200,TN2347,230400,8/31/2024,South,Propanol,2024,August,Chennai,Tamil Nadu,large
+5982,Propanol 3L Drum ,PROP/3L/D,156,1200,TN2347,187200,8/20/2020,South,Propanol,2020,August,Chennai,Tamil Nadu,large
+5670,Propanol 1L Bottle,PROP/1L/B,174,3426,MH2345,596124,11/22/2022,West,Propanol,2022,November,Mumbai,Maharashtra,small 
+7949,Ethanol 3L Drum,ETH/3L/D,81,1500,AS9648,121500,1/3/2022,East,Ethanol,2022,January,Jorhat ,Assam,small 
+5541,Ethanol 1L Bottle,ETH/1L/B,31,100,MH2345,3100,7/22/2024,West,Ethanol,2024,July,Mumbai,Maharashtra,small 
+5164,Propanol 3L Drum ,PROP/3L/D,137,1200,RJ4367,164400,6/4/2022,North,Propanol,2022,June,Jaipur,Rajasthan,small 
+7791,Propanol 1L Bottle,PROP/1L/B,135,3426,TL2348,462510,7/7/2023,South,Propanol,2023,July,Hyderabad,Telangana,small 
+4166,Ethanol 1L Bottle,ETH/1L/B,136,100,TN2347,13600,8/30/2022,South,Ethanol,2022,August,Chennai,Tamil Nadu,large
+4752,Ethanol 1L Bottle,ETH/1L/B,88,100,TL2348,8800,10/8/2023,South,Ethanol,2023,October,Hyderabad,Telangana,small 
+5893,Ethanol 1L Can,ETH/1L/C,124,200,WB2346,24800,9/10/2023,East,Ethanol,2023,September,Kolkata,West Bengal,large
+4078,Propanol 1L Bottle,PROP/1L/B,176,3426,TN2347,602976,8/10/2022,South,Propanol,2022,August,Chennai,Tamil Nadu,large
+7138,Propanol 1L Bottle,PROP/1L/B,175,3426,KA2349,599550,4/8/2023,South,Propanol,2023,April,Bangalore,Karnataka,large
+5342,Propanol 1L Bottle,PROP/1L/B,32,3426,TL2348,109632,5/7/2020,South,Propanol,2020,May,Hyderabad,Telangana,small 
+4936,Propanol 3L Drum ,PROP/3L/D,149,1200,MH2345,178800,4/10/2021,West,Propanol,2021,April,Mumbai,Maharashtra,small 
+5037,Propanol 3L Drum ,PROP/3L/D,82,1200,MH2345,98400,9/27/2021,West,Propanol,2021,September,Mumbai,Maharashtra,small 
+5489,Propanol 1L Bottle,PROP/1L/B,74,3426,MH2345,253524,10/8/2022,West,Propanol,2022,October,Mumbai,Maharashtra,small 
+6626,Propanol 3L Drum ,PROP/3L/D,49,1200,MH2345,58800,2/19/2022,West,Propanol,2022,February,Mumbai,Maharashtra,small 
+4021,Butanol 2L Bottle,BUT/2L/B,70,657,MH2345,45990,2/24/2020,West,Butanol,2020,February,Mumbai,Maharashtra,small 
+4687,Ethanol 1L Can,ETH/1L/C,137,200,WB2346,27400,8/30/2021,East,Ethanol,2021,August,Kolkata,West Bengal,large
+4798,Ethanol 1L Can,ETH/1L/C,119,200,WB2346,23800,9/15/2023,East,Ethanol,2023,September,Kolkata,West Bengal,large
+5319,Propanol 1L Can,PROP/1L/C,182,1300,TN2347,236600,9/11/2022,South,Propanol,2022,September,Chennai,Tamil Nadu,large
+6892,Propanol 3L Drum ,PROP/3L/D,135,1200,MH2345,162000,7/4/2020,West,Propanol,2020,July,Mumbai,Maharashtra,small 
+5000,Propanol 1L Bottle,PROP/1L/B,107,3426,RJ4367,366582,12/19/2022,North,Propanol,2022,December,Jaipur,Rajasthan,small 
+4562,Ethanol 1L Can,ETH/1L/C,50,200,MH2345,10000,3/2/2020,West,Ethanol,2020,March,Mumbai,Maharashtra,small 
+4773,Propanol 1L Can,PROP/1L/C,63,1300,PU2675,81900,5/23/2022,North,Propanol,2022,May,Bhatinda ,Punjab,large
+6715,Ethanol 1L Bottle,ETH/1L/B,48,100,TL2348,4800,1/13/2024,South,Ethanol,2024,January,Hyderabad,Telangana,small 
+5964,Propanol 1L Bottle,PROP/1L/B,114,3426,MA2350,390564,6/3/2022,West,Propanol,2022,June,Pune,Maharashtra,small 
+6655,Ethanol 1L Can,ETH/1L/C,175,200,WB2346,35000,2/21/2020,East,Ethanol,2020,February,Kolkata,West Bengal,large
+4706,Propanol 1L Can,PROP/1L/C,52,1300,AS9648,67600,6/22/2023,East,Propanol,2023,June,Jorhat ,Assam,small 
+7378,Propanol 1L Bottle,PROP/1L/B,125,3426,PU2675,428250,1/21/2020,North,Propanol,2020,January,Bhatinda ,Punjab,large
+7548,Ethanol 3L Drum,ETH/3L/D,169,1500,KA2349,253500,9/12/2024,South,Ethanol,2024,September,Bangalore,Karnataka,large
+7679,Ethanol 1L Bottle,ETH/1L/B,92,100,MH2345,9200,1/2/2023,West,Ethanol,2023,January,Mumbai,Maharashtra,small 
+5210,Propanol 1L Can,PROP/1L/C,175,1300,TN2347,227500,10/18/2023,South,Propanol,2023,October,Chennai,Tamil Nadu,large
+5544,Ethanol 1L Can,ETH/1L/C,168,200,MA2350,33600,10/25/2021,West,Ethanol,2021,October,Pune,Maharashtra,small 
+4477,Ethanol 3L Drum,ETH/3L/D,136,1500,RJ4367,204000,3/9/2024,North,Ethanol,2024,March,Jaipur,Rajasthan,small 
+5292,Ethanol 1L Can,ETH/1L/C,95,200,MH2345,19000,8/1/2023,West,Ethanol,2023,August,Mumbai,Maharashtra,small 
+5671,Ethanol 3L Drum,ETH/3L/D,75,1500,TL2348,112500,2/7/2022,South,Ethanol,2022,February,Hyderabad,Telangana,small 
+4587,Ethanol 1L Can,ETH/1L/C,102,200,TN2347,20400,12/22/2024,South,Ethanol,2024,December,Chennai,Tamil Nadu,large
+6700,Propanol 3L Drum ,PROP/3L/D,72,1200,WB2346,86400,9/18/2022,East,Propanol,2022,September,Kolkata,West Bengal,large
+7461,Propanol 3L Drum ,PROP/3L/D,19,1200,RJ4367,22800,5/30/2020,North,Propanol,2020,May,Jaipur,Rajasthan,small 
+7638,Ethanol 1L Can,ETH/1L/C,166,200,WB2346,33200,6/12/2022,East,Ethanol,2022,June,Kolkata,West Bengal,large
+5068,Butanol 2L Bottle,BUT/2L/B,103,657,AS9648,67671,5/4/2024,East,Butanol,2024,May,Jorhat ,Assam,small 
+5408,Propanol 1L Bottle,PROP/1L/B,177,3426,RJ4367,606402,6/7/2021,North,Propanol,2021,June,Jaipur,Rajasthan,small 
+4524,Butanol 2L Bottle,BUT/2L/B,113,657,PU2675,74241,2/17/2024,North,Butanol,2024,February,Bhatinda ,Punjab,large
+6655,Ethanol 1L Can,ETH/1L/C,152,200,KA2349,30400,9/10/2024,South,Ethanol,2024,September,Bangalore,Karnataka,large
+5875,Butanol 2L Bottle,BUT/2L/B,184,657,PU2675,120888,4/12/2021,North,Butanol,2021,April,Bhatinda ,Punjab,large
+4858,Propanol 1L Bottle,PROP/1L/B,200,3426,MH2345,685200,4/2/2022,West,Propanol,2022,April,Mumbai,Maharashtra,small 
+5154,Propanol 3L Drum ,PROP/3L/D,122,1200,MH2345,146400,7/20/2024,West,Propanol,2024,July,Mumbai,Maharashtra,small 
+6554,Propanol 1L Can,PROP/1L/C,50,1300,RJ4367,65000,2/21/2022,North,Propanol,2022,February,Jaipur,Rajasthan,small 
+7091,Ethanol 1L Can,ETH/1L/C,126,200,MH2345,25200,11/11/2022,West,Ethanol,2022,November,Mumbai,Maharashtra,small 
+7009,Butanol 2L Bottle,BUT/2L/B,144,657,KA2349,94608,7/27/2022,South,Butanol,2022,July,Bangalore,Karnataka,large
+4334,Propanol 1L Bottle,PROP/1L/B,73,3426,KA2349,250098,3/20/2020,South,Propanol,2020,March,Bangalore,Karnataka,large
+6562,Propanol 1L Bottle,PROP/1L/B,140,3426,RJ4367,479640,12/6/2022,North,Propanol,2022,December,Jaipur,Rajasthan,small 
+7728,Ethanol 3L Drum,ETH/3L/D,137,1500,MH2345,205500,4/14/2023,West,Ethanol,2023,April,Mumbai,Maharashtra,small 
+4212,Butanol 2L Bottle,BUT/2L/B,103,657,WB2346,67671,7/8/2022,East,Butanol,2022,July,Kolkata,West Bengal,large
+4134,Ethanol 3L Drum,ETH/3L/D,69,1500,TL2348,103500,2/15/2023,South,Ethanol,2023,February,Hyderabad,Telangana,small 
+6415,Ethanol 1L Bottle,ETH/1L/B,40,100,MA2350,4000,9/24/2022,West,Ethanol,2022,September,Pune,Maharashtra,small 
+5179,Butanol 2L Bottle,BUT/2L/B,28,657,KA2349,18396,10/12/2024,South,Butanol,2024,October,Bangalore,Karnataka,large
+4090,Propanol 1L Can,PROP/1L/C,101,1300,MA2350,131300,8/23/2021,West,Propanol,2021,August,Pune,Maharashtra,small 
+7990,Ethanol 1L Bottle,ETH/1L/B,193,100,TL2348,19300,4/14/2024,South,Ethanol,2024,April,Hyderabad,Telangana,small 
+7788,Butanol 2L Bottle,BUT/2L/B,118,657,MA2350,77526,6/19/2020,West,Butanol,2020,June,Pune,Maharashtra,small 
+5007,Propanol 1L Bottle,PROP/1L/B,130,3426,KA2349,445380,12/2/2021,South,Propanol,2021,December,Bangalore,Karnataka,large
+5520,Ethanol 1L Bottle,ETH/1L/B,173,100,MA2350,17300,6/7/2020,West,Ethanol,2020,June,Pune,Maharashtra,small 
+4772,Propanol 1L Can,PROP/1L/C,104,1300,MH2345,135200,4/24/2021,West,Propanol,2021,April,Mumbai,Maharashtra,small 
+5260,Propanol 3L Drum ,PROP/3L/D,165,1200,RJ4367,198000,1/6/2024,North,Propanol,2024,January,Jaipur,Rajasthan,small 
+7999,Ethanol 1L Can,ETH/1L/C,152,200,PU2675,30400,3/21/2020,North,Ethanol,2020,March,Bhatinda ,Punjab,large
+7613,Propanol 3L Drum ,PROP/3L/D,29,1200,PU2675,34800,1/23/2020,North,Propanol,2020,January,Bhatinda ,Punjab,large
+6722,Propanol 1L Bottle,PROP/1L/B,183,3426,KA2349,626958,11/15/2024,South,Propanol,2024,November,Bangalore,Karnataka,large
+4126,Ethanol 3L Drum,ETH/3L/D,114,1500,TL2348,171000,3/13/2024,South,Ethanol,2024,March,Hyderabad,Telangana,small 
+4555,Butanol 2L Bottle,BUT/2L/B,173,657,RJ4367,113661,8/12/2024,North,Butanol,2024,August,Jaipur,Rajasthan,small 
+6196,Butanol 2L Bottle,BUT/2L/B,105,657,RJ4367,68985,5/10/2021,North,Butanol,2021,May,Jaipur,Rajasthan,small 
+6184,Butanol 2L Bottle,BUT/2L/B,16,657,TN2347,10512,1/12/2023,South,Butanol,2023,January,Chennai,Tamil Nadu,large
+4939,Propanol 1L Bottle,PROP/1L/B,188,3426,MH2345,644088,12/2/2021,West,Propanol,2021,December,Mumbai,Maharashtra,small 
+4509,Ethanol 3L Drum,ETH/3L/D,18,1500,TN2347,27000,10/10/2024,South,Ethanol,2024,October,Chennai,Tamil Nadu,large
+7468,Propanol 1L Bottle,PROP/1L/B,14,3426,KA2349,47964,4/2/2024,South,Propanol,2024,April,Bangalore,Karnataka,large
+6894,Ethanol 3L Drum,ETH/3L/D,188,1500,MH2345,282000,6/18/2020,West,Ethanol,2020,June,Mumbai,Maharashtra,small 
+4219,Ethanol 3L Drum,ETH/3L/D,57,1500,MA2350,85500,12/2/2024,West,Ethanol,2024,December,Pune,Maharashtra,small 
+5113,Propanol 1L Can,PROP/1L/C,139,1300,PU2675,180700,2/19/2023,North,Propanol,2023,February,Bhatinda ,Punjab,large
+7105,Propanol 1L Bottle,PROP/1L/B,50,3426,MA2350,171300,1/2/2020,West,Propanol,2020,January,Pune,Maharashtra,small 
+7119,Ethanol 1L Bottle,ETH/1L/B,151,100,MA2350,15100,5/1/2020,West,Ethanol,2020,May,Pune,Maharashtra,small 
+5065,Ethanol 3L Drum,ETH/3L/D,162,1500,RJ4367,243000,10/30/2022,North,Ethanol,2022,October,Jaipur,Rajasthan,small 
+7918,Ethanol 3L Drum,ETH/3L/D,106,1500,WB2346,159000,7/31/2023,East,Ethanol,2023,July,Kolkata,West Bengal,large
+5347,Butanol 2L Bottle,BUT/2L/B,73,657,KA2349,47961,8/20/2023,South,Butanol,2023,August,Bangalore,Karnataka,large
+6000,Ethanol 1L Bottle,ETH/1L/B,17,100,AS9648,1700,1/11/2024,East,Ethanol,2024,January,Jorhat ,Assam,small 
+7822,Ethanol 1L Bottle,ETH/1L/B,148,100,KA2349,14800,11/24/2021,South,Ethanol,2021,November,Bangalore,Karnataka,large
+5514,Ethanol 1L Can,ETH/1L/C,30,200,TL2348,6000,10/16/2022,South,Ethanol,2022,October,Hyderabad,Telangana,small 
+4638,Butanol 2L Bottle,BUT/2L/B,85,657,AS9648,55845,9/8/2021,East,Butanol,2021,September,Jorhat ,Assam,small 
+6483,Butanol 2L Bottle,BUT/2L/B,90,657,KA2349,59130,6/7/2024,South,Butanol,2024,June,Bangalore,Karnataka,large
+6426,Propanol 3L Drum ,PROP/3L/D,20,1200,WB2346,24000,2/2/2020,East,Propanol,2020,February,Kolkata,West Bengal,large
+6408,Propanol 3L Drum ,PROP/3L/D,46,1200,TL2348,55200,1/12/2022,South,Propanol,2022,January,Hyderabad,Telangana,small 
+7996,Butanol 2L Bottle,BUT/2L/B,105,657,TL2348,68985,11/10/2024,South,Butanol,2024,November,Hyderabad,Telangana,small 
+4197,Propanol 1L Bottle,PROP/1L/B,129,3426,MH2345,441954,3/18/2023,West,Propanol,2023,March,Mumbai,Maharashtra,small 
+5309,Ethanol 3L Drum,ETH/3L/D,93,1500,KA2349,139500,5/24/2020,South,Ethanol,2020,May,Bangalore,Karnataka,large
+5915,Butanol 2L Bottle,BUT/2L/B,13,657,KA2349,8541,8/11/2022,South,Butanol,2022,August,Bangalore,Karnataka,large
+5369,Propanol 3L Drum ,PROP/3L/D,49,1200,WB2346,58800,6/22/2024,East,Propanol,2024,June,Kolkata,West Bengal,large
+7688,Propanol 1L Can,PROP/1L/C,131,1300,TN2347,170300,1/5/2022,South,Propanol,2022,January,Chennai,Tamil Nadu,large
+4015,Propanol 1L Can,PROP/1L/C,136,1300,AS9648,176800,11/6/2021,East,Propanol,2021,November,Jorhat ,Assam,small 
+7155,Butanol 2L Bottle,BUT/2L/B,124,657,TN2347,81468,11/20/2020,South,Butanol,2020,November,Chennai,Tamil Nadu,large
+7695,Propanol 1L Can,PROP/1L/C,118,1300,MA2350,153400,5/2/2024,West,Propanol,2024,May,Pune,Maharashtra,small 
+7271,Ethanol 1L Can,ETH/1L/C,93,200,KA2349,18600,6/29/2024,South,Ethanol,2024,June,Bangalore,Karnataka,large
+7280,Ethanol 3L Drum,ETH/3L/D,23,1500,TN2347,34500,6/18/2022,South,Ethanol,2022,June,Chennai,Tamil Nadu,large
+6068,Ethanol 3L Drum,ETH/3L/D,14,1500,AS9648,21000,3/15/2024,East,Ethanol,2024,March,Jorhat ,Assam,small 
+4212,Propanol 3L Drum ,PROP/3L/D,189,1200,KA2349,226800,1/31/2023,South,Propanol,2023,January,Bangalore,Karnataka,large
+4747,Propanol 1L Can,PROP/1L/C,108,1300,PU2675,140400,10/10/2022,North,Propanol,2022,October,Bhatinda ,Punjab,large
+5664,Ethanol 1L Bottle,ETH/1L/B,122,100,AS9648,12200,11/1/2023,East,Ethanol,2023,November,Jorhat ,Assam,small 
+6656,Ethanol 3L Drum,ETH/3L/D,195,1500,MH2345,292500,5/26/2021,West,Ethanol,2021,May,Mumbai,Maharashtra,small 
+4585,Ethanol 3L Drum,ETH/3L/D,189,1500,RJ4367,283500,3/2/2023,North,Ethanol,2023,March,Jaipur,Rajasthan,small 
+4320,Ethanol 1L Bottle,ETH/1L/B,141,100,TL2348,14100,10/20/2023,South,Ethanol,2023,October,Hyderabad,Telangana,small 
+4300,Ethanol 1L Bottle,ETH/1L/B,181,100,MH2345,18100,5/20/2023,West,Ethanol,2023,May,Mumbai,Maharashtra,small 
+6242,Butanol 2L Bottle,BUT/2L/B,121,657,MA2350,79497,2/20/2021,West,Butanol,2021,February,Pune,Maharashtra,small 
+7990,Propanol 1L Bottle,PROP/1L/B,197,3426,RJ4367,674922,3/28/2024,North,Propanol,2024,March,Jaipur,Rajasthan,small 
+7966,Ethanol 1L Bottle,ETH/1L/B,55,100,MH2345,5500,8/4/2020,West,Ethanol,2020,August,Mumbai,Maharashtra,small 
+6913,Propanol 1L Can,PROP/1L/C,191,1300,RJ4367,248300,1/3/2023,North,Propanol,2023,January,Jaipur,Rajasthan,small 
+6531,Butanol 2L Bottle,BUT/2L/B,34,657,TL2348,22338,5/4/2023,South,Butanol,2023,May,Hyderabad,Telangana,small 
+4496,Propanol 1L Bottle,PROP/1L/B,141,3426,WB2346,483066,9/30/2024,East,Propanol,2024,September,Kolkata,West Bengal,large
+4948,Propanol 1L Can,PROP/1L/C,162,1300,TN2347,210600,12/9/2024,South,Propanol,2024,December,Chennai,Tamil Nadu,large
+5466,Ethanol 3L Drum,ETH/3L/D,15,1500,AS9648,22500,11/30/2023,East,Ethanol,2023,November,Jorhat ,Assam,small 
+7242,Propanol 3L Drum ,PROP/3L/D,164,1200,AS9648,196800,2/9/2022,East,Propanol,2022,February,Jorhat ,Assam,small 
+7420,Ethanol 1L Bottle,ETH/1L/B,101,100,WB2346,10100,3/20/2024,East,Ethanol,2024,March,Kolkata,West Bengal,large
+6510,Ethanol 3L Drum,ETH/3L/D,92,1500,RJ4367,138000,11/22/2024,North,Ethanol,2024,November,Jaipur,Rajasthan,small 
+6959,Ethanol 1L Bottle,ETH/1L/B,17,100,TN2347,1700,4/20/2023,South,Ethanol,2023,April,Chennai,Tamil Nadu,large
+6842,Ethanol 1L Can,ETH/1L/C,163,200,AS9648,32600,6/23/2021,East,Ethanol,2021,June,Jorhat ,Assam,small 
+5873,Ethanol 3L Drum,ETH/3L/D,180,1500,WB2346,270000,6/28/2024,East,Ethanol,2024,June,Kolkata,West Bengal,large
+7526,Propanol 1L Can,PROP/1L/C,134,1300,AS9648,174200,11/5/2020,East,Propanol,2020,November,Jorhat ,Assam,small 
+4494,Ethanol 1L Can,ETH/1L/C,188,200,WB2346,37600,2/25/2020,East,Ethanol,2020,February,Kolkata,West Bengal,large
+4994,Ethanol 1L Can,ETH/1L/C,137,200,RJ4367,27400,6/17/2024,North,Ethanol,2024,June,Jaipur,Rajasthan,small 
+6968,Ethanol 1L Bottle,ETH/1L/B,107,100,KA2349,10700,9/25/2022,South,Ethanol,2022,September,Bangalore,Karnataka,large
+4430,Ethanol 1L Can,ETH/1L/C,182,200,AS9648,36400,8/19/2023,East,Ethanol,2023,August,Jorhat ,Assam,small 
+4494,Propanol 1L Bottle,PROP/1L/B,145,3426,TL2348,496770,8/8/2024,South,Propanol,2024,August,Hyderabad,Telangana,small 
+7737,Ethanol 1L Bottle,ETH/1L/B,151,100,KA2349,15100,11/20/2020,South,Ethanol,2020,November,Bangalore,Karnataka,large
+6623,Ethanol 3L Drum,ETH/3L/D,185,1500,TN2347,277500,9/10/2024,South,Ethanol,2024,September,Chennai,Tamil Nadu,large
+7812,Ethanol 3L Drum,ETH/3L/D,43,1500,KA2349,64500,6/29/2020,South,Ethanol,2020,June,Bangalore,Karnataka,large
+5981,Propanol 1L Can,PROP/1L/C,113,1300,KA2349,146900,11/2/2022,South,Propanol,2022,November,Bangalore,Karnataka,large
+5493,Ethanol 3L Drum,ETH/3L/D,104,1500,MH2345,156000,11/27/2022,West,Ethanol,2022,November,Mumbai,Maharashtra,small 
+6912,Butanol 2L Bottle,BUT/2L/B,177,657,PU2675,116289,5/9/2020,North,Butanol,2020,May,Bhatinda ,Punjab,large
+6359,Propanol 3L Drum ,PROP/3L/D,83,1200,TL2348,99600,6/30/2021,South,Propanol,2021,June,Hyderabad,Telangana,small 
+7339,Propanol 3L Drum ,PROP/3L/D,29,1200,AS9648,34800,9/30/2022,East,Propanol,2022,September,Jorhat ,Assam,small 
+6107,Ethanol 1L Can,ETH/1L/C,83,200,WB2346,16600,2/16/2024,East,Ethanol,2024,February,Kolkata,West Bengal,large
+4023,Propanol 1L Bottle,PROP/1L/B,25,3426,AS9648,85650,11/14/2021,East,Propanol,2021,November,Jorhat ,Assam,small 
+6926,Butanol 2L Bottle,BUT/2L/B,55,657,MA2350,36135,2/22/2020,West,Butanol,2020,February,Pune,Maharashtra,small 
+7976,Propanol 1L Bottle,PROP/1L/B,121,3426,RJ4367,414546,5/1/2023,North,Propanol,2023,May,Jaipur,Rajasthan,small 
+5672,Ethanol 1L Bottle,ETH/1L/B,158,100,AS9648,15800,12/8/2022,East,Ethanol,2022,December,Jorhat ,Assam,small 
+6598,Butanol 2L Bottle,BUT/2L/B,91,657,WB2346,59787,3/9/2023,East,Butanol,2023,March,Kolkata,West Bengal,large
+6006,Propanol 1L Bottle,PROP/1L/B,159,3426,WB2346,544734,2/22/2021,East,Propanol,2021,February,Kolkata,West Bengal,large
+7642,Butanol 2L Bottle,BUT/2L/B,155,657,KA2349,101835,12/4/2023,South,Butanol,2023,December,Bangalore,Karnataka,large
+5215,Propanol 1L Can,PROP/1L/C,151,1300,RJ4367,196300,7/13/2020,North,Propanol,2020,July,Jaipur,Rajasthan,small 
+4562,Butanol 2L Bottle,BUT/2L/B,188,657,WB2346,123516,12/3/2023,East,Butanol,2023,December,Kolkata,West Bengal,large
+7049,Propanol 3L Drum ,PROP/3L/D,67,1200,AS9648,80400,2/15/2022,East,Propanol,2022,February,Jorhat ,Assam,small 
+5050,Propanol 3L Drum ,PROP/3L/D,20,1200,TN2347,24000,10/31/2021,South,Propanol,2021,October,Chennai,Tamil Nadu,large
+5787,Ethanol 3L Drum,ETH/3L/D,67,1500,PU2675,100500,7/31/2024,North,Ethanol,2024,July,Bhatinda ,Punjab,large
+6246,Ethanol 1L Can,ETH/1L/C,159,200,TN2347,31800,6/20/2021,South,Ethanol,2021,June,Chennai,Tamil Nadu,large
+7457,Ethanol 3L Drum,ETH/3L/D,177,1500,WB2346,265500,9/2/2024,East,Ethanol,2024,September,Kolkata,West Bengal,large
+5738,Ethanol 1L Can,ETH/1L/C,133,200,PU2675,26600,2/5/2024,North,Ethanol,2024,February,Bhatinda ,Punjab,large
+4776,Ethanol 1L Bottle,ETH/1L/B,140,100,AS9648,14000,12/20/2022,East,Ethanol,2022,December,Jorhat ,Assam,small 
+6322,Ethanol 1L Can,ETH/1L/C,49,200,PU2675,9800,2/18/2021,North,Ethanol,2021,February,Bhatinda ,Punjab,large
+4171,Ethanol 1L Bottle,ETH/1L/B,173,100,TL2348,17300,8/23/2021,South,Ethanol,2021,August,Hyderabad,Telangana,small 
+6699,Butanol 2L Bottle,BUT/2L/B,20,657,KA2349,13140,11/10/2024,South,Butanol,2024,November,Bangalore,Karnataka,large
+4468,Butanol 2L Bottle,BUT/2L/B,42,657,TN2347,27594,5/30/2024,South,Butanol,2024,May,Chennai,Tamil Nadu,large
+5034,Propanol 1L Bottle,PROP/1L/B,112,3426,PU2675,383712,1/7/2024,North,Propanol,2024,January,Bhatinda ,Punjab,large
+6208,Ethanol 3L Drum,ETH/3L/D,186,1500,PU2675,279000,1/6/2020,North,Ethanol,2020,January,Bhatinda ,Punjab,large
+7942,Ethanol 1L Bottle,ETH/1L/B,40,100,PU2675,4000,1/17/2022,North,Ethanol,2022,January,Bhatinda ,Punjab,large
+5583,Propanol 3L Drum ,PROP/3L/D,152,1200,AS9648,182400,1/13/2024,East,Propanol,2024,January,Jorhat ,Assam,small 
+5590,Ethanol 3L Drum,ETH/3L/D,151,1500,AS9648,226500,5/16/2024,East,Ethanol,2024,May,Jorhat ,Assam,small 
+5231,Butanol 2L Bottle,BUT/2L/B,32,657,KA2349,21024,1/19/2024,South,Butanol,2024,January,Bangalore,Karnataka,large
+6765,Butanol 2L Bottle,BUT/2L/B,33,657,MA2350,21681,9/5/2022,West,Butanol,2022,September,Pune,Maharashtra,small 
+4791,Propanol 1L Bottle,PROP/1L/B,74,3426,TN2347,253524,5/23/2023,South,Propanol,2023,May,Chennai,Tamil Nadu,large
+5487,Ethanol 1L Bottle,ETH/1L/B,177,100,WB2346,17700,1/27/2023,East,Ethanol,2023,January,Kolkata,West Bengal,large
+7987,Ethanol 3L Drum,ETH/3L/D,73,1500,KA2349,109500,9/8/2022,South,Ethanol,2022,September,Bangalore,Karnataka,large
+5819,Propanol 1L Bottle,PROP/1L/B,155,3426,KA2349,531030,11/11/2021,South,Propanol,2021,November,Bangalore,Karnataka,large
+7734,Ethanol 3L Drum,ETH/3L/D,111,1500,AS9648,166500,6/15/2021,East,Ethanol,2021,June,Jorhat ,Assam,small 
+4222,Propanol 3L Drum ,PROP/3L/D,200,1200,WB2346,240000,11/6/2021,East,Propanol,2021,November,Kolkata,West Bengal,large
+6396,Butanol 2L Bottle,BUT/2L/B,41,657,AS9648,26937,5/7/2024,East,Butanol,2024,May,Jorhat ,Assam,small 
+6298,Ethanol 1L Bottle,ETH/1L/B,133,100,MH2345,13300,11/5/2021,West,Ethanol,2021,November,Mumbai,Maharashtra,small 
+7250,Ethanol 3L Drum,ETH/3L/D,163,1500,PU2675,244500,2/24/2020,North,Ethanol,2020,February,Bhatinda ,Punjab,large
+7804,Propanol 1L Can,PROP/1L/C,102,1300,TL2348,132600,3/3/2022,South,Propanol,2022,March,Hyderabad,Telangana,small 
+4647,Butanol 2L Bottle,BUT/2L/B,79,657,KA2349,51903,2/27/2022,South,Butanol,2022,February,Bangalore,Karnataka,large
+7513,Butanol 2L Bottle,BUT/2L/B,17,657,WB2346,11169,1/22/2021,East,Butanol,2021,January,Kolkata,West Bengal,large
+4852,Ethanol 3L Drum,ETH/3L/D,143,1500,AS9648,214500,4/26/2023,East,Ethanol,2023,April,Jorhat ,Assam,small 
+4591,Ethanol 1L Bottle,ETH/1L/B,192,100,TL2348,19200,2/20/2023,South,Ethanol,2023,February,Hyderabad,Telangana,small 
+4970,Ethanol 1L Can,ETH/1L/C,59,200,MA2350,11800,6/2/2024,West,Ethanol,2024,June,Pune,Maharashtra,small 
+5351,Propanol 3L Drum ,PROP/3L/D,186,1200,TN2347,223200,9/27/2021,South,Propanol,2021,September,Chennai,Tamil Nadu,large
+7661,Ethanol 3L Drum,ETH/3L/D,182,1500,TN2347,273000,4/6/2021,South,Ethanol,2021,April,Chennai,Tamil Nadu,large
+6224,Propanol 1L Can,PROP/1L/C,70,1300,RJ4367,91000,12/8/2021,North,Propanol,2021,December,Jaipur,Rajasthan,small 
+7237,Ethanol 1L Can,ETH/1L/C,185,200,WB2346,37000,2/8/2020,East,Ethanol,2020,February,Kolkata,West Bengal,large
+6629,Propanol 1L Bottle,PROP/1L/B,52,3426,RJ4367,178152,12/30/2022,North,Propanol,2022,December,Jaipur,Rajasthan,small 
+6480,Propanol 1L Bottle,PROP/1L/B,94,3426,TN2347,322044,3/10/2022,South,Propanol,2022,March,Chennai,Tamil Nadu,large
+6704,Ethanol 1L Bottle,ETH/1L/B,19,100,TL2348,1900,2/3/2021,South,Ethanol,2021,February,Hyderabad,Telangana,small 
+6074,Butanol 2L Bottle,BUT/2L/B,19,657,AS9648,12483,3/13/2023,East,Butanol,2023,March,Jorhat ,Assam,small 
+6138,Propanol 1L Bottle,PROP/1L/B,152,3426,RJ4367,520752,4/21/2022,North,Propanol,2022,April,Jaipur,Rajasthan,small 
+6929,Propanol 1L Bottle,PROP/1L/B,102,3426,PU2675,349452,12/9/2021,North,Propanol,2021,December,Bhatinda ,Punjab,large
+6975,Propanol 3L Drum ,PROP/3L/D,24,1200,KA2349,28800,1/22/2022,South,Propanol,2022,January,Bangalore,Karnataka,large
+7599,Propanol 1L Bottle,PROP/1L/B,62,3426,WB2346,212412,6/29/2020,East,Propanol,2020,June,Kolkata,West Bengal,large
+5785,Ethanol 3L Drum,ETH/3L/D,158,1500,KA2349,237000,1/30/2022,South,Ethanol,2022,January,Bangalore,Karnataka,large
+5833,Propanol 3L Drum ,PROP/3L/D,189,1200,WB2346,226800,6/8/2024,East,Propanol,2024,June,Kolkata,West Bengal,large
+6752,Propanol 1L Bottle,PROP/1L/B,146,3426,TN2347,500196,12/30/2023,South,Propanol,2023,December,Chennai,Tamil Nadu,large
+4248,Ethanol 1L Bottle,ETH/1L/B,167,100,AS9648,16700,12/2/2021,East,Ethanol,2021,December,Jorhat ,Assam,small 
+6385,Butanol 2L Bottle,BUT/2L/B,55,657,MH2345,36135,5/29/2021,West,Butanol,2021,May,Mumbai,Maharashtra,small 
+5496,Propanol 1L Bottle,PROP/1L/B,100,3426,MH2345,342600,6/6/2021,West,Propanol,2021,June,Mumbai,Maharashtra,small 
+4406,Propanol 1L Bottle,PROP/1L/B,102,3426,RJ4367,349452,4/7/2020,North,Propanol,2020,April,Jaipur,Rajasthan,small 
+4619,Butanol 2L Bottle,BUT/2L/B,42,657,TN2347,27594,4/2/2021,South,Butanol,2021,April,Chennai,Tamil Nadu,large
+5625,Butanol 2L Bottle,BUT/2L/B,60,657,MH2345,39420,9/27/2020,West,Butanol,2020,September,Mumbai,Maharashtra,small 
+6405,Propanol 3L Drum ,PROP/3L/D,167,1200,WB2346,200400,5/20/2021,East,Propanol,2021,May,Kolkata,West Bengal,large
