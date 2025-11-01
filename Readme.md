@@ -1,8 +1,4 @@
-
----
-
-````markdown
-# 🏭 Chemical Factory Data Analyzer
+# Data Analysis AI Excel Chatbot
 
 A smart and interactive data analysis Streamlit app that allows users to explore and analyze chemical factory inventory data using natural language queries. Powered by LLMs (Gemini via OpenAI client), this tool automatically generates and executes Python code to extract insights and visualize trends from uploaded CSV files.
 
@@ -10,22 +6,23 @@ A smart and interactive data analysis Streamlit app that allows users to explore
 
 ## 🔍 Features
 
-- 📁 **Upload CSV Data**: Easily upload chemical factory inventory datasets.
-- 🧠 **LLM-Powered Query Interpretation**: Ask questions in plain English, and the app will understand, generate code, and execute it.
-- 📊 **Auto-Generated Visualizations**: Supports both matplotlib and Plotly for dynamic and interactive plots.
-- 📦 **Smart Response Agent**: Summarizes results intelligently, alerts on query mistakes, and even responds sarcastically to wrong spellings.
-- 🛠️ **Custom UI Styling**: Clean, professional, and modern UI using advanced CSS with Streamlit.
-- 📌 **Session History**: Keeps a chat-style history of all your queries and results to reduce redundant LLM calls.
+- 📁 **Upload CSV Data** – Easily upload chemical factory inventory datasets.
+
+- 🧠 **LLM-Powered Query Interpretation** – Ask questions in plain English, and the app will understand, generate code, and execute it.
+- 📊 **Auto-Generated Visualizations** – Supports both matplotlib and Plotly for dynamic and interactive plots.
+- 📦 **Smart Response Agent** – Summarizes results intelligently, alerts on query mistakes, and even responds sarcastically to wrong spellings.
+- 🛠️ **Custom UI Styling** – Clean, professional, and modern UI using advanced CSS with Streamlit.
+- 📌 **Session History** – Keeps a chat-style history of all your queries and results to reduce redundant LLM calls.
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
-- [Streamlit](https://streamlit.io/) – For building interactive web UI
-- [Pandas](https://pandas.pydata.org/) – For data manipulation
-- [Matplotlib, Seaborn, Plotly](https://matplotlib.org/) – For plotting and visualization
-- [OpenAI Python SDK](https://pypi.org/project/openai/) – For Gemini LLM API calls
-- `.env` for secure API key handling
+- [Streamlit](https://streamlit.io/) – For building interactive web UI  
+- [Pandas](https://pandas.pydata.org/) – For data manipulation  
+- [Matplotlib, Seaborn, Plotly](https://matplotlib.org/) – For plotting and visualization  
+- [OpenAI Python SDK](https://pypi.org/project/openai/) – For Gemini LLM API calls  
+- `.env` for secure API key handling  
 
 ---
 
@@ -36,13 +33,14 @@ A smart and interactive data analysis Streamlit app that allows users to explore
 ```bash
 git clone https://github.com/your-username/chemical-factory-analyzer.git
 cd chemical-factory-analyzer
-````
+```
 
 ### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ### 3. Set Up Environment Variables
 
@@ -78,13 +76,7 @@ You can try asking:
 * Handles plot generation seamlessly.
 * If query is out-of-scope, responds gracefully.
 
----
 
-## License
-
-MIT License
-
----
 
 ## Acknowledgments
 
@@ -96,14 +88,13 @@ MIT License
 
 ## 📸 Screenshot
 
-![alt text](image.png)
+![Main dashboard](Assets/image.png)
 
 
+![Chat history view](Assets/image-1.png)
 
-![alt text](image-1.png)
 
-
-![alt text](image-2.png)
+![Visualization sample](Assets/image-2.png)
 
 ---
 
