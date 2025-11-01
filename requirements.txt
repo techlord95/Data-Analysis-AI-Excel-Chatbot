@@ -1,0 +1,10 @@
+pandas 
+streamlit 
+openai 
+numpy 
+matplotlib
+groq
+python-dotenv
+google-genai
+seaborn 
+plotly
